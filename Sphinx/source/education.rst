@@ -6,7 +6,9 @@ EDUCATION AND TRAINING
 2015: Big Data on AWS Badge 
 ***************************
 
-:ref:`Big Data on AWS Badge <https://qwiklab.com/public_profiles/812b9fe0-f4a9-4592-bdc6-6362fdd3f129>`
+`Big Data on AWS Badge <https://qwiklab.com/public_profiles/812b9fe0-f4a9-4592-bdc6-6362fdd3f129>`
+
+*Certified:* May 10, 2015 *Expires:* NA
 
 **qwikLABS**
 
@@ -26,10 +28,13 @@ Learning Objectives: This quest is designed to teach you how to work with AWS se
 
 * Working with Amazon Elastic Block Store (EBS)
 
+*****************************************************
+2015: Data Scientist Associate (EMCDSA) Certification
+*****************************************************
 
-**********************************************************
-2014-2015: Data Scientist Associate (EMCDSA) Certification
-**********************************************************
+`Data Science Associate (EMCDSA) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Data%20Science%20Associate%20(EMCDSA)%20certificate.pdf>`
+
+*Certified:* March 27, 2015 *Expires:* NA
 
 **EMC**
 
@@ -101,6 +106,10 @@ Topics covered on this certification include:
 2015: Cisco Application Centric Infrastructure System Engineer
 **************************************************************
 
+`ACI ATP Systems Engineer Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/ACISE.pdf>`
+
+Certified: February 16,2015 Expires: Feb 16,2017
+
 **Cisco**
 
 * Executive Briefing on ACI
@@ -127,15 +136,198 @@ Topics covered on this certification include:
 2014: SE - Technologies 2014
 ****************************
 
+`SE - Technologies 2014 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/SE%20-%20Technologies%202014%20certificate.pdf>`
+
+*Certified:* November 25, 2014 *Expires:* NA
+
 **EMC**
 
-* Executive Briefing on ACI
+* Sales or Systems Engineer (SE) credential
 
+******************************************
+2014: VTSP - DV (Desktop Virtualization 5)
+******************************************
+
+`VTSP - DV Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-DV.pdf>`
+
+*Certified:* January 2, 2014
+
+**VMware**
+
+* Desktop Virtualization VMWare solutions Technical Sales Professional
 
 ****************************************************
 2013: EMC Velocity Affiliate Development for SE 2013
 ****************************************************
 
+`EMC Velocity Sales Accreditation: Consolidate and Backup Recovery 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Advanced%20Sales%20Accreditation-%20Consolidation%20Specialty%202.0%20certificate.pdf>`
+
+*Certified:* December 9, 2013 *Expires:* NA
+
 **EMC**
 
-* Executive Briefing on ACI
+* Sales or Systems Engineer (SE) credential
+
+****************************************************
+2013: EMC Velocity Affiliate Development for SE 2013
+****************************************************
+
+`EMC Velocity Affiliate Development for SE 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Affiliate%20Development%20for%20SE%202013%20certificate.pdf>`
+
+*Certified:* November 25, 2013 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
+
+*******************************************************
+2013: EMC Velocity Affiliate Development for Sales 2013
+*******************************************************
+
+`EMC Velocity Affiliate Development for Sales 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Affiliate%20Development%20for%20Sales%202013%20certificate.pdf>`
+
+*Certified:* November 25, 2013 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
+
+*******************************************************************
+2013: EMC Advanced Sales Accreditation: Consolidation Specialty 2.0
+*******************************************************************
+
+`EMC Advanced Sales Accreditation: Consolidation Specialty 2.0 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Sales%20Accreditation-%20Consolidate%20and%20Backup%20Recovery%202013%20certificate.pdf>`
+
+*Certified:* December 9, 2013 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
+
+***************************************
+2013: VTSP - BC (Business Continuity 5)
+***************************************
+
+`VTSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-BC%20(Business%20Continutiy%205).pdf>`
+
+*Certified:* July 11, 2013
+
+**VMware**
+
+* Business Continuity and Disaster Recovery VMWare solutions Technical Sales Professional
+
+**************************************
+2013: VSP - BC (Business Continuity 5)
+**************************************
+
+`VSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-%20BC%20(Business%20Continuity%205).pdf>`
+
+*Certified:* May 13, 2013
+
+**VMware**
+
+* Business Continuity and Disaster Recovery VMWare solutions Sales Professional
+
+****************************************************
+2013: VMware Technical Sales Professional 5 (VTSP 5)
+****************************************************
+
+`VTSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/certificate%20VTSP.pdf>`
+
+*Certified:* April 5, 2013
+
+**VMware**
+
+* VMWare solutions Technical Sales Professional
+
+*****************************************
+2013: VMware Sales Professional 5 (VSP 5)
+*****************************************
+
+`VSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP5-certificate.pdf>`
+
+*Certified:* March 15, 2013
+
+**VMware**
+
+* VMWare solutions Sales Professional
+
+**************************************************************
+2013: NetApp Accredited Storage Architect Professional (NASAP)
+**************************************************************
+
+`NASAP Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Certificado-NASAP.pdf>`
+
+*Certified:* March 15, 2013 *Expires:* March 15,2015
+
+**NetApp**
+
+*************************************************
+2013: NetApp Accredited Sales Professional (NASP)
+*************************************************
+
+`NASP Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Certificado-NASP.pdf>`
+
+*Certified:* March 8, 2013 *Expires:* March 8,2015
+
+**NetApp**
+
+**************************************
+2005-2006: Diplome of Advanced Studies
+**************************************
+
+October, 2005 - July, 2006
+
+**Depto. Matemática Aplicada a las Tecnologías de la Información, ETSIT, UPM**
+
+* Applied Mathematics
+
+*****************************************************************
+2003: Certified Information Systems Security Professional (CISSP)
+*****************************************************************
+
+*Certified:* July, 2003
+
+**International Information Systems Security Certification Consortium, Inc. ISC2**
+
+* Access Control.
+
+* Telecommunications and Network Security.
+
+* Information Security Governance and Risk Management.
+
+* Software Development Security.
+
+* Cryptography.
+
+* Security Architecture and Design.
+
+* Operations Security.
+
+* Business Continuity and Disaster Recovery Planning.
+
+* Legal, Regulations, Investigations and Compliance.
+
+* Physical (Environmental) Security.
+
+********************************************************
+2002: Check Point Certified Security Expert NG (CCSE NG)
+********************************************************
+
+**Check Point**
+
+**************************************************************
+1992-1998: Master of Science in Telecommunications Engineering
+**************************************************************
+
+**Universidad Politécnica de Madrid (UPM)**
+
+* Telecommunications Engineering
+
+* Computer Sciences
+
+* Mathematics
+
+* Signal Processing
+
+* Management
