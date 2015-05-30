@@ -114,3 +114,13 @@ Test, debug and document software developed both internally and externally.
 * Carry out maintenance and support of assigned systems.
 
 * Plan how work is to be carried out to meet targets of the project or team task.
+
+***************************************
+May 1998 - May 1999: Scholarship holder
+***************************************
+
+**Telefonica Research and Development**
+
+Distrito Telefónica, Edificio Oeste 1, Ronda de la Comunicación s/n, 28050 Madrid (Spain)
+
+* Participate in the deployment of a Telefónica infrastructure called InfoVía Plus.
