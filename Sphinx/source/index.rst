@@ -2,6 +2,8 @@
 Curriculum Vitae
 ################
 
+.. title:: Curriculum Vitae
+
 .. _toc: 
 
 

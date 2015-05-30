@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Resume Book documentation build configuration file, created by
+# Curriculum Vitae build configuration file, created by
 # sphinx-quickstart on Wed Feb 11 15:46:49 2015.
 #
 # This file is execfile()d with the current directory set to its
@@ -185,7 +185,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'ResumeBookdoc'
+htmlhelp_basename = 'CurriculumVitaedoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -206,7 +206,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index',
-   'ResumeBook.tex',
+   'CurriculumVitae.tex',
    u'Curriculum Vitae',
    u'Jose Antonio Alvarez Cubero',
    'howto'),
@@ -252,8 +252,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'ResumeBook', u'Curriculum Vitae',
-   u'Jose Antonio Alvarez Cubero', 'ResumeBook', 'One line description of project.',
+  ('index', 'CurriculumVitae', u'Curriculum Vitae',
+   u'Jose Antonio Alvarez Cubero', 'CurriculumVitae', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -360,8 +360,8 @@ intersphinx_mapping = {'http://docs.python.org/': None}
 # regardless of the global pdf_compressed setting.
 
 pdf_documents = [
- ('index', u'ResumeBook',
- 'Resume: Jose Antonio Alvarez Cubero',
+ ('index', u'CurriculumVitae',
+ 'Curriculum Vitae: Jose Antonio Alvarez Cubero',
  u'Jose Antonio Alvarez Cubero'),
 ]
 
