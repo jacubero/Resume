@@ -1,6 +1,6 @@
-################
-Curriculum Vitae
-################
+#############################################
+Curriculum Vitae: Jose Antonio Alvarez Cubero
+#############################################
 
 .. title:: Curriculum Vitae
 
