@@ -144,6 +144,86 @@ Certified: February 16,2015 Expires: Feb 16,2017
 
 * Sales or Systems Engineer (SE) credential
 
+********************************************
+2014: CA Deep Dive Partner Training: Nimsoft
+********************************************
+
+*Dates:* September 15, 2014 - September 19, 2014
+
+**CA Technologies, London, UK**
+
+* Learn from CA Subject Matter Experts (SMEs) how to position, demo, and present POCs. By successfully completing  this training, you meet CA Partner Technical Sales validation requirements.
+
+* The week focuses on the Technical Breakouts that contain “hands-on” technical labs with practical exercises and exclusive access to the experts. Plus a half day of Sales Positioning and Strategy from members of our Executive Team.
+
+***********************
+2014: Middle management
+***********************
+
+*Dates:* March 12, 2014 - March 13, 2014
+
+**Tea-Cegos S.A., Madrid, Spain**
+
+* Manage your time and your team's time.
+
+* Delegation as a management tool.
+
+* Manage with emotional intelligence.
+
+* Create a team: group functioning
+
+*******************************
+2014: Introduction to Databases
+*******************************
+
+`Introduction to Databases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CertificateBBDD.pdf>`
+
+*Dates:* January 7, 2014 - March 22, 2014
+
+**Stanford University at OpenEdX**
+
+This course covers database design and the use of database management systems for applications. It includes extensive coverage of the relational model, relational algebra, and SQL. It also covers XML data including DTDs and XML Schema for validation, and the query and transformation languages XPath, XQuery, and XSLT. The course includes database design in UML, and relational design principles based on dependencies and normal forms. Many additional key database topics from the design and application-building perspective are also covered: indexes, views, transactions, authorization, integrity constraints, triggers, on-line analytical processing (OLAP), JSON, and emerging "NoSQL" systems.
+
+*******************************************
+2014: Introduction to Mathematical Thinking
+*******************************************
+
+`Introduction to Databases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CertificateBBDD.pdf>`
+
+*Dates:* January 1, 2014 - February 3, 2014
+
+**Stanford University at Coursera**
+
+* Getting precise about language
+
+  * Mathematical statements
+
+  * The logical combinators and, or, and not
+
+  * Implication
+
+  * Quantifiers
+
+* Proofs
+
+  * Proof by contradiction
+
+  * Proving conditionals
+
+  * Proving quantified statements
+
+  * Induction proofs
+
+* Proving results about numbers
+
+  * The integers
+
+  * The real numbers
+
+  * Completeness
+
+  * Sequences
+ 
 ******************************************
 2014: VTSP - DV (Desktop Virtualization 5)
 ******************************************
@@ -155,6 +235,18 @@ Certified: February 16,2015 Expires: Feb 16,2017
 **VMware**
 
 * Desktop Virtualization VMWare solutions Technical Sales Professional
+
+*********************************************
+2013-2014: Bioinformatics Algorithms (Part 1)
+*********************************************
+
+`EMC Velocity Sales Accreditation: Consolidate and Backup Recovery 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Advanced%20Sales%20Accreditation-%20Consolidation%20Specialty%202.0%20certificate.pdf>`
+
+*Certified:* December 9, 2013 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
 
 ****************************************************
 2013: EMC Velocity Affiliate Development for SE 2013
