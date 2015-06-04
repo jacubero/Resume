@@ -25,3 +25,10 @@ Publications
 .. [AlvarezZ:99] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 1999. `A novel algorithm for number factorization <http://dx.doi.org/10.1109/CCST.1999.797934>`_. In Security Technology, 1999. Proceedings. IEEE 33rd Annual 1999 International Carnahan Conference on, pages 339-344.
 
 .. [AlvarezZ:98] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 1998. Neural artificial vision system for estimating the position of a mobile robot in a unstrustrurated environments. In International Congress Engineering Applications In Neural Networks (EANN'98), pages 66-69. 
+
+************
+Competitions
+************
+
+* Qualify for the Round 2 Texata Big Data World Championship 2014
+
