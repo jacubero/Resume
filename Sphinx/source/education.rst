@@ -162,18 +162,18 @@ Topics covered on this certification include:
 2014: Introduction to Databases
 ===============================
 
-`Introduction to Databases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CertificateBBDD.pdf>`_
+Grade Achieved: 90.0% `Introduction to Databases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CertificateBBDD.pdf>`_
 
 *Dates:* January 7, 2014 - March 22, 2014
 
-**Stanford University at OpenEdX**
+**Stanford University at Standford Online**
 
 This course covers database design and the use of database management systems for applications. It includes extensive coverage of the relational model, relational algebra, and SQL. It also covers XML data including DTDs and XML Schema for validation, and the query and transformation languages XPath, XQuery, and XSLT. The course includes database design in UML, and relational design principles based on dependencies and normal forms. Many additional key database topics from the design and application-building perspective are also covered: indexes, views, transactions, authorization, integrity constraints, triggers, on-line analytical processing (OLAP), JSON, and emerging "NoSQL" systems.
 
 2013-2014: Machine Learning
 ===========================
 
-`Machine Learning Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20ml%202014.pdf>`_
+Grade Achieved: 100.0% `Machine Learning Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20ml%202014.pdf>`_
 
 *Dates:* October 28, 2013 - January 5, 2014
 
@@ -184,7 +184,7 @@ This course provides a broad introduction to machine learning, datamining, and s
 2013: Computing for Data Analysis
 =================================
 
-`Computing for Data Analysis Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20compdata%202014.pdf>`_
+Grade Achieved: 100.0% with Distinction `Computing for Data Analysis Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20compdata%202014.pdf>`_
 
 *Dates:* September 23, 2013 - October 21, 2013
 
@@ -195,7 +195,7 @@ This course is about learning the fundamental computing skills necessary for eff
 2013: Introduction to Data Science
 ==================================
 
-`Introduction to Data Science Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Introduction%20to%20Data%20Science.pdf>`_
+Grade Achieved: 95.7% with Distinction `Introduction to Data Science Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Introduction%20to%20Data%20Science.pdf>`_
 
 *Dates:* May 1, 2013 - June 30, 2013
 
@@ -206,7 +206,7 @@ This course helps to develop the skills required for data analytics at massive l
 2013: Web Intelligence and Big Data
 ===================================
 
-`Web Intelligence and Big Data Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Web%20Intelligence%20and%20Big%20Data.pdf>`_
+Grade Achieved: 94.4% with Distinction `Web Intelligence and Big Data Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Web%20Intelligence%20and%20Big%20Data.pdf>`_
 
 *Dates:* March 24, 2013 - June 6, 2013
 
@@ -400,7 +400,7 @@ Bioinformatics
 2014: Epidemics - the Dynamics of Infectious Diseases
 =====================================================
 
-`Epidemics - the Dynamics of Infectious Diseases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20epidemics%202014.pdf>`_
+Grade Achieved: 100.0% with Distinction `Epidemics - the Dynamics of Infectious Diseases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20epidemics%202014.pdf>`_
 
 *Dates:* September 29, 2014 - December 1, 2014
 
@@ -423,7 +423,7 @@ We covered various broad topics, including:
 2013-2014: Bioinformatics Algorithms (Part 1)
 =============================================
 
-`Bioinformatics Algorithms (Part 1) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Bioinformatics%202014.pdf>`_
+Grade Achieved: 100.0% with Distinction `Bioinformatics Algorithms (Part 1) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Bioinformatics%202014.pdf>`_
 
 *Dates:* November 4, 2013 - January 27, 2014
 
@@ -715,7 +715,7 @@ Mathematics
 2014: LAFF: Linear Algebra - Foundations to Frontiers
 =====================================================
 
-`LAFF: Linear Algebra - Foundations to Frontiers Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/LAFF.pdf>`_
+Grade Achieved: 100.0% `LAFF: Linear Algebra - Foundations to Frontiers Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/LAFF.pdf>`_
 
 *Dates:* January 29, 2014 - June 3, 2014
 
@@ -738,7 +738,7 @@ Mathematics
 2014: Introduction to Mathematical Thinking
 ===========================================
 
-`Introduction to Mathematical Thinking Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Introduction%20to%20Mathematical%20Thinking.pdf>`_
+Grade Achieved: 92.0% with Distinction `Introduction to Mathematical Thinking Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Introduction%20to%20Mathematical%20Thinking.pdf>`_
 
 *Dates:* January 1, 2014 - February 3, 2014
 
@@ -777,7 +777,7 @@ Mathematics
 2013: Coding the Matrix: Linear Algebra through Computer Science Applications
 =============================================================================
 
-`Coding the Matrix Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20matrix%202014.pdf>`_
+Grade Achieved: 100.0% with Distinction `Coding the Matrix Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20matrix%202014.pdf>`_
 
 *Dates:* July 1, 2013 - September 8, 2013
 
