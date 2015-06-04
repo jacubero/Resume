@@ -109,7 +109,8 @@ Av del Llano Castellano 13, 28034 Madrid (Spain)
 * Design, develop and implement business applications / systems for the clients.
 
 * Produce system and user documentation during the development of systems.
-Test, debug and document software developed both internally and externally.
+
+* Test, debug and document software developed both internally and externally.
 
 * Carry out maintenance and support of assigned systems.
 

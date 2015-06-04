@@ -43,6 +43,24 @@ Design of telecommunication infrastructures
 Data Science 
 ************
 
+2015: Data Lakes for Big Data
+=============================
+
+*Dates:* May 11, 2015- June 8, 2015
+
+**EMC**
+
+This course covers the following topics:
+
+* What is Big Data and Data Science?
+
+* What's the Value of Big Data and Big Data Analytics?
+
+* What is the Federation Business Data Lake?
+
+* How is the Data Lake solution operationalized?
+
+
 2015: Big Data on AWS Badge
 ===========================
 
@@ -397,7 +415,8 @@ We covered various broad topics, including:
 * Emergence of diseases: The basic reproductive number, critical community size, epidemic curve, zoonoses, spill over, human / wildlife interface, climate change, hot zones, pathology
 
 * Spread of diseases: transmission types (droplets, vectors, sex), superspreading, diffusion, social networks, nosomical transmission, manipulation of behavior
-Control of diseases: drug resistance, vaccination, herd immunity, quarantines, antibiotics, antivirals, health communication, ethical challenges of disease control
+
+* Control of diseases: drug resistance, vaccination, herd immunity, quarantines, antibiotics, antivirals, health communication, ethical challenges of disease control
 
 * The future of infectious diseases: Evolution of virulence, emergence of drug resistance, eradication of diseases, medicine & evolution, crop diseases & food security, digital epidemiology
 
@@ -469,6 +488,25 @@ March 31, 2008 - April 2, 2008
 ********
 Business
 ********
+
+2015: Sales Expert
+==================
+
+*Dates:* May 11, 2015- May 12, 2015
+
+**Morendi Training & Coaching, Spain**
+
+* Main elements in effective communication
+
+* Identify behavioral factors
+
+* Identify the elements that contribute to a better connection with our partner
+
+* How can we connect better with the decision-making process of our client?
+
+* Techniques for solving objections
+
+* Techniques for customer's needs detection
 
 2014: Middle management
 =======================
