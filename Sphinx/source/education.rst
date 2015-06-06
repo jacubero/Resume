@@ -2,9 +2,9 @@
 EDUCATION AND TRAINING
 ######################
 
-******
-Degree
-******
+*********
+Education
+*********
 
 2005-2006: Diplome of Advanced Studies
 ======================================
@@ -12,10 +12,13 @@ Degree
 October, 2005 - July, 2006
 
 .. image:: /images/etsitandupm.gif
-   :width: 750 px
-   :align: center
+   :width: 150 px
+   :align: left
 
 **Depto. Matemática Aplicada a las Tecnologías de la Información, ETSIT, UPM**
+
+|
+|
 
 * Applied Mathematics
 
@@ -25,21 +28,27 @@ October, 2005 - July, 2006
 *Dates:* May 4, 2000
 
 .. image:: /images/coit.jpg
-   :width: 750 px
-   :align: center
+   :width: 150 px
+   :align: left
 
 **Colegio Oficial de Ingenieros de Telecomunicación (COIT), Madrid, Spain**
 
-Design of telecommunication infrastructures
+|
+| 
+
+* Design of telecommunication infrastructures
 
 1992-1998: Master of Science in Telecommunications Engineering
 ==============================================================
 
 .. image:: /images/etsitandupm.gif
-   :width: 750 px
-   :align: center
+   :width: 150 px
+   :align: left
 
 **ETSIT, Universidad Politécnica de Madrid (UPM)**
+
+|
+|
 
 * Telecommunications Engineering
 
