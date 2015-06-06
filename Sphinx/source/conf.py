@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Curriculum Vitae build configuration file, created by
+# Personal Page build configuration file, created by
 # sphinx-quickstart on Wed Feb 11 15:46:49 2015.
 #
 # This file is execfile()d with the current directory set to its
@@ -50,7 +50,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Curriculum Vitae'
+project = u'Personal Page'
 copyright = u'2015, Jose Antonio Alvarez Cubero'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -185,7 +185,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'CurriculumVitaedoc'
+htmlhelp_basename = 'PersonalPagedoc'
 
 
 # -- Options for LaTeX output ---------------------------------------------
@@ -206,8 +206,8 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index',
-   'CurriculumVitae.tex',
-   u'Curriculum Vitae',
+   'PersonalPage.tex',
+   u'Personal Page',
    u'Jose Antonio Alvarez Cubero',
    'howto'),
 ]
@@ -238,7 +238,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'resumebook', u'Curriculum Vitae',
+    ('index', 'resumebook', u'Personal Page',
      [u'Jose Antonio Alvarez Cubero'], 1)
 ]
 
@@ -252,8 +252,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'CurriculumVitae', u'Curriculum Vitae',
-   u'Jose Antonio Alvarez Cubero', 'CurriculumVitae', 'One line description of project.',
+  ('index', 'PersonalPage', u'Personal Page',
+   u'Jose Antonio Alvarez Cubero', 'PersonalPage', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -273,13 +273,13 @@ texinfo_documents = [
 # -- Options for Epub output ----------------------------------------------
 
 # Bibliographic Dublin Core info.
-epub_title = u'Curriculum Vitae'
+epub_title = u'Personal Page'
 epub_author = u'Jose Antonio Alvarez Cubero'
 pub_publisher = u'Jose Antonio Alvarez Cubero'
 epub_copyright = u'2015, Jose Antonio Alvarez Cubero'
 
 # The basename for the epub file. It defaults to the project name.
-#epub_basename = u'Curriculum Vitae'
+#epub_basename = u'Personal Page'
 
 # The HTML theme for the epub output. Since the default themes are not optimized
 # for small screen space, using the same theme for HTML and epub output is
@@ -360,8 +360,8 @@ intersphinx_mapping = {'http://docs.python.org/': None}
 # regardless of the global pdf_compressed setting.
 
 pdf_documents = [
- ('index', u'CurriculumVitae',
- 'Curriculum Vitae: Jose Antonio Alvarez Cubero',
+ ('index', u'PersonalPage',
+ 'Personal Page: Jose Antonio Alvarez Cubero',
  u'Jose Antonio Alvarez Cubero'),
 ]
 
