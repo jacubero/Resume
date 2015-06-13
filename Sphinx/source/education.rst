@@ -67,6 +67,8 @@ Data Science
 2015: Data Lakes for Big Data
 =============================
 
+Grade Achieved: 100.0% `Data Lakes for Big Data Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/DataLakes.pdf>`_
+
 *Dates:* May 11, 2015- June 8, 2015
 
 **EMC**
