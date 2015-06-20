@@ -531,6 +531,12 @@ Business
 
 * Techniques for customer's needs detection
 
+* Techniques for opening a conversation in a professional manner
+
+* Techniques for argumentation
+
+* Techniques for closing a sales conversation
+
 2014: Middle management
 =======================
 
