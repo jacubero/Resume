@@ -83,7 +83,6 @@ This course covers the following topics:
 
 * How is the Data Lake solution operationalized?
 
-
 2015: Big Data on AWS Badge
 ===========================
 
@@ -263,6 +262,137 @@ This course is about building 'web-intelligence' applications exploiting big dat
 ***************************
 Software Defined Datacenter
 ***************************
+
+2015: Software Defined Networking
+=================================
+
+*Dates:* November 19, 2015 - November 20, 2015
+
+**Elium Tech**
+
+* Why SDN?
+
+* SDN overview
+
+* Drivers to adopt SDN
+
+* Objections to SDN
+
+* Competitive analysis between ACI and NSX
+
+2015: VMware Technical Sales Professional - Network Virtualization 1.0
+======================================================================
+
+`VTSP Network Virtualization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-NV-1.pdf>`_
+
+Certified: November 12,2015
+
+**VMWare**
+
+The VMware Technical Sales Professional for Network Virtualization (VTSP – NV) training course provides you with a fundamental understanding of virtual networking and VMware NSX, including the business challenges these products are intended to solve. There are four modules in this course.
+
+* Define data center networking and discuss the challenges encountered without network virtualization.
+
+* Describe the VMware NSX Virtualization Platform and how its features and components benefit the data center. 
+
+* Identify real life use cases where NSX can either solve or enhance current data center network operations and/or limitations.
+
+* Respond to any technical challenges due to diverse environments and emerging products.
+
+2015: VMware Sales Professional - Network Virtualization 1.0
+============================================================
+
+`VSP Network Virtualization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-NV-1.pdf>`_
+
+Certified: October 29,2015
+
+**VMWare**
+
+The VMware Sales Professional for Network Virtualization (VSP – NV) training course introduces you to VMware NSX, the network virtualization and security platform for the Software-Defined Data Center (SDDC). NSX brings virtualization to your existing network and transforms network operations and economics. The goal of the VSP-NV sales training course is to enable partners to sell the SDDC with network virtualization to their customers.
+
+Upon completing the VSP–NV sales training, partners are able to:
+
+* Understand the SDDC and its transformative role
+
+* Understand network virtualization and its benefits to customers
+
+* Understand micro-segmentation as ‘The Killer Application’ in customer environments
+
+* Identify the business issues customers face with their networks and security
+
+* Qualify opportunities for selling the SDDC with network virtualization
+
+* Understand the pricing and packaging for VMware NSX
+
+2015: Deploying Red Hat Enterprise Linux OpenStack Platform
+===========================================================
+
+*Dates:* October 15, 2015 - October 16, 2015
+
+**Firefly**
+
+* Describe data center trends that have led to current day cloud delivery models
+
+* Provide an overview of OpenStack including components and fundamentals of operation
+
+* Provide an overview of Red Hat Enterprise Linux OpenStack
+
+* Describe the Cisco UCS B, C, M Series, and Cisco UCS Mini
+
+* Provide a detailed description of Cisco UCS core network connectivity
+
+* Describe Cisco UCS stateless computing
+
+* Describe Cisco UCS integrated infrastructure with Red Hat Enterprise Linux OpenStack
+
+2015: Automating the Modern Data Center: Nexus 9k
+=================================================
+
+*Dates:* September 30, 2015
+
+**OneCloud Consulting**
+
+* Introduction
+
+  * Today’s Business Challenges and the Need for Change
+
+* DevOps
+
+  * Overview
+
+  * Tools for Network Engineers
+
+  * Terminology for Network Engineers
+
+* Nexus 3K/9K On-box Programmability
+
+  * Embedded Event Manager
+
+  * Scheduler
+
+  * Bash
+
+  * vi Editor
+
+* Nexus 3K/9K Off-box Programmability
+
+  * NX-API
+
+* Nexus 3K/9K Linux Containers
+
+  * Guest Shell
+
+  * LXC
+
+* Nexus 3K/9K Configuration Management and Automation
+
+  * Chef
+
+  * Puppet
+
+  * Ansible
+
+* Conclusion
 
 2015: Cisco Application Centric Infrastructure System Engineer
 ==============================================================
@@ -515,7 +645,7 @@ Business
 2015: Sales Expert
 ==================
 
-*Dates:* May 11, 2015- May 12, 2015
+*Dates:* May 11-12 2015, June 15-16 2015, October 21-22 2015
 
 **Morendi Training & Coaching, Spain**
 
@@ -536,6 +666,8 @@ Business
 * Techniques for argumentation
 
 * Techniques for closing a sales conversation
+
+* Techniques for selling the price
 
 2014: Middle management
 =======================
