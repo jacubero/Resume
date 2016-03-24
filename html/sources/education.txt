@@ -285,12 +285,25 @@ This course is about building 'web-intelligence' applications exploiting big dat
 Software Defined Datacenter
 ***************************
 
+2016: Cisco Live Berlin
+=======================
+
+*Dates:* February 15, 2016 - February 19, 2015
+
+**Cisco Systems Inc., Berlin, Germany**
+
+* Immerse yourself in five days of business and technical sessions, keynotes, panel discussions, and specialty programs on topics such as Cloud, Data Center, Networks, Service Provider, SDN, and Software Development.
+
+* Learn from Cisco Distinguished Engineers, CCIEs, and some of the world's top technology experts in our breakout sessions and additional training.
+
+* Get hands-on in the DevNet Zone.
+
 2015: Software Defined Networking
 =================================
 
 *Dates:* November 19, 2015 - November 20, 2015
 
-**Elium Tech**
+**Elium Tech, Madrid, Spain**
 
 * Why SDN?
 
@@ -351,7 +364,7 @@ Upon completing the VSP–NV sales training, partners are able to:
 
 *Dates:* October 15, 2015 - October 16, 2015
 
-**Firefly**
+**Firefly, Madrid, Spain**
 
 * Describe data center trends that have led to current day cloud delivery models
 
@@ -372,7 +385,7 @@ Upon completing the VSP–NV sales training, partners are able to:
 
 *Dates:* September 30, 2015
 
-**OneCloud Consulting**
+**OneCloud Consulting, Madrid, Spain**
 
 * Introduction
 
@@ -423,7 +436,7 @@ Upon completing the VSP–NV sales training, partners are able to:
 
 Certified: February 16,2015 Expires: Feb 16,2017
 
-**Cisco**
+**Cisco Systems Inc., Madrid, Spain**
 
 * Executive Briefing on ACI
 
@@ -450,7 +463,7 @@ Certified: February 16,2015 Expires: Feb 16,2017
 
 *Dates:* September 18, 2013 - September 19, 2013
 
-**Cisco**
+**Cisco Systems Inc., Madrid, Spain**
 
 It is an instructor led, hands-on course that enables participants understand the different features of UCS Director software along with the capability to install and configure UCS Director software for demos and POCs. Participants will be able to speak authentically about the product and apply the software features to different customer use cases. In addition, participants will understand functionality around some advanced features such as bare metal provisioning, Amazon EC2 integration, UCS Director API Integration, Orchestration etc. The participants of this course will gain following benefits:
 
@@ -467,7 +480,7 @@ It is an instructor led, hands-on course that enables participants understand th
 
 December 14, 2009 - December 18, 2009
 
-**Cisco Systems, London, United Kingdom**
+**Cisco Systems Inc., London, United Kingdom**
 
 * Learn how to configure and manage UCS servers with consolidated I/O networking for LAN and SAN connectivity.
 
