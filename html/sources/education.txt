@@ -6,8 +6,8 @@ EDUCATION AND TRAINING
 Education
 *********
 
-2015: PhD in Telecommunications Engineering
-===========================================
+2015: Ph.D. in Telecommunications Engineering
+=============================================
 
 December, 2015
 *Thesis Title:* Vector Boolean Functions: Applications in Symmetric Cryptography
@@ -81,6 +81,304 @@ October, 2005 - July, 2006
 * Signal Processing
 
 * Management
+
+***************************
+Software Defined Datacenter
+***************************
+
+Using Contrail with OpenStack
+=============================
+
+*Dates:* April 26, 2016 - April 27, 2016
+
+**SDN Essentials, Madrid, Spain**
+
+* Introduction
+
+* Contrail Overview
+  * SDN Principals & Functionality
+  * The Four Planes of Networking Software
+  * The Functions of Orchestration
+  * Basic Components of Contrail
+
+* Architecture & Installation
+  * Components of OpenStack
+  * Interaction between Contrail and OpenStack
+  * Installation Using Server Manager
+
+* Basic Configuration
+  * How a Tenant is Created
+  * How to Create and Manage Virtual Networks
+  * How to Manage Network Policies
+
+* Service Chaining
+  * Service Chaining within Contrail
+  * Configure Service Chains
+
+* Contrail Analytics
+  * The Monitor Workspace
+  * Analyze Live Traffic Using Service Instances
+  * Run Flow Queries and Examine System Logs
+
+* Troubleshooting
+  * Using Contrail CLI Commands
+  * Using Fabric Scripts
+  * Using OpenStack Commands
+
+SDN for Network Engineers
+=========================
+
+*Dates:* April 5, 2016 - April 6, 2016
+
+**SDN Essentials, Madrid, Spain**
+
+* Introduction to SDN Technologies
+  * NFV Framework
+  * OpenSwitch
+  * Overlay vs Underlay
+  * VXLAN, NVGRE and other overlay technologies
+
+* OpenFlow Tutorial
+  * SDN Controller
+  * OpenFlow
+
+* Applications
+  * Types
+  * Reactive
+  * Proactive
+  * Blacklist DNS and IP
+  * NAC Securing the Edge
+
+* SDN Survey
+  * SDN Camps
+  * Evolution
+  * Vendors
+  * Startups
+
+* Case Studies
+  * Google WAN
+  * NTT Federated Controllers
+  * Stanford University Campus
+
+* Use-Cases
+  * Role of SDN in the Data Center
+  * SDN in the WAN
+  * SDN in the Campus Environment
+  * SDN in Transport Networks
+
+* Migration Strategies
+  * Migration Framework
+  * Migration Approaches
+  * Devices and Deployments
+  * Initial Considerations
+  * Implications
+
+* Troubleshooting
+
+* Futures and Rebuttals
+  * SDN Criticisms
+  * Futures
+
+2016: Cisco Live Berlin
+=======================
+
+*Dates:* February 15, 2016 - February 19, 2016
+
+**Cisco Systems Inc., Berlin, Germany**
+
+* Immerse yourself in five days of business and technical sessions, keynotes, panel discussions, and specialty programs on topics such as Cloud, Data Center, Networks, Service Provider, SDN, and Software Development.
+
+* Learn from Cisco Distinguished Engineers, CCIEs, and some of the world's top technology experts in our breakout sessions and additional training.
+
+* Get hands-on in the DevNet Zone.
+
+2015: Software Defined Networking
+=================================
+
+*Dates:* November 19, 2015 - November 20, 2015
+
+**Elium Tech, Madrid, Spain**
+
+* Why SDN?
+
+* SDN overview
+
+* Drivers to adopt SDN
+
+* Objections to SDN
+
+* Competitive analysis between ACI and NSX
+
+2015: VMware Technical Sales Professional - Network Virtualization 1.0
+======================================================================
+
+`VTSP Network Virtualization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-NV-1.pdf>`_
+
+Certified: November 12,2015
+
+**VMWare**
+
+The VMware Technical Sales Professional for Network Virtualization (VTSP – NV) training course provides you with a fundamental understanding of virtual networking and VMware NSX, including the business challenges these products are intended to solve. There are four modules in this course.
+
+* Define data center networking and discuss the challenges encountered without network virtualization.
+
+* Describe the VMware NSX Virtualization Platform and how its features and components benefit the data center. 
+
+* Identify real life use cases where NSX can either solve or enhance current data center network operations and/or limitations.
+
+* Respond to any technical challenges due to diverse environments and emerging products.
+
+2015: VMware Sales Professional - Network Virtualization 1.0
+============================================================
+
+`VSP Network Virtualization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-NV-1.pdf>`_
+
+Certified: October 29,2015
+
+**VMWare**
+
+The VMware Sales Professional for Network Virtualization (VSP – NV) training course introduces you to VMware NSX, the network virtualization and security platform for the Software-Defined Data Center (SDDC). NSX brings virtualization to your existing network and transforms network operations and economics. The goal of the VSP-NV sales training course is to enable partners to sell the SDDC with network virtualization to their customers.
+
+Upon completing the VSP–NV sales training, partners are able to:
+
+* Understand the SDDC and its transformative role
+
+* Understand network virtualization and its benefits to customers
+
+* Understand micro-segmentation as ‘The Killer Application’ in customer environments
+
+* Identify the business issues customers face with their networks and security
+
+* Qualify opportunities for selling the SDDC with network virtualization
+
+* Understand the pricing and packaging for VMware NSX
+
+2015: Deploying Red Hat Enterprise Linux OpenStack Platform
+===========================================================
+
+*Dates:* October 15, 2015 - October 16, 2015
+
+**Firefly, Madrid, Spain**
+
+* Describe data center trends that have led to current day cloud delivery models
+
+* Provide an overview of OpenStack including components and fundamentals of operation
+
+* Provide an overview of Red Hat Enterprise Linux OpenStack
+
+* Describe the Cisco UCS B, C, M Series, and Cisco UCS Mini
+
+* Provide a detailed description of Cisco UCS core network connectivity
+
+* Describe Cisco UCS stateless computing
+
+* Describe Cisco UCS integrated infrastructure with Red Hat Enterprise Linux OpenStack
+
+2015: Automating the Modern Data Center: Nexus 9k
+=================================================
+
+*Dates:* September 30, 2015
+
+**OneCloud Consulting, Madrid, Spain**
+
+* Introduction
+
+  * Today’s Business Challenges and the Need for Change
+
+* DevOps
+
+  * Overview
+
+  * Tools for Network Engineers
+
+  * Terminology for Network Engineers
+
+* Nexus 3K/9K On-box Programmability
+
+  * Embedded Event Manager
+
+  * Scheduler
+
+  * Bash
+
+  * vi Editor
+
+* Nexus 3K/9K Off-box Programmability
+
+  * NX-API
+
+* Nexus 3K/9K Linux Containers
+
+  * Guest Shell
+
+  * LXC
+
+* Nexus 3K/9K Configuration Management and Automation
+
+  * Chef
+
+  * Puppet
+
+  * Ansible
+
+* Conclusion
+
+2015: Cisco Application Centric Infrastructure System Engineer
+==============================================================
+
+`ACI ATP Systems Engineer Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/ACISE.pdf>`_
+
+Certified: February 16,2015 Expires: Feb 16,2017
+
+**Cisco Systems Inc., Madrid, Spain**
+
+* Executive Briefing on ACI
+
+* ACI Hardware Overview
+
+* ACI Logical Model
+
+* Application Policy Infrastructure Controller
+
+* Fabric Operation
+
+* ACI Hypervisor Integration
+
+* OpFlex, OpenStack, and Open Source Initiatives
+
+* Integrating L4-7 Services with ACI
+
+* ACI Integration to Outside Network
+
+* Migration and Building Mixed Environments 
+
+2013: UCS Director Fundamental Pre-sales Partner Training
+=========================================================
+
+*Dates:* September 18, 2013 - September 19, 2013
+
+**Cisco Systems Inc., Madrid, Spain**
+
+It is an instructor led, hands-on course that enables participants understand the different features of UCS Director software along with the capability to install and configure UCS Director software for demos and POCs. Participants will be able to speak authentically about the product and apply the software features to different customer use cases. In addition, participants will understand functionality around some advanced features such as bare metal provisioning, Amazon EC2 integration, UCS Director API Integration, Orchestration etc. The participants of this course will gain following benefits:
+
+* Ability to install and configure UCS Director for demos and POCs.
+
+* Ability to present the features of the software effectively.
+
+* Ability to translate customer needs into possible opportunities and conduct Q&A.
+
+* Ability to give demos to business and technical decision makers/influencers.
+
+2009: Cisco UCS Partner Bootcamp Europe
+=======================================
+
+December 14, 2009 - December 18, 2009
+
+**Cisco Systems Inc., London, United Kingdom**
+
+* Learn how to configure and manage UCS servers with consolidated I/O networking for LAN and SAN connectivity.
+
+* Learn how to virtualize server properties to enable simple and rapid mobility of server OS images between physical servers.
 
 ************
 Data Science 
@@ -280,211 +578,6 @@ This course is about building 'web-intelligence' applications exploiting big dat
 *Dates:* September 25, 1995 - September 29, 1995
 
 **Centro Mediterráneo de la Universidad de Granada, Almuñecar, Spain**
-
-***************************
-Software Defined Datacenter
-***************************
-
-2016: Cisco Live Berlin
-=======================
-
-*Dates:* February 15, 2016 - February 19, 2015
-
-**Cisco Systems Inc., Berlin, Germany**
-
-* Immerse yourself in five days of business and technical sessions, keynotes, panel discussions, and specialty programs on topics such as Cloud, Data Center, Networks, Service Provider, SDN, and Software Development.
-
-* Learn from Cisco Distinguished Engineers, CCIEs, and some of the world's top technology experts in our breakout sessions and additional training.
-
-* Get hands-on in the DevNet Zone.
-
-2015: Software Defined Networking
-=================================
-
-*Dates:* November 19, 2015 - November 20, 2015
-
-**Elium Tech, Madrid, Spain**
-
-* Why SDN?
-
-* SDN overview
-
-* Drivers to adopt SDN
-
-* Objections to SDN
-
-* Competitive analysis between ACI and NSX
-
-2015: VMware Technical Sales Professional - Network Virtualization 1.0
-======================================================================
-
-`VTSP Network Virtualization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-NV-1.pdf>`_
-
-Certified: November 12,2015
-
-**VMWare**
-
-The VMware Technical Sales Professional for Network Virtualization (VTSP – NV) training course provides you with a fundamental understanding of virtual networking and VMware NSX, including the business challenges these products are intended to solve. There are four modules in this course.
-
-* Define data center networking and discuss the challenges encountered without network virtualization.
-
-* Describe the VMware NSX Virtualization Platform and how its features and components benefit the data center. 
-
-* Identify real life use cases where NSX can either solve or enhance current data center network operations and/or limitations.
-
-* Respond to any technical challenges due to diverse environments and emerging products.
-
-2015: VMware Sales Professional - Network Virtualization 1.0
-============================================================
-
-`VSP Network Virtualization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-NV-1.pdf>`_
-
-Certified: October 29,2015
-
-**VMWare**
-
-The VMware Sales Professional for Network Virtualization (VSP – NV) training course introduces you to VMware NSX, the network virtualization and security platform for the Software-Defined Data Center (SDDC). NSX brings virtualization to your existing network and transforms network operations and economics. The goal of the VSP-NV sales training course is to enable partners to sell the SDDC with network virtualization to their customers.
-
-Upon completing the VSP–NV sales training, partners are able to:
-
-* Understand the SDDC and its transformative role
-
-* Understand network virtualization and its benefits to customers
-
-* Understand micro-segmentation as ‘The Killer Application’ in customer environments
-
-* Identify the business issues customers face with their networks and security
-
-* Qualify opportunities for selling the SDDC with network virtualization
-
-* Understand the pricing and packaging for VMware NSX
-
-2015: Deploying Red Hat Enterprise Linux OpenStack Platform
-===========================================================
-
-*Dates:* October 15, 2015 - October 16, 2015
-
-**Firefly, Madrid, Spain**
-
-* Describe data center trends that have led to current day cloud delivery models
-
-* Provide an overview of OpenStack including components and fundamentals of operation
-
-* Provide an overview of Red Hat Enterprise Linux OpenStack
-
-* Describe the Cisco UCS B, C, M Series, and Cisco UCS Mini
-
-* Provide a detailed description of Cisco UCS core network connectivity
-
-* Describe Cisco UCS stateless computing
-
-* Describe Cisco UCS integrated infrastructure with Red Hat Enterprise Linux OpenStack
-
-2015: Automating the Modern Data Center: Nexus 9k
-=================================================
-
-*Dates:* September 30, 2015
-
-**OneCloud Consulting, Madrid, Spain**
-
-* Introduction
-
-  * Today’s Business Challenges and the Need for Change
-
-* DevOps
-
-  * Overview
-
-  * Tools for Network Engineers
-
-  * Terminology for Network Engineers
-
-* Nexus 3K/9K On-box Programmability
-
-  * Embedded Event Manager
-
-  * Scheduler
-
-  * Bash
-
-  * vi Editor
-
-* Nexus 3K/9K Off-box Programmability
-
-  * NX-API
-
-* Nexus 3K/9K Linux Containers
-
-  * Guest Shell
-
-  * LXC
-
-* Nexus 3K/9K Configuration Management and Automation
-
-  * Chef
-
-  * Puppet
-
-  * Ansible
-
-* Conclusion
-
-2015: Cisco Application Centric Infrastructure System Engineer
-==============================================================
-
-`ACI ATP Systems Engineer Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/ACISE.pdf>`_
-
-Certified: February 16,2015 Expires: Feb 16,2017
-
-**Cisco Systems Inc., Madrid, Spain**
-
-* Executive Briefing on ACI
-
-* ACI Hardware Overview
-
-* ACI Logical Model
-
-* Application Policy Infrastructure Controller
-
-* Fabric Operation
-
-* ACI Hypervisor Integration
-
-* OpFlex, OpenStack, and Open Source Initiatives
-
-* Integrating L4-7 Services with ACI
-
-* ACI Integration to Outside Network
-
-* Migration and Building Mixed Environments 
-
-2013: UCS Director Fundamental Pre-sales Partner Training
-=========================================================
-
-*Dates:* September 18, 2013 - September 19, 2013
-
-**Cisco Systems Inc., Madrid, Spain**
-
-It is an instructor led, hands-on course that enables participants understand the different features of UCS Director software along with the capability to install and configure UCS Director software for demos and POCs. Participants will be able to speak authentically about the product and apply the software features to different customer use cases. In addition, participants will understand functionality around some advanced features such as bare metal provisioning, Amazon EC2 integration, UCS Director API Integration, Orchestration etc. The participants of this course will gain following benefits:
-
-* Ability to install and configure UCS Director for demos and POCs.
-
-* Ability to present the features of the software effectively.
-
-* Ability to translate customer needs into possible opportunities and conduct Q&A.
-
-* Ability to give demos to business and technical decision makers/influencers.
-
-2009: Cisco UCS Partner Bootcamp Europe
-=======================================
-
-December 14, 2009 - December 18, 2009
-
-**Cisco Systems Inc., London, United Kingdom**
-
-* Learn how to configure and manage UCS servers with consolidated I/O networking for LAN and SAN connectivity.
-
-* Learn how to virtualize server properties to enable simple and rapid mobility of server OS images between physical servers.
 
 *******
 Storage
