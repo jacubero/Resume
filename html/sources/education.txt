@@ -96,33 +96,51 @@ Using Contrail with OpenStack
 * Introduction
 
 * Contrail Overview
+
   * SDN Principals & Functionality
+
   * The Four Planes of Networking Software
+
   * The Functions of Orchestration
+
   * Basic Components of Contrail
 
 * Architecture & Installation
+
   * Components of OpenStack
+
   * Interaction between Contrail and OpenStack
+
   * Installation Using Server Manager
 
 * Basic Configuration
+
   * How a Tenant is Created
+
   * How to Create and Manage Virtual Networks
+
   * How to Manage Network Policies
 
 * Service Chaining
+
   * Service Chaining within Contrail
+
   * Configure Service Chains
 
 * Contrail Analytics
+
   * The Monitor Workspace
+
   * Analyze Live Traffic Using Service Instances
+
   * Run Flow Queries and Examine System Logs
 
 * Troubleshooting
+
   * Using Contrail CLI Commands
+
   * Using Fabric Scripts
+
   * Using OpenStack Commands
 
 SDN for Network Engineers
@@ -133,50 +151,79 @@ SDN for Network Engineers
 **SDN Essentials, Madrid, Spain**
 
 * Introduction to SDN Technologies
+
   * NFV Framework
+
   * OpenSwitch
-  * Overlay vs Underlay
+
+  * Overlay vs. Underlay
+
   * VXLAN, NVGRE and other overlay technologies
 
 * OpenFlow Tutorial
+
   * SDN Controller
+
   * OpenFlow
 
 * Applications
+
   * Types
+
   * Reactive
+
   * Proactive
+
   * Blacklist DNS and IP
+
   * NAC Securing the Edge
 
 * SDN Survey
+
   * SDN Camps
+
   * Evolution
+
   * Vendors
+
   * Startups
 
 * Case Studies
+
   * Google WAN
+
   * NTT Federated Controllers
+
   * Stanford University Campus
 
 * Use-Cases
+
   * Role of SDN in the Data Center
+
   * SDN in the WAN
+
   * SDN in the Campus Environment
+
   * SDN in Transport Networks
 
 * Migration Strategies
+
   * Migration Framework
+
   * Migration Approaches
+
   * Devices and Deployments
+
   * Initial Considerations
+
   * Implications
 
 * Troubleshooting
 
 * Futures and Rebuttals
+
   * SDN Criticisms
+  
   * Futures
 
 2016: Cisco Live Berlin
