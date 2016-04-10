@@ -143,6 +143,26 @@ Using Contrail with OpenStack
 
   * Using OpenStack Commands
 
+
+EMEAR Data Center Partner Connection 2016
+=========================================
+
+*Dates:* April 11, 2016 - April 14, 2016
+
+**Cisco Systems, Rome, Italy**
+
+This invitation-only event provides Cisco's valued channel partners with the opportunities to network with data center executives and thought leaders as well our strategic ecosystem solution partners. Cisco discusses its vision and share insights about its technology roadmap, focusing on how Cisco's data center architecture is accelerating relevancy, speed, profitability, and growth in the channel.
+
+During this conference, there are opportunities to:
+
+* Hear Cisco's data center and cloud strategy focused on fast IT, security, and hybrid cloud innovations.
+
+* Learn how to capitalize on industry shifts, which are promoting new consumption models focused on lines of business.
+
+* Get the latest information about competitive positioning, offerings and go-to-market strategies that will increase deal size and partner profitability.
+
+* Participate in one-on-one meetings with Cisco senior leadership and our eco-system sponsors.
+
 SDN for Network Engineers
 =========================
 
