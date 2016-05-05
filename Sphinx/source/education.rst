@@ -783,6 +783,20 @@ This course covers some of the common algorithms underlying the following fundam
 IT Service Management
 *********************
 
+2016: Certified Expert, CA Unified Infrastructure Management Sales 2016
+=======================================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
+
+*Dates:* May 1, 2016
+
+2015: Partner Knowledge Transfer: How to Position and Present CA Nimsoft Monitor
+================================================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
+
+*Dates:* September 16, 2016
+
 2014: CA Deep Dive Partner Training: Nimsoft
 ============================================
 
@@ -793,6 +807,27 @@ IT Service Management
 * Learn from CA Subject Matter Experts (SMEs) how to position, demo, and present POCs. By successfully completing  this training, you meet CA Partner Technical Sales validation requirements.
 
 * The week focuses on the Technical Breakouts that contain “hands-on” technical labs with practical exercises and exclusive access to the experts. Plus a half day of Sales Positioning and Strategy from members of our Executive Team.
+
+2014: CA UIM Partner Validation - Technical Sales: PRESENT
+==========================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
+
+*Dates:* August 7, 2014
+
+2014: CA UIM Partner Validation - Technical Sales: DEMO
+==========================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
+
+*Dates:* August 7, 2014
+
+2014: CA Nimsoft Monitor Partner Sales and Pre-Sales Demonstration On-Demand
+============================================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
+
+*Dates:* March 20, 2014
 
 2009: PECAL normative: NATO additional requirements. PECAL 2110-2105 and registry operations
 ============================================================================================
