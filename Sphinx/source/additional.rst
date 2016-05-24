@@ -6,7 +6,7 @@ ADDITIONAL INFORMATION
 Publications
 ************
 
-.. [AlvarezCubero:2015] ALVAREZ-CUBERO, J. A. and Zufiria, P. J. (2015). Algorithm xxx: VBF: A library of C++ classes for vector Boolean functions in cryptography. ACM Transactions on Mathematical Software. (In Press: http://toms.acm.org/Upcoming.html)
+.. [AlvarezCubero:2016] ALVAREZ-CUBERO, J. A. and Zufiria, P. J. 2016. `Algorithm 959: VBF: A Library of C++ Classes for Vector Boolean Functions in Cryptography <http://dl.acm.org/citation.cfm?id=2794077>`_. ACM Transactions on Mathematical Software (TOMS), Volume 42 Issue 2, May 2016, Article No. 16. 
 
 .. [AlvarezZ:12] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2012. `Cryptographic Criteria on Vector Boolean Functions <http://www.intechopen.com/books/cryptography-and-security-in-computing/cryptographic-criteria-on-vector-boolean-functions>`_. Cryptography and Security in Computing, Jaydip Sen (Ed.), Chapter 3, 51–70.
 
