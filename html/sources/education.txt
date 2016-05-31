@@ -90,6 +90,7 @@ Juniper Networks EMEA Automation 1.0 Workshop
 =============================================
 
 *Date:* May 31, 2016
+
 **Juniper Networks, Madrid, Spain**
 
 * Thinking Like a Programmer
