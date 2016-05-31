@@ -86,6 +86,31 @@ October, 2005 - July, 2006
 Software Defined Datacenter
 ***************************
 
+Juniper Networks EMEA Automation 1.0 Workshop
+=============================================
+
+*Date:* May 31, 2016
+**Juniper Networks, Madrid, Spain**
+
+* Thinking Like a Programmer
+
+* Basic Python Programming
+
+* IP Address Manipulation
+
+* File manipulation
+
+* Templates / Jinja2
+
+* YAML
+
+* PyEZ – Just Enough Python
+
+* Junos Automation with PyEZ Library
+
+* Junos Automation with Ansible
+
+
 Using Contrail with OpenStack
 =============================
 
