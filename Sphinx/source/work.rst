@@ -2,13 +2,41 @@
 WORK EXPERIENCE
 ###############
 
-***********************************************************************************
-January 2013 - Present: Virtualization and Data Center Business Development Manager
-***********************************************************************************
+************************************************************************************************
+January 2013 - Present: Virtualization and Data Center Business Development and Presales Manager
+************************************************************************************************
+
+.. image:: /images/acuntia.gif
+   :width: 150 px
+   :align: left
 
 **Acuntia**
 
 C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
+
+* Design technical solutions.
+
+* Serve as subject expert with Data Center technologies.
+
+* Work with the internal departments to define technical requirements for Work Requests.
+
+* Collect high-level customer requirements and break them down into concrete and executable technical requirements, which can be further processed.
+
+* Act as a spokesperson at important events and conferences, presenting company vision.
+
+* Detailed understanding of the Data Center industry and market. Familiar with latest IT and data center trends.
+
+* Experienced in developing and marketing of innovative solutions and products.
+
+* Work closely with customers to drive the development of innovative network and/or data center solutions, which are aligned with SDN and NFV principles.
+
+* Drive proof-of-concepts with selected customers, and lead technical and commercial feasibility studies  
 
 * Develop, analyse and optimize the Product and Marketing strategy of Virtualization and Data Center Business Unit. 
 
@@ -30,15 +58,36 @@ C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 
 * Manage and coach the product management team in order to have a high performing, best in class team.
 
+Experience:
+===========
+
 ****************************************************************************************
 January 2011 - January 2013: Virtualization, Data Center and Security Technical director
 ****************************************************************************************
+
+.. image:: /images/acuntia.gif
+   :width: 150 px
+   :align: left
 
 **Acuntia**
 
 C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 
+|
+| 
+
+Roles and Responsibilities:
+===========================
+
 * Implement and lead relevant projects.
+
+* Serve as the functional and technical expert.
+
+* Review and integrate all requirements for the infrastructure.
+
+* Responsible for performance, availability and scalability of the infrastructure.
+
+* Evaluate impact of change from a solutions point of view.
 
 * Develop projects schedule by analyzing activity sequences, activity durations, and resource requirements.
 
@@ -58,9 +107,19 @@ C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 January 2010 - January 2011: Virtualization, Data Center and Security Deputy Technical Director
 ***********************************************************************************************
 
+.. image:: /images/telindus.png
+   :width: 150 px
+   :align: left
+
 **Telindus S.A.U. - Belgacom Group (later Acuntia)**
 
 C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
 
 Same main activities and responsibilities as described for Technical Director.
 
@@ -68,9 +127,19 @@ Same main activities and responsibilities as described for Technical Director.
 January 2006 - January 2010: Head of Risk Management and IT Governance Area
 ***************************************************************************
 
+.. image:: /images/telindus.png
+   :width: 150 px
+   :align: left
+
 **Telindus S.A.U. - Belgacom Group (later Acuntia)**
 
 C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
 
 * Deliver solutions that help companies define the requirements of their IT organization, determine the associated cost of delivery and understand the alignment of these requirements with business needs.
 
@@ -80,9 +149,19 @@ C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
 January 2000 - January 2006: Technical consultant
 *************************************************
 
+.. image:: /images/telindus-logo.jpg
+   :width: 150 px
+   :align: left
+
 **Telindus S.A.U. (later Acuntia)**
 
 C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
 
 * Define business needs and establish a working partnership with clients.
 
@@ -102,9 +181,19 @@ C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
 May 1999 - January 2000: Analyst Programmer
 *******************************************
 
+.. image:: /images/Logo-MNS-65.png
+   :width: 150 px
+   :align: left
+
 **Medianet Software S.A.** 
 
 Av del Llano Castellano 13, 28034 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
 
 * Design, develop and implement business applications / systems for the clients.
 
@@ -120,8 +209,18 @@ Av del Llano Castellano 13, 28034 Madrid (Spain)
 May 1998 - May 1999: Scholarship holder
 ***************************************
 
+.. image:: /images/telefonicaIxD.png
+   :width: 150 px
+   :align: left
+
 **Telefonica Research and Development**
 
 Distrito Telefónica, Edificio Oeste 1, Ronda de la Comunicación s/n, 28050 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
 
 * Participate in the deployment of a Telefónica infrastructure called InfoVía Plus.

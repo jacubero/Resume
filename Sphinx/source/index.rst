@@ -1,9 +1,18 @@
 ###########################
-Jose Antonio Alvarez Cubero
+José Antonio Álvarez Cubero
 ###########################
+
+.. _cover:
+
+.. image:: /images/jose.jpg
+   :width: 200 px
+   :align: center
+
+|
 
 .. _toc: 
 
+Table of Contents:
 
 .. toctree::
    :maxdepth: 2

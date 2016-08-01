@@ -36,10 +36,71 @@ Levels: A1/A2: Basic user - B1/B2: Independent user - C1/C2: Proficient user
 Communication skills
 ********************
 
+* Ability to see and explain the big picture or direction of a project, as well as the ability to drill down to details depending on the audience.
+
 * Strong ability to articulate the business value in a clear way, and work collaboratively with sponsors and key stakeholders.
 
 * Strong ability to communicate deep analytical results in forms that resonate with scientific and/or business collaborators, highlighting actionable insights. 
 
+****************
+Technical skills
+****************
+
+Data Center
+===========
+
+* In-depth technical knowledge in Data Center solutions.
+
+* Solid background in Data Center operations and security management.
+
+* Ability to review project deliverables for completeness and quality, and compliance with established project standards.
+
+* Ability to analyze client’s needs and design solution.
+
+* Ability to develop infrastructure requirements based on input gathered from a variety of sources including analysis results and feedback from the user community.
+
+* Ability to develop test conditions and expected results based on the requirements.
+
+* Have a good knowledge of Data Center solution approaches from a technical (infrastructure), service management, financial and sourcing perspective.
+
+* Expert level knowledge of SDN and NFV and related open source initiatives such as OpenStack, OpenDaylight, OpenSwitch.
+
+* Experience with virtualization technologies such as VMWare, KVM and HyperV.
+
+* Familiarity with AWS services.
+
+* Security compliance experience such as ITIL or ISO 27001.
+
+* Deep understanding in new Data Center infrastructure stacks such as: SDN, NFV, IaaS, Hadoop among others
+
+* Experience with configuration management tools such as Ansible, Chef or Puppet.
+
+* Familiar with IT-related standards, with experience in IETF, ETSI and OpenStack standards activity.
+
+Computer Science
+================
+
+* Object oriented programming experience (C++). 
+
+* High-level languages (e.g. Python, Matlab).
+
+* Familiarity with writing SQL queries and working with databases.
+
+* Good knowledge of scripting languages.
+
+* Software development experience with common Web platform / language technologies based on API REST.
+
+* Experience prototyping and developing data mining solutions using statistical software packages (R, Matlab, etc).
+
+* Statistical or mathematical tools (e.g. R, NumPy/SciPy, pandas, Scikit Learn).
+
+* Data Visualization tools (Tableau).
+
+* Experience with large data sets and distributed computing (Hadoop).
+
+* Experience with version control systems: git.
+
+* In-depth knowledge of deep learning and neural networks: theory and applications.
 
 **********************************
 Organisational / managerial skills
@@ -71,33 +132,16 @@ Organisational / managerial skills
 
   * *Delivering at pace*: I focus on delivering timely performance, with energy, and taking responsibility and accountability for high-quality outcomes. I try to deliver objectives and responding to challenges responsively and constructively.
 
-***************
-Computer skills
-***************
 
-* Object oriented programming experience (C++). 
-
-* High-level languages (e.g. Python, Matlab).
-
-* Familiarity with writing SQL queries and working with databases.
-
-* Strong Unix/Linux scripting skills.
-
-* Experience prototyping and developing data mining solutions using statistical software packages (R, Matlab, etc).
-
-* Statistical or mathematical tools (e.g. R, NumPy/SciPy, pandas, Scikit Learn).
-
-* Data Visualization tools (Tableau).
-
-* Experience with large data sets and distributed computing (Hadoop).
-
-* Experience with version control systems: git.
-
-* In-depth knowledge of deep learning and neural networks: theory and applications.
-
-***************
+************
 Other skills
-***************
+************
+
+* *Energetic and studious*. Quick learner and self-starter, with a willingness to dive in and learn everything required to be successful on the job.
+
+* *Mature and positive attitudes*; strong sense of quality; able to work well in a fast-paced, multi-culture dynamic environment.
+
+* *Customer oriented*. Willingness to take ownership of customer solutions and make them successful. A strong focus on customer satisfaction.
 
 * *Skeptical*. I examine my work critically rather than in a one-sided way. I evaluate advances in scientific literature whether adaptable to use cases.
 
