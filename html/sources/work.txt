@@ -14,6 +14,9 @@ January 2013 - Present: Virtualization and Data Center Business Development and 
 
 C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 
+|
+| 
+
 Roles and Responsibilities:
 ===========================
 
@@ -70,6 +73,12 @@ January 2011 - January 2013: Virtualization, Data Center and Security Technical 
 
 C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 
+|
+| 
+
+Roles and Responsibilities:
+===========================
+
 * Implement and lead relevant projects.
 
 * Serve as the functional and technical expert.
@@ -106,6 +115,12 @@ January 2010 - January 2011: Virtualization, Data Center and Security Deputy Tec
 
 C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
 
+|
+| 
+
+Roles and Responsibilities:
+===========================
+
 Same main activities and responsibilities as described for Technical Director.
 
 ***************************************************************************
@@ -119,6 +134,12 @@ January 2006 - January 2010: Head of Risk Management and IT Governance Area
 **Telindus S.A.U. - Belgacom Group (later Acuntia)**
 
 C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
 
 * Deliver solutions that help companies define the requirements of their IT organization, determine the associated cost of delivery and understand the alignment of these requirements with business needs.
 
@@ -135,6 +156,12 @@ January 2000 - January 2006: Technical consultant
 **Telindus S.A.U. (later Acuntia)**
 
 C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
 
 * Define business needs and establish a working partnership with clients.
 
@@ -162,6 +189,12 @@ May 1999 - January 2000: Analyst Programmer
 
 Av del Llano Castellano 13, 28034 Madrid (Spain)
 
+|
+| 
+
+Roles and Responsibilities:
+===========================
+
 * Design, develop and implement business applications / systems for the clients.
 
 * Produce system and user documentation during the development of systems.
@@ -183,5 +216,11 @@ May 1998 - May 1999: Scholarship holder
 **Telefonica Research and Development**
 
 Distrito Telefónica, Edificio Oeste 1, Ronda de la Comunicación s/n, 28050 Madrid (Spain)
+
+|
+| 
+
+Roles and Responsibilities:
+===========================
 
 * Participate in the deployment of a Telefónica infrastructure called InfoVía Plus.
