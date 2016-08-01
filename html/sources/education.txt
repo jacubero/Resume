@@ -82,9 +82,240 @@ October, 2005 - July, 2006
 
 * Management
 
-***************************
-Software Defined Datacenter
-***************************
+********
+Business
+********
+
+2015: Sales Expert
+==================
+
+*Dates:* May 11-12 2015, June 15-16 2015, October 21-22 2015
+
+**Morendi Training & Coaching, Spain**
+
+* Main elements in effective communication
+
+* Identify behavioral factors
+
+* Identify the elements that contribute to a better connection with our partner
+
+* How can we connect better with the decision-making process of our client?
+
+* Techniques for solving objections
+
+* Techniques for customer's needs detection
+
+* Techniques for opening a conversation in a professional manner
+
+* Techniques for argumentation
+
+* Techniques for closing a sales conversation
+
+* Techniques for selling the price
+
+2014: Middle management
+=======================
+
+*Dates:* March 12, 2014 - March 13, 2014
+
+**Tea-Cegos S.A., Madrid, Spain**
+
+* Manage your time and your team's time.
+
+* Delegation as a management tool.
+
+* Manage with emotional intelligence.
+
+* Create a team: group functioning
+
+2011: Finance for non-financial
+===============================
+
+July 4, 2011 - July 5, 2011
+
+**Global Estrategias - Demos Group, Madrid, Spain**
+
+* General concepts on Finance
+
+2011: Master Class Business Fundamentals - Module 3: Leading change
+===================================================================
+
+March 3, 2011 - March 4, 2011
+
+**Antwerp Management School, Brussels, Belgium**
+
+* Increased self awareness as a leader – identification of my key strengths and development areas.
+
+* Development of my leadership brand and key leadership principles.
+
+* Ability to apply and use a tool kit of change tools in a range of change scenarios.
+
+2011: Master Class Business Fundamentals - Module 2: Managing the fundamentals
+==============================================================================
+
+January 25, 2011 - January 26, 2011
+
+**Antwerp Management School, Brussels, Belgium**
+
+Supply Chain Management:
+
+* Map a supply chain using SCOR building blocks.
+
+* Define KPI’s for supply chains and their elements.
+
+* Recognize where supply chain decoupling points are located and how these inventory points are managed.
+
+Financial management:
+
+* Identifying a project’s relevant cash flows.
+
+* Evaluating corporate-growth objectives with the economics of projects.
+
+* How to measure value creation at the firm level using the concept of market value added.
+
+* How to measure value creation at the firm or divisional level using the concept of economic value added (EVA).
+
+* How to design management compensation schemes that induce managers to make value-creating decisions.
+
+2010: Master Class Business Fundamentals - Module 1: Strategy Implementation
+============================================================================
+
+November 8, 2010 - November 10, 2010
+
+**Antwerp Management School, Brussels, Belgium**
+
+* Correctly handle Strategic diagnostic tools.
+
+* Develop a SWOT and Field Force Analysis and draw business conclusions from it.
+
+* Define key Success Factors and market entry obstacles.
+
+* Practice principles of segmenting, targeting and positioning.
+
+2010: Management skills IV
+==========================
+
+September 13, 2010 - September 14, 2010
+
+**Marcom Deli, Madrid, Spain**
+
+* Creativity applied to management.
+
+* How to object in meetings.
+
+* How to bring conversation topic.
+
+* Maintain leadership when a collaborator challenges a rule.
+
+2009: Management skills III
+===========================
+
+November 16, 2009 - November 17, 2009
+
+**Marcom Deli, Madrid, Spain**
+
+Exercise the knowledge acquired in previous Management Skills sessions.
+
+2009: Management skills II
+==========================
+
+June 22, 2009 - June 23, 2009
+
+**Marcom Deli, Madrid, Spain**
+
+* Essential management functions.
+
+* Leadership.
+
+* Management skills.
+
+* Work in group.
+
+* Decision taking.
+
+* Delegation.
+
+* Meeting management.
+
+* Time management.
+
+* Team motivation.
+
+* Conflict management.
+
+2009: Management skills I
+=========================
+
+April 27, 2009 - April 28, 2009
+
+**Marcom Deli, Madrid, Spain**
+
+* Assertive communication.
+
+* Public speaking.
+
+* Customer orientation.
+
+2004: Speak to convince
+=======================
+
+*Dates:* March 25, 2004 - March 26, 2004
+
+**Asset media consulting, Madrid, Spain**
+
+* Overcome fear.
+
+* Objectives and path.
+
+* Speak with them.
+
+* Non-verbal language.
+
+2003: Consulting Skills for Professionals
+=========================================
+
+*Dates:* February 21, 2003 - February 22, 2003
+
+**Logra GmbH, Madrid, Spain**
+
+* Phases in consultancy development (Novation model).
+
+* Increasing your impact.
+
+* Profile feedback and action planning.
+
+* Defining the business need.
+
+* Reaching agreement.
+
+* Gathering information.
+
+* Recommending and leading change.
+
+* Closing and taking stock.
+
+2001: Acclivus Sales Negotiation
+================================
+
+*Dates:* September 21, 2001 - September 22, 2001
+
+**InterPoint LLC, Madrid, Spain**
+
+* Sources of power.
+
+* Fundamental principles.
+
+* Tactics.
+
+* Personal dimensions.
+
+* Countertactics.
+
+* Discount demands.
+
+*************************************
+Cloud and Software Defined Datacenter
+*************************************
 
 Juniper Networks EMEA Automation 1.0 Workshop
 =============================================
@@ -473,6 +704,378 @@ December 14, 2009 - December 18, 2009
 
 * Learn how to virtualize server properties to enable simple and rapid mobility of server OS images between physical servers.
 
+**************
+Virtualization
+**************
+
+2014: VTSP - DV (Desktop Virtualization 5)
+==========================================
+
+`VTSP - DV Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-DV.pdf>`_
+
+*Certified:* January 2, 2014
+
+**VMware**
+
+* Desktop Virtualization VMWare solutions Technical Sales Professional
+
+2013: VTSP - BC (Business Continuity 5)
+=======================================
+
+`VTSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-BC%20(Business%20Continutiy%205).pdf>`_
+
+*Certified:* July 11, 2013
+
+**VMware**
+
+This training starts you down the path of being able to identify, engage and design solutions for customers around their disaster recovery and business continuity challenges. This badge identifies you as an individual that understands and recognizes where and when to leverage vSphere Data Protection and the design considerations and capabilities of VMware Site Recovery Manager (SRM).
+
+2013: VSP - BC (Business Continuity 5)
+======================================
+
+`VSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-%20BC%20(Business%20Continuity%205).pdf>`_
+
+*Certified:* May 13, 2013
+
+**VMware**
+
+This training introduce you to the issues and challenges associated with maintaining business continuity, including and developing a sound disaster recovery strategy. You learn how VMware’s technology and its services help address those challenges. You will also learn how to identify and qualify prospects that are ripe for a VMware business continuity solution.
+
+2013: VMware Technical Sales Professional 5 (VTSP 5)
+====================================================
+
+`VTSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/certificate%20VTSP.pdf>`_
+
+*Certified:* April 5, 2013
+
+**VMware**
+
+Completion of the VTSP 5 Accreditation allow you to:
+
+* Identify where and how specific products fit into an overall customer solution.
+
+* Discuss and demonstrate the strengths and benefits of key technical features.
+
+* Guide customers through product evaluation and selection.
+
+* Apply knowledge to answer technical questions related to VMware products and solutions.
+
+2013: VMware Sales Professional 5 (VSP 5)
+=========================================
+
+`VSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP5-certificate.pdf>`_
+
+*Certified:* March 15, 2013
+
+**VMware**
+
+Completion of the VSP 5 Accreditation allow you to:
+
+* Describe the basics of virtualization and cloud computing technology.
+
+* Articulate the main customer challenge areas that VMware solutions address.
+
+* Engage a customer in a discussion about VMware’s solutions for Cloud Computing.
+
+* Craft an elevator pitch suitable for brief discussions, leaving voice messages, or sending e-mails.
+
+* Design your own enablement plan to increase your competence and value as a VMware Partner.
+
+* Take advantage of VMware Partner programs for generating demand and increasing revenue.
+
+********
+Security
+********
+
+2007: Business Continuity Planning
+==================================
+
+December 10, 2007 - December 13, 2007
+
+**John Cordier Academy, Leuven, Belgium**
+
+* Establish the relations between internationally recognised best practices in the field of Business Continuity Management.
+
+* Identify and understand the components of a complete Business Continuity Management program.
+
+* Define the implementation process of a Business Continuity Management program: 
+  * Initiate the BCM program and obtain Management commitment.
+  
+  * Determine the functional requirements.
+  
+  * Evaluate and recommend Business Continuity Strategies.
+  
+  * Document the Business Continuity plan.
+  
+  * Exercice and maintain the BCM program.
+  
+  * Develop a BCM culture.
+
+* Identify success factors and risks associated with a Business Continuity Management program.
+
+2007: ISMS internal auditor (ISO/IEC 27001:2005)
+================================================
+
+September 24, 2007 - September 26, 2007
+
+**Bureau Veritas, Madrid, Spain**
+
+* Enable delegates to undertake internal audits and lead audits of Information Security Management System.
+
+* Explain to the delegates the purpose and planning procedure of making systems secure.
+
+* Ensure delegates understand the importance of organising and reporting their audit findings.
+
+2007: ISMS internal auditor (ISO/IEC 27001:2005)
+================================================
+
+February 12, 2007 - February 16, 2007
+
+**John Cordier Academy, Leuven, Belgium**
+
+* Enable delegates to undertake internal audits and lead audits of Information Security Management System.
+
+* Explain to the delegates the purpose and planning procedure of making systems secure.
+
+* Ensure delegates understand the importance of organising and reporting their audit findings.
+
+2005: Information Systems Security Symposium
+============================================
+
+November 13, 2005 - November 16, 2005
+
+**CEDI 2005 - 1st Spanish Congress in Computer Science, Granada, Spain**
+
+* Cryptanalysis.
+
+* Cryptographic protocols.
+
+* Intrusion Detection Systems.
+
+* Secure implementations.
+
+* Authentication and control access.
+
+* Analysis and management of security.
+
+* Defense mecanisms.
+
+2003: Certified Information Systems Security Professional (CISSP)
+=================================================================
+
+*Certified:* July, 2003 *Expires:* NA
+
+**International Information Systems Security Certification Consortium, Inc. ISC2**
+
+* Access Control.
+
+* Telecommunications and Network Security.
+
+* Information Security Governance and Risk Management.
+
+* Software Development Security.
+
+* Cryptography.
+
+* Security Architecture and Design.
+
+* Operations Security.
+
+* Business Continuity and Disaster Recovery Planning.
+
+* Legal, Regulations, Investigations and Compliance.
+
+* Physical (Environmental) Security.
+
+2002: Check Point Certified Security Expert NG (CCSE NG)
+========================================================
+
+**Check Point**
+
+*********************
+IT Service Management
+*********************
+
+2016: Certified Expert, CA Unified Infrastructure Management Sales 2016
+=======================================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
+
+*Dates:* May 1, 2016
+
+2015: Partner Knowledge Transfer: How to Position and Present CA Nimsoft Monitor
+================================================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
+
+*Dates:* September 16, 2016
+
+2014: CA Deep Dive Partner Training: Nimsoft
+============================================
+
+*Dates:* September 15, 2014 - September 19, 2014
+
+**CA Technologies, London, UK**
+
+* Learn from CA Subject Matter Experts (SMEs) how to position, demo, and present POCs. By successfully completing  this training, you meet CA Partner Technical Sales validation requirements.
+
+* The week focuses on the Technical Breakouts that contain “hands-on” technical labs with practical exercises and exclusive access to the experts. Plus a half day of Sales Positioning and Strategy from members of our Executive Team.
+
+2014: CA UIM Partner Validation - Technical Sales: PRESENT
+==========================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
+
+*Dates:* August 7, 2014
+
+2014: CA UIM Partner Validation - Technical Sales: DEMO
+==========================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
+
+*Dates:* August 7, 2014
+
+2014: CA Nimsoft Monitor Partner Sales and Pre-Sales Demonstration On-Demand
+============================================================================
+
+`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
+
+*Dates:* March 20, 2014
+
+2009: PECAL normative: NATO additional requirements. PECAL 2110-2105 and registry operations
+============================================================================================
+
+July 30, 2009
+
+**Bureau Veritas, Madrid, Spain**
+
+Learn NATO quality assurance requirements for design, development and production.
+
+2008: COBIT in Practice
+=======================
+
+May 7, 2008 - May 8, 2008
+
+**John Cordier Academy, Leuven, Belgium**
+
+* Learn how the COBIT framework can contribute to their business goals and generate benefits through appropriate use of information technology.
+
+* Focus is on the practical translation of the COBIT components into their IT planning and processes.
+
+2008: ISO 14001:2004: Internal auditors
+=======================================
+
+March 31, 2008 - April 2, 2008
+
+**Bureau Veritas, Madrid, Spain**
+
+* Learn the basic concepts and terminology used in environmental management systems audits.
+
+* Perform an ISO 14001:2004 internal audit
+
+* Learn ISO 19011 recommendations related to internal audit program and internal auditors qualification
+
+* Learn the techniques and plan internal environmental management systems audits
+
+* Learn and put into practice internal audits techniques
+
+* Learn and use the different ways of results communication of internal audit results.
+
+*******
+Storage
+*******
+
+2014: SE - Technologies 2014
+============================
+
+`SE - Technologies 2014 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/SE%20-%20Technologies%202014%20certificate.pdf>`_
+
+*Certified:* November 25, 2014 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
+
+2013: EMC Velocity Affiliate Development for SE 2013
+====================================================
+
+`EMC Velocity Sales Accreditation: Consolidate and Backup Recovery 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Advanced%20Sales%20Accreditation-%20Consolidation%20Specialty%202.0%20certificate.pdf>`_
+
+*Certified:* December 9, 2013 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
+
+2013: EMC Velocity Affiliate Development for SE 2013
+====================================================
+
+`EMC Velocity Affiliate Development for SE 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Affiliate%20Development%20for%20SE%202013%20certificate.pdf>`_
+
+*Certified:* November 25, 2013 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
+
+2013: EMC Velocity Affiliate Development for Sales 2013
+=======================================================
+
+`EMC Velocity Affiliate Development for Sales 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Affiliate%20Development%20for%20Sales%202013%20certificate.pdf>`_
+
+*Certified:* November 25, 2013 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
+
+2013: EMC Advanced Sales Accreditation: Consolidation Specialty 2.0
+===================================================================
+
+`EMC Advanced Sales Accreditation: Consolidation Specialty 2.0 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Sales%20Accreditation-%20Consolidate%20and%20Backup%20Recovery%202013%20certificate.pdf>`_
+
+*Certified:* December 9, 2013 *Expires:* NA
+
+**EMC**
+
+* Sales or Systems Engineer (SE) credential
+
+2013: NetApp Accredited Storage Architect Professional (NASAP)
+==============================================================
+
+`NASAP Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Certificado-NASAP.pdf>`_
+
+*Certified:* March 15, 2013 *Expires:* March 15,2015
+
+**NetApp**
+
+The NASAP program prepare you to:
+
+* Present the common white board topics required of a system engineer.
+
+* Deliver the key product demonstrations.
+
+* Articulate product-competitive differentiators.
+
+* Navigate the resources available to a system engineer.
+
+2013: NetApp Accredited Sales Professional (NASP)
+=================================================
+
+`NASP Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Certificado-NASP.pdf>`_
+
+*Certified:* March 8, 2013 *Expires:* March 8,2015
+
+**NetApp**
+
+The NASP program prepare you to:
+
+* Understand and articulate the value of NetApp products, solutions and competitive differentiators.
+
+* Present the NetApp value proposition, features, and benefits.
+
+* Effectively position NetApp solutions to address customer needs.
+
 ************
 Data Science 
 ************
@@ -672,101 +1275,6 @@ This course is about building 'web-intelligence' applications exploiting big dat
 
 **Centro Mediterráneo de la Universidad de Granada, Almuñecar, Spain**
 
-*******
-Storage
-*******
-
-2014: SE - Technologies 2014
-============================
-
-`SE - Technologies 2014 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/SE%20-%20Technologies%202014%20certificate.pdf>`_
-
-*Certified:* November 25, 2014 *Expires:* NA
-
-**EMC**
-
-* Sales or Systems Engineer (SE) credential
-
-2013: EMC Velocity Affiliate Development for SE 2013
-====================================================
-
-`EMC Velocity Sales Accreditation: Consolidate and Backup Recovery 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Advanced%20Sales%20Accreditation-%20Consolidation%20Specialty%202.0%20certificate.pdf>`_
-
-*Certified:* December 9, 2013 *Expires:* NA
-
-**EMC**
-
-* Sales or Systems Engineer (SE) credential
-
-2013: EMC Velocity Affiliate Development for SE 2013
-====================================================
-
-`EMC Velocity Affiliate Development for SE 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Affiliate%20Development%20for%20SE%202013%20certificate.pdf>`_
-
-*Certified:* November 25, 2013 *Expires:* NA
-
-**EMC**
-
-* Sales or Systems Engineer (SE) credential
-
-2013: EMC Velocity Affiliate Development for Sales 2013
-=======================================================
-
-`EMC Velocity Affiliate Development for Sales 2013 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Affiliate%20Development%20for%20Sales%202013%20certificate.pdf>`_
-
-*Certified:* November 25, 2013 *Expires:* NA
-
-**EMC**
-
-* Sales or Systems Engineer (SE) credential
-
-2013: EMC Advanced Sales Accreditation: Consolidation Specialty 2.0
-===================================================================
-
-`EMC Advanced Sales Accreditation: Consolidation Specialty 2.0 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/EMC%20Velocity%20Sales%20Accreditation-%20Consolidate%20and%20Backup%20Recovery%202013%20certificate.pdf>`_
-
-*Certified:* December 9, 2013 *Expires:* NA
-
-**EMC**
-
-* Sales or Systems Engineer (SE) credential
-
-2013: NetApp Accredited Storage Architect Professional (NASAP)
-==============================================================
-
-`NASAP Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Certificado-NASAP.pdf>`_
-
-*Certified:* March 15, 2013 *Expires:* March 15,2015
-
-**NetApp**
-
-The NASAP program prepare you to:
-
-* Present the common white board topics required of a system engineer.
-
-* Deliver the key product demonstrations.
-
-* Articulate product-competitive differentiators.
-
-* Navigate the resources available to a system engineer.
-
-2013: NetApp Accredited Sales Professional (NASP)
-=================================================
-
-`NASP Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Certificado-NASP.pdf>`_
-
-*Certified:* March 8, 2013 *Expires:* March 8,2015
-
-**NetApp**
-
-The NASP program prepare you to:
-
-* Understand and articulate the value of NetApp products, solutions and competitive differentiators.
-
-* Present the NetApp value proposition, features, and benefits.
-
-* Effectively position NetApp solutions to address customer needs.
-
 **************
 Bioinformatics
 **************
@@ -804,326 +1312,6 @@ Grade Achieved: 100.0% with Distinction `Bioinformatics Algorithms (Part 1) Cert
 **University of California, San Diego at Coursera**
 
 This course covers some of the common algorithms underlying the following fundamental topics in bioinformatics: assembling genomes, comparing DNA and protein sequences, finding regulatory motifs, analyzing genome rearrangements, identifying proteins, and many other topics.
-
-*********************
-IT Service Management
-*********************
-
-2016: Certified Expert, CA Unified Infrastructure Management Sales 2016
-=======================================================================
-
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
-
-*Dates:* May 1, 2016
-
-2015: Partner Knowledge Transfer: How to Position and Present CA Nimsoft Monitor
-================================================================================
-
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
-
-*Dates:* September 16, 2016
-
-2014: CA Deep Dive Partner Training: Nimsoft
-============================================
-
-*Dates:* September 15, 2014 - September 19, 2014
-
-**CA Technologies, London, UK**
-
-* Learn from CA Subject Matter Experts (SMEs) how to position, demo, and present POCs. By successfully completing  this training, you meet CA Partner Technical Sales validation requirements.
-
-* The week focuses on the Technical Breakouts that contain “hands-on” technical labs with practical exercises and exclusive access to the experts. Plus a half day of Sales Positioning and Strategy from members of our Executive Team.
-
-2014: CA UIM Partner Validation - Technical Sales: PRESENT
-==========================================================
-
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
-
-*Dates:* August 7, 2014
-
-2014: CA UIM Partner Validation - Technical Sales: DEMO
-==========================================================
-
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
-
-*Dates:* August 7, 2014
-
-2014: CA Nimsoft Monitor Partner Sales and Pre-Sales Demonstration On-Demand
-============================================================================
-
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
-
-*Dates:* March 20, 2014
-
-2009: PECAL normative: NATO additional requirements. PECAL 2110-2105 and registry operations
-============================================================================================
-
-July 30, 2009
-
-**Bureau Veritas, Madrid, Spain**
-
-Learn NATO quality assurance requirements for design, development and production.
-
-2008: COBIT in Practice
-=======================
-
-May 7, 2008 - May 8, 2008
-
-**John Cordier Academy, Leuven, Belgium**
-
-* Learn how the COBIT framework can contribute to their business goals and generate benefits through appropriate use of information technology.
-
-* Focus is on the practical translation of the COBIT components into their IT planning and processes.
-
-2008: ISO 14001:2004: Internal auditors
-=======================================
-
-March 31, 2008 - April 2, 2008
-
-**Bureau Veritas, Madrid, Spain**
-
-* Learn the basic concepts and terminology used in environmental management systems audits.
-
-* Perform an ISO 14001:2004 internal audit
-
-* Learn ISO 19011 recommendations related to internal audit program and internal auditors qualification
-
-* Learn the techniques and plan internal environmental management systems audits
-
-* Learn and put into practice internal audits techniques
-
-* Learn and use the different ways of results communication of internal audit results.
-
-********
-Business
-********
-
-2015: Sales Expert
-==================
-
-*Dates:* May 11-12 2015, June 15-16 2015, October 21-22 2015
-
-**Morendi Training & Coaching, Spain**
-
-* Main elements in effective communication
-
-* Identify behavioral factors
-
-* Identify the elements that contribute to a better connection with our partner
-
-* How can we connect better with the decision-making process of our client?
-
-* Techniques for solving objections
-
-* Techniques for customer's needs detection
-
-* Techniques for opening a conversation in a professional manner
-
-* Techniques for argumentation
-
-* Techniques for closing a sales conversation
-
-* Techniques for selling the price
-
-2014: Middle management
-=======================
-
-*Dates:* March 12, 2014 - March 13, 2014
-
-**Tea-Cegos S.A., Madrid, Spain**
-
-* Manage your time and your team's time.
-
-* Delegation as a management tool.
-
-* Manage with emotional intelligence.
-
-* Create a team: group functioning
-
-2011: Finance for non-financial
-===============================
-
-July 4, 2011 - July 5, 2011
-
-**Global Estrategias - Demos Group, Madrid, Spain**
-
-* General concepts on Finance
-
-2011: Master Class Business Fundamentals - Module 3: Leading change
-===================================================================
-
-March 3, 2011 - March 4, 2011
-
-**Antwerp Management School, Brussels, Belgium**
-
-* Increased self awareness as a leader – identification of my key strengths and development areas.
-
-* Development of my leadership brand and key leadership principles.
-
-* Ability to apply and use a tool kit of change tools in a range of change scenarios.
-
-2011: Master Class Business Fundamentals - Module 2: Managing the fundamentals
-==============================================================================
-
-January 25, 2011 - January 26, 2011
-
-**Antwerp Management School, Brussels, Belgium**
-
-Supply Chain Management:
-
-* Map a supply chain using SCOR building blocks.
-
-* Define KPI’s for supply chains and their elements.
-
-* Recognize where supply chain decoupling points are located and how these inventory points are managed.
-
-Financial management:
-
-* Identifying a project’s relevant cash flows.
-
-* Evaluating corporate-growth objectives with the economics of projects.
-
-* How to measure value creation at the firm level using the concept of market value added.
-
-* How to measure value creation at the firm or divisional level using the concept of economic value added (EVA).
-
-* How to design management compensation schemes that induce managers to make value-creating decisions.
-
-2010: Master Class Business Fundamentals - Module 1: Strategy Implementation
-============================================================================
-
-November 8, 2010 - November 10, 2010
-
-**Antwerp Management School, Brussels, Belgium**
-
-* Correctly handle Strategic diagnostic tools.
-
-* Develop a SWOT and Field Force Analysis and draw business conclusions from it.
-
-* Define key Success Factors and market entry obstacles.
-
-* Practice principles of segmenting, targeting and positioning.
-
-2010: Management skills IV
-==========================
-
-September 13, 2010 - September 14, 2010
-
-**Marcom Deli, Madrid, Spain**
-
-* Creativity applied to management.
-
-* How to object in meetings.
-
-* How to bring conversation topic.
-
-* Maintain leadership when a collaborator challenges a rule.
-
-2009: Management skills III
-===========================
-
-November 16, 2009 - November 17, 2009
-
-**Marcom Deli, Madrid, Spain**
-
-Exercise the knowledge acquired in previous Management Skills sessions.
-
-2009: Management skills II
-==========================
-
-June 22, 2009 - June 23, 2009
-
-**Marcom Deli, Madrid, Spain**
-
-* Essential management functions.
-
-* Leadership.
-
-* Management skills.
-
-* Work in group.
-
-* Decision taking.
-
-* Delegation.
-
-* Meeting management.
-
-* Time management.
-
-* Team motivation.
-
-* Conflict management.
-
-2009: Management skills I
-=========================
-
-April 27, 2009 - April 28, 2009
-
-**Marcom Deli, Madrid, Spain**
-
-* Assertive communication.
-
-* Public speaking.
-
-* Customer orientation.
-
-2004: Speak to convince
-=======================
-
-*Dates:* March 25, 2004 - March 26, 2004
-
-**Asset media consulting, Madrid, Spain**
-
-* Overcome fear.
-
-* Objectives and path.
-
-* Speak with them.
-
-* Non-verbal language.
-
-2003: Consulting Skills for Professionals
-=========================================
-
-*Dates:* February 21, 2003 - February 22, 2003
-
-**Logra GmbH, Madrid, Spain**
-
-* Phases in consultancy development (Novation model).
-
-* Increasing your impact.
-
-* Profile feedback and action planning.
-
-* Defining the business need.
-
-* Reaching agreement.
-
-* Gathering information.
-
-* Recommending and leading change.
-
-* Closing and taking stock.
-
-2001: Acclivus Sales Negotiation
-================================
-
-*Dates:* September 21, 2001 - September 22, 2001
-
-**InterPoint LLC, Madrid, Spain**
-
-* Sources of power.
-
-* Fundamental principles.
-
-* Tactics.
-
-* Personal dimensions.
-
-* Countertactics.
-
-* Discount demands.
 
 ***********
 Mathematics
@@ -1202,191 +1390,3 @@ Grade Achieved: 100.0% with Distinction `Coding the Matrix Certificate <https://
 
 Learn the concepts and methods of linear algebra, and how to use them to think about computational problems arising in computer science. Coursework includes building on the concepts to write small programs and run them on real data.
  
-**************
-Virtualization
-**************
-
-2014: VTSP - DV (Desktop Virtualization 5)
-==========================================
-
-`VTSP - DV Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-DV.pdf>`_
-
-*Certified:* January 2, 2014
-
-**VMware**
-
-* Desktop Virtualization VMWare solutions Technical Sales Professional
-
-2013: VTSP - BC (Business Continuity 5)
-=======================================
-
-`VTSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-BC%20(Business%20Continutiy%205).pdf>`_
-
-*Certified:* July 11, 2013
-
-**VMware**
-
-This training starts you down the path of being able to identify, engage and design solutions for customers around their disaster recovery and business continuity challenges. This badge identifies you as an individual that understands and recognizes where and when to leverage vSphere Data Protection and the design considerations and capabilities of VMware Site Recovery Manager (SRM).
-
-2013: VSP - BC (Business Continuity 5)
-======================================
-
-`VSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-%20BC%20(Business%20Continuity%205).pdf>`_
-
-*Certified:* May 13, 2013
-
-**VMware**
-
-This training introduce you to the issues and challenges associated with maintaining business continuity, including and developing a sound disaster recovery strategy. You learn how VMware’s technology and its services help address those challenges. You will also learn how to identify and qualify prospects that are ripe for a VMware business continuity solution.
-
-2013: VMware Technical Sales Professional 5 (VTSP 5)
-====================================================
-
-`VTSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/certificate%20VTSP.pdf>`_
-
-*Certified:* April 5, 2013
-
-**VMware**
-
-Completion of the VTSP 5 Accreditation allow you to:
-
-* Identify where and how specific products fit into an overall customer solution.
-
-* Discuss and demonstrate the strengths and benefits of key technical features.
-
-* Guide customers through product evaluation and selection.
-
-* Apply knowledge to answer technical questions related to VMware products and solutions.
-
-2013: VMware Sales Professional 5 (VSP 5)
-=========================================
-
-`VSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP5-certificate.pdf>`_
-
-*Certified:* March 15, 2013
-
-**VMware**
-
-Completion of the VSP 5 Accreditation allow you to:
-
-* Describe the basics of virtualization and cloud computing technology.
-
-* Articulate the main customer challenge areas that VMware solutions address.
-
-* Engage a customer in a discussion about VMware’s solutions for Cloud Computing.
-
-* Craft an elevator pitch suitable for brief discussions, leaving voice messages, or sending e-mails.
-
-* Design your own enablement plan to increase your competence and value as a VMware Partner.
-
-* Take advantage of VMware Partner programs for generating demand and increasing revenue.
-
-********
-Security
-********
-
-2007: Business Continuity Planning
-==================================
-
-December 10, 2007 - December 13, 2007
-
-**John Cordier Academy, Leuven, Belgium**
-
-* Establish the relations between internationally recognised best practices in the field of Business Continuity Management.
-
-* Identify and understand the components of a complete Business Continuity Management program.
-
-* Define the implementation process of a Business Continuity Management program: 
-  * Initiate the BCM program and obtain Management commitment.
-  
-  * Determine the functional requirements.
-  
-  * Evaluate and recommend Business Continuity Strategies.
-  
-  * Document the Business Continuity plan.
-  
-  * Exercice and maintain the BCM program.
-  
-  * Develop a BCM culture.
-
-* Identify success factors and risks associated with a Business Continuity Management program.
-
-2007: ISMS internal auditor (ISO/IEC 27001:2005)
-================================================
-
-September 24, 2007 - September 26, 2007
-
-**Bureau Veritas, Madrid, Spain**
-
-* Enable delegates to undertake internal audits and lead audits of Information Security Management System.
-
-* Explain to the delegates the purpose and planning procedure of making systems secure.
-
-* Ensure delegates understand the importance of organising and reporting their audit findings.
-
-2007: ISMS internal auditor (ISO/IEC 27001:2005)
-================================================
-
-February 12, 2007 - February 16, 2007
-
-**John Cordier Academy, Leuven, Belgium**
-
-* Enable delegates to undertake internal audits and lead audits of Information Security Management System.
-
-* Explain to the delegates the purpose and planning procedure of making systems secure.
-
-* Ensure delegates understand the importance of organising and reporting their audit findings.
-
-2005: Information Systems Security Symposium
-============================================
-
-November 13, 2005 - November 16, 2005
-
-**CEDI 2005 - 1st Spanish Congress in Computer Science, Granada, Spain**
-
-* Cryptanalysis.
-
-* Cryptographic protocols.
-
-* Intrusion Detection Systems.
-
-* Secure implementations.
-
-* Authentication and control access.
-
-* Analysis and management of security.
-
-* Defense mecanisms.
-
-2003: Certified Information Systems Security Professional (CISSP)
-=================================================================
-
-*Certified:* July, 2003 *Expires:* NA
-
-**International Information Systems Security Certification Consortium, Inc. ISC2**
-
-* Access Control.
-
-* Telecommunications and Network Security.
-
-* Information Security Governance and Risk Management.
-
-* Software Development Security.
-
-* Cryptography.
-
-* Security Architecture and Design.
-
-* Operations Security.
-
-* Business Continuity and Disaster Recovery Planning.
-
-* Legal, Regulations, Investigations and Compliance.
-
-* Physical (Environmental) Security.
-
-2002: Check Point Certified Security Expert NG (CCSE NG)
-========================================================
-
-**Check Point**
-
