@@ -62,6 +62,10 @@ Experience:
 January 2011 - January 2013: Virtualization, Data Center and Security Technical director
 ****************************************************************************************
 
+.. image:: /images/acuntia.gif
+   :width: 150 px
+   :align: left
+
 **Acuntia**
 
 C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
@@ -94,6 +98,10 @@ C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 January 2010 - January 2011: Virtualization, Data Center and Security Deputy Technical Director
 ***********************************************************************************************
 
+.. image:: /images/telindus.png
+   :width: 150 px
+   :align: left
+
 **Telindus S.A.U. - Belgacom Group (later Acuntia)**
 
 C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
@@ -103,6 +111,10 @@ Same main activities and responsibilities as described for Technical Director.
 ***************************************************************************
 January 2006 - January 2010: Head of Risk Management and IT Governance Area
 ***************************************************************************
+
+.. image:: /images/telindus.png
+   :width: 150 px
+   :align: left
 
 **Telindus S.A.U. - Belgacom Group (later Acuntia)**
 
@@ -115,6 +127,10 @@ C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
 *************************************************
 January 2000 - January 2006: Technical consultant
 *************************************************
+
+.. image:: /images/telindus-logo.jpg
+   :width: 150 px
+   :align: left
 
 **Telindus S.A.U. (later Acuntia)**
 
@@ -138,6 +154,10 @@ C/ Plaza Ciudad de Viena 6, 28040 Madrid (Spain)
 May 1999 - January 2000: Analyst Programmer
 *******************************************
 
+.. image:: /images/Logo-MNS-65.png
+   :width: 150 px
+   :align: left
+
 **Medianet Software S.A.** 
 
 Av del Llano Castellano 13, 28034 Madrid (Spain)
@@ -155,6 +175,10 @@ Av del Llano Castellano 13, 28034 Madrid (Spain)
 ***************************************
 May 1998 - May 1999: Scholarship holder
 ***************************************
+
+.. image:: /images/telefonicaIxD.png
+   :width: 150 px
+   :align: left
 
 **Telefonica Research and Development**
 
