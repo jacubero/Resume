@@ -6,6 +6,10 @@ PERSONAL INFORMATION
    :width: 150 px
    :align: left
 
+.. image:: /images/CISCO.jpg
+   :width: 150 px
+   :align: left
+
 .. image:: /images/EMCproven.jpg
    :width: 150 px
    :align: left
@@ -69,7 +73,8 @@ jaacubero@gmail.com
 .. image:: /images/linkedin.png
    :width: 15 px
    :align: left
- 
-es.linkedin.com/in/jaalvarezcubero
+
+<es.linkedin.com/in/jaalvarezcubero>_ 
+
 
 *Sex* Male | *Date of birth* 19 November 1974

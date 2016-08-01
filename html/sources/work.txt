@@ -2,13 +2,38 @@
 WORK EXPERIENCE
 ###############
 
-***********************************************************************************
-January 2013 - Present: Virtualization and Data Center Business Development Manager
-***********************************************************************************
+************************************************************************************************
+January 2013 - Present: Virtualization and Data Center Business Development and Presales Manager
+************************************************************************************************
+
+.. image:: /images/acuntia.gif
+   :width: 150 px
+   :align: left
 
 **Acuntia**
 
 C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
+
+Roles and Responsibilities:
+===========================
+
+* Design technical solutions.
+
+* Serve as subject expert with Data Center technologies.
+
+* Work with the internal departments to define technical requirements for Work Requests.
+
+* Collect high-level customer requirements and break them down into concrete and executable technical requirements, which can be further processed.
+
+* Act as a spokesperson at important events and conferences, presenting company vision.
+
+* Detailed understanding of the Data Center industry and market. Familiar with latest IT and data center trends.
+
+* Experienced in developing and marketing of innovative solutions and products.
+
+* Work closely with customers to drive the development of innovative network and/or data center solutions, which are aligned with SDN and NFV principles.
+
+* Drive proof-of-concepts with selected customers, and lead technical and commercial feasibility studies  
 
 * Develop, analyse and optimize the Product and Marketing strategy of Virtualization and Data Center Business Unit. 
 
@@ -30,6 +55,9 @@ C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 
 * Manage and coach the product management team in order to have a high performing, best in class team.
 
+Experience:
+===========
+
 ****************************************************************************************
 January 2011 - January 2013: Virtualization, Data Center and Security Technical director
 ****************************************************************************************
@@ -39,6 +67,14 @@ January 2011 - January 2013: Virtualization, Data Center and Security Technical 
 C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 
 * Implement and lead relevant projects.
+
+* Serve as the functional and technical expert.
+
+* Review and integrate all requirements for the infrastructure.
+
+* Responsible for performance, availability and scalability of the infrastructure.
+
+* Evaluate impact of change from a solutions point of view.
 
 * Develop projects schedule by analyzing activity sequences, activity durations, and resource requirements.
 
