@@ -132,7 +132,6 @@ Organisational / managerial skills
 
   * *Delivering at pace*: I focus on delivering timely performance, with energy, and taking responsibility and accountability for high-quality outcomes. I try to deliver objectives and responding to challenges responsively and constructively.
 
-
 ************
 Other skills
 ************
