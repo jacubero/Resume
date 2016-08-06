@@ -80,13 +80,23 @@ Data Center
 Computer Science
 ================
 
-* Object oriented programming experience (C++). 
+* Standards: ISO9000, ISO13335, ISO14000, ISO20000, ISO27000.
 
-* High-level languages (e.g. Python, Matlab).
+* SDN and NFV technologies: Cisco, VMware, Juniper, Openflow.
+
+* Cloud Architectures: OpenStack, Microsoft Azure, Amazon AWS.
+
+* Data Center Networking (Cisco MDS and Nexus), Computing (Cisco, HP), Storage (NetApp, EMC, Pure Storage), Virtualization (VMWare, Microsoft, Citrix), Management (CA Technologies, VMWare).
+
+* Programming and scripting: Bash, Python, C, C++.
+
+* DevOps.
+
+* Security: Business Continuity Planning (BCP), Information System Management System (ISMS).
+
+* Finance and business modeling skills.
 
 * Familiarity with writing SQL queries and working with databases.
-
-* Good knowledge of scripting languages.
 
 * Software development experience with common Web platform / language technologies based on API REST.
 

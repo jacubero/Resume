@@ -2,13 +2,13 @@
 José Antonio Álvarez Cubero
 ###########################
 
-.. _cover:
+.. .. _cover:
 
-.. image:: /images/jose.jpg
-   :width: 200 px
-   :align: center
+.. .. image:: /images/jose.jpg
+..    :width: 200 px
+..    :align: center
 
-|
+.. |
 
 .. _toc: 
 
