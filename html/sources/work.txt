@@ -33,11 +33,11 @@ Key result areas:
 =================
 
 * Increase Data Center OITs (Order Intakes) by more than 100\% en less than 3 years.
-* *Data Center infrastructure for Abertis, ADIF, Aena, Andorra Telecom, AON, Ayuntamiento de C\'ordoba, Ayuntamiento de Gij\'on, Banc Sabadell, BT Spain, Cecabank, CEMEX, Diputaci\'on de Pontevedra, Disa Consulting, Euskaltel, Financiera Maderera, Gestamp, Gneis, Hospital Sta. Creu i Sant Pau, Hotelbeds Technology, Iberdrola, Ibermutuamur, Inditex, Orange Spain, R Cable, RED.ES, RTVE, Schindler, Softonic, TUI Holding Spain, TV3, Universidad de Valencia, Vodafone/ONO, Xunta de Galicia*.
+* *Data Center infrastructure for Abertis, ADIF, Aena, Andorra Telecom, AON, Ayuntamiento de Córdoba, Ayuntamiento de Gijón, Banc Sabadell, BT Spain, Cecabank, CEMEX, Diputación de Pontevedra, Disa Consulting, Euskaltel, Financiera Maderera, Gestamp, Gneis, Hospital Sta. Creu i Sant Pau, Hotelbeds Technology, Iberdrola, Ibermutuamur, Inditex, Orange Spain, R Cable, RED.ES, RTVE, Schindler, Softonic, TUI Holding Spain, TV3, Universidad de Valencia, Vodafone/ONO, Xunta de Galicia*.
 * *Optimized and secure remote access to employees for AON* via virtual desktop infrastructure (VDI).
 * `Data management and protection for Mundo R <https://www.commvault.com/resource-library/55cb67a1d409f5a5e000006e/case-study-mundo-r-es.pdf>`_ for a large Hosting Infrastructure, optimizing storage, improving RTO and RPO, integrating existing cloud services and covering new mobility scenarios.
 * *Service Desk solution for Gestamp* with capabilities such as Ticket (incident, problem, request, issue) Management, Change Management, Configuration Management, Knowledge Management, Support Automation.
-* IImplement a recognized software defined lab for customer demo and training: OpenStack integrated with EMC ScaleIO, Cisco ACI, VMware, ADC (F5) and Firewall (ASA, Firepower, Fortinet, PaloAlto, etc.). Visited by large Spanish companies: Telefónica, Vodafone, BT, Euskaltel, BBVA, Banco Santander, Caixa Bank, Kutxa Bank, Grifols, Gestamp, Enagás, Generalitat de Catalunya.
+* IImplement a recognized software defined lab for customer demo and training: OpenStack integrated with EMC ScaleIO, Cisco ACI, VMware, ADC (F5) and Firewall (ASA, Firepower, Fortinet, PaloAlto, etc.). Visited by large Spanish companies: Banco Santander, Bankinter, BBVA, BT, Caixa Bank, Enagás, Euskaltel, Generalitat de Catalunya, Grifols, Kutxa Bank, Telefónica, Vodafone.
 * The first Spanish company to deploy a demo lab with a EMC Software Defined Storage Solution called ScaleIO. 
 * The first and only company that achieves Cisco Master Cloud Builder Specialization in Spain. Top Cisco partner in Spain during several years.
 * The most recognized Spanish company in SDN solutions. The first Spanish company that achieves Cisco ACI ATP Certification. The first company to deploy a Cisco ACI solution in production in Spain for Grifols. 
@@ -113,7 +113,7 @@ Most relevant projects:
 * *Storage, Computing and Virtualization infrastructure implementation for RTVE (Spanish Radio and Television Corporation)*.
 * *Network Monitoring System implementation for NASERTIC which provides IT connectivity to the Navarrese Public Administration*.
 * *Storage, Computing and virtualization infrastructure implementation in two Data Centers for Gestamp*.
-* *Secure network architecture design and implementation for OTAN*.
+* *Secure network architecture design and implementation for NATO*.
 
 *************************************************
 January 2000 - January 2006: Technical consultant
