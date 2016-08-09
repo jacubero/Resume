@@ -10,7 +10,7 @@ January 2013 - Present: Virtualization and Data Center Business Development and 
    :width: 150 px
    :align: left
 
-**Acuntia** : One of the largest system integrators in Spain, producing a portfolio of solutions in the following areas: Virtualization and Data Center, Network Architecture, Video and Collaboration, Security and Mobility, and Innovation Strategy.
+**Acuntia (formerly known as TELINDUS)** : One of the largest system integrators in Spain, producing a portfolio of solutions in the following areas: Virtualization and Data Center, Network Architecture, Video and Collaboration, Security and Mobility, and Innovation Strategy.
 
 C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 
