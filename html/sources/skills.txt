@@ -90,7 +90,7 @@ Computer Science
 
 * Programming and scripting: Bash, Python, C, C++.
 
-* DevOps.
+* DevOps tools shuch as Ansible, Chef and Puppet.
 
 * Security: Business Continuity Planning (BCP), Information System Management System (ISMS).
 
