@@ -33,7 +33,7 @@ Key result areas:
 =================
 
 * Increase Data Center OITs (Order Intakes) by more than 100\% en less than 3 years.
-* *Data Center infrastructure for Abertis, ADIF, Aena, Andorra Telecom, AON, Ayuntamiento de Córdoba, Ayuntamiento de Gijón, Banc Sabadell, BT Spain, Cecabank, CEMEX, Diputación de Pontevedra, Disa Consulting, Euskaltel, Financiera Maderera, Gestamp, Gneis, Hospital Sta. Creu i Sant Pau, Hotelbeds Technology, Iberdrola, Ibermutuamur, Inditex, Orange Spain, R Cable, RED.ES, RTVE, Schindler, Softonic, TUI Holding Spain, TV3, Universidad de Valencia, Vodafone/ONO, Xunta de Galicia*.
+* *Data Center infrastructure for Abertis, ADIF, Aena, Andorra Telecom, AON, Ayuntamiento de Córdoba, Ayuntamiento de Gijón, Banc Sabadell, BT Spain, Cecabank, CEMEX, Diputación de Pontevedra, Disa Consulting, Euskaltel, Financiera Maderera, Gestamp, Gneis, Hospital Sta. Creu i Sant Pau, Hotelbeds Technology, Iberdrola, Ibermutuamur, Inditex, Orange Spain, R Cable, RED.ES, RTVE, Schindler, Softonic, TUI Holding Spain, TV3, Universidad de Valencia, Vodafone/ONO, Xunta de Galicia, Yoigo*.
 * Implement a recognized software defined lab for customer demo and training: OpenStack integrated with EMC ScaleIO, Cisco ACI, VMware, ADC (F5) and Firewall (ASA, Firepower, Fortinet, PaloAlto, etc.). Visited by large Spanish companies: Banco Santander, Bankinter, BBVA, BT, Caixa Bank, Enagás, Euskaltel, Generalitat de Catalunya, Grifols, Kutxa Bank, Telefónica, Vodafone.
 * The first Spanish company to deploy a demo lab with a EMC Software Defined Storage Solution called ScaleIO. 
 * The first and only company that achieves Cisco Master Cloud Builder Specialization in Spain. Top Cisco partner in Spain during several years.
