@@ -317,6 +317,42 @@ April 27, 2009 - April 28, 2009
 Cloud and Software Defined Datacenter
 *************************************
 
+LFS152x: Introduction to OpenStack
+==================================
+
+Certified: October 20, 2016
+
+**The Linux Foundation**
+
+This introductory course is taught by cloud experts from The Linux Foundation, which also delivers the Certified OpenStack Administrator (COA) exam. 
+
+* Session 1: From Virtualization to Cloud Computing.
+
+* Session 2: Understanding OpenStack. 
+
+* Session 3: Deploying OpenStack (PackStack and DevStack).
+
+* Session 4: Deploying a Virtual Machine from Horizon.
+
+* Session 5: Managing OpenStack from the Command Line.
+
+* Session 6: Scaling Out Your OpenStack.
+
+
+Cisco CloudCenter (CliQr) Sales/Pre-sales Bootcamp
+==================================================
+
+*Date:* October 17, 2016
+
+**Cisco Systems, Madrid, Spain**
+
+* Module 1 - Cloud Summary and Typical Customer Pain Points
+
+* Cisco CloudCenter
+
+* Sales Plays
+
+
 Juniper Networks EMEA Automation 1.0 Workshop
 =============================================
 
@@ -538,7 +574,7 @@ SDN for Network Engineers
 
 `VTSP Network Virtualization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-NV-1.pdf>`_
 
-Certified: November 12,2015
+Certified: November 12, 2015
 
 **VMWare**
 
@@ -557,7 +593,7 @@ The VMware Technical Sales Professional for Network Virtualization (VTSP – NV)
 
 `VSP Network Virtualization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-NV-1.pdf>`_
 
-Certified: October 29,2015
+Certified: October 29, 2015
 
 **VMWare**
 
