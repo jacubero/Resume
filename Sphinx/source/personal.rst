@@ -26,6 +26,10 @@ PERSONAL INFORMATION
    :width: 111 px
    :align: left
 
+.. image:: /images/Linux_Foundation_logo.png
+   :width: 150 px
+   :align: left
+
 |
 |
 |
