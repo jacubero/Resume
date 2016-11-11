@@ -320,7 +320,7 @@ Cloud and Software Defined Datacenter
 LFS152x: Introduction to OpenStack
 ==================================
 
-Certified: October 20, 2016
+Grade Achieved: 92% Certified: October 20, 2016
 
 **The Linux Foundation**
 
@@ -1115,6 +1115,27 @@ The NASP program prepare you to:
 ************
 Data Science 
 ************
+
+Big Data University Workshop
+============================
+
+*Dates:* May 11, 2015- June 8, 2015
+
+**Cisco Systems Inc., Madrid, Spain**
+
+Workshop highlights include:
+
+* Big Data Market
+
+* Cisco Big Data Solutions
+
+* Sales Strategies
+
+* Fundamentals of Hadoop
+
+* Differences between Hadoop Distributors
+
+* Fundamentals of Data Analytics
 
 2015: Data Lakes for Big Data
 =============================
