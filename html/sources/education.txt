@@ -317,6 +317,69 @@ April 27, 2009 - April 28, 2009
 Cloud and Software Defined Datacenter
 *************************************
 
+Advanced Contrail Bootcamp
+==========================
+
+*Dates:* April 26, 2016 - April 27, 2016
+
+**SDN Essentials, Madrid, Spain**
+
+* Contrail Review
+
+  * Overlay overview
+
+  * Contrail
+
+  * Basic Config
+
+  * Floating IPs
+
+  * Service Chaining Lab: Contrail Review
+
+* Bare Metal Routing and Switching
+
+  * Device Manager
+
+  * TOR Switch Config using OVSDB Lab: Device Manager and TOR Switch management with OVSDB
+
+* A Packet Walkthrough
+
+  * Encap/Decap
+
+  * Signaling
+
+  * Forwarding
+
+* Automation with Heat and Contrail APIs
+
+  * HEAT Templates
+
+  * OpenStack and Contrail APIs
+
+  * CURL and Perl Lab: Contrail Automation
+
+* Contrail HA
+  
+  * Multiple Controllers
+
+  * Multiple Config Nodes
+
+  * Multiple NIC support Lab: High Availability
+
+* Contrail and Containers
+  
+  * Containers Overview
+
+  * Kubernetes
+
+  * Docker
+
+  * Using Containers with Contrail Lab: Containers
+
+* Contrail Service Orchestration
+
+  * Contrail Service Orchestrator Lab: Service Orchestration
+
 LFS152x: Introduction to OpenStack
 ==================================
 

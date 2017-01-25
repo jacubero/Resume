@@ -30,6 +30,20 @@ Publications
 
 .. [AlvarezZ:98] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 1998. Neural artificial vision system for estimating the position of a mobile robot in a unstrustrurated environments. In International Congress Engineering Applications In Neural Networks (EANN'98), pages 66-69. 
 
+*****************
+Training provided
+*****************
+
+2008: Escuela de Administración pública de Extremadura
+======================================================
+
+December, 2008
+*Course Title:* Jornada Divulgativa sobre la red científico-tecnológica de Extremadura
+
+.. image:: /images/extremadura.jpg
+   :width: 150 px
+   :align: left
+
 *********
 Web Sites
 *********
