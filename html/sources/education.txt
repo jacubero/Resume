@@ -324,61 +324,97 @@ Advanced Contrail Bootcamp
 
 **SDN Essentials, Madrid, Spain**
 
-* Contrail Review
+The Advanced Contrail Bootcamp is a 2-day course covering advanced features in Juniper Networks' Contrail solution. This course has a primary objective of guiding students through Juniper's Contrail solution with topics such as Device Manager, Automation with HEAT and Contrail APIs, High Availability, Containers and Service Orchestration. The course will consist of 50% labs with the remaining 50% consisting of instructor led presentations, questions and audience participation.
 
-  * Overlay overview
+Objectives:
+-----------
 
-  * Contrail
+After successfully completing this course, you should be able to perform the following:
 
-  * Basic Config
+* Describe Juniper Contrail advanced features
 
-  * Floating IPs
+* Understand Device Manager and TOR switch configuration
 
-  * Service Chaining Lab: Contrail Review
+* Discuss a packet walkthrough
 
-* Bare Metal Routing and Switching
+* Perform automation with HEAT templates and Contrail APIs
 
-  * Device Manager
+* Understand HA capabilities
 
-  * TOR Switch Config using OVSDB Lab: Device Manager and TOR Switch management with OVSDB
+* Discuss Containers
 
-* A Packet Walkthrough
+* Understand Service Orchestration
 
-  * Encap/Decap
+Agenda
+------
 
-  * Signaling
+01 – Contrail Review:
 
-  * Forwarding
+* Overlay overview
 
-* Automation with Heat and Contrail APIs
+* Contrail
 
-  * HEAT Templates
+* Basic Config
 
-  * OpenStack and Contrail APIs
+* Floating IPs
 
-  * CURL and Perl Lab: Contrail Automation
+* Service Chaining
 
-* Contrail HA
-  
-  * Multiple Controllers
+Lab: Contrail Review
 
-  * Multiple Config Nodes
+02 – Bare Metal Routing and Switching
 
-  * Multiple NIC support Lab: High Availability
+* Device Manager
 
-* Contrail and Containers
-  
-  * Containers Overview
+* TOR Switch Config using OVSDB
 
-  * Kubernetes
+Lab: Device Manager and TOR Switch management with OVSDB
 
-  * Docker
+03 – A Packet Walkthrough
 
-  * Using Containers with Contrail Lab: Containers
+* Encap/Decap
 
-* Contrail Service Orchestration
+* Signaling
 
-  * Contrail Service Orchestrator Lab: Service Orchestration
+* Forwarding
+
+04 – Automation with Heat and Contrail APIs
+
+* HEAT Templates
+
+* OpenStack and Contrail APIs
+
+* CURL and Perl
+
+Lab: Contrail Automation
+
+05 – Contrail HA
+
+* Multiple Controllers
+
+* Multiple Config Nodes
+
+* Multiple NIC support
+
+Lab: High Availability
+
+06 – Contrail and Containers
+
+* Containers Overview
+
+* Kubernetes
+
+* Docker
+
+* Using Containers with Contrail
+
+Lab: Containers
+
+07 – Contrail Service Orchestration
+
+* Contrail Service Orchestrator
+
+Lab: Service Orchestration
 
 LFS152x: Introduction to OpenStack
 ==================================
