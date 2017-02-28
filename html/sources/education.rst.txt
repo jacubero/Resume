@@ -317,6 +317,19 @@ April 27, 2009 - April 28, 2009
 Cloud and Software Defined Datacenter
 *************************************
 
+2017: Cisco Live Berlin
+=======================
+
+*Dates:* February 20, 2016 - February 24, 2017
+
+**Cisco Systems Inc., Berlin, Germany**
+
+* Immerse yourself in five days of business and technical sessions, keynotes, panel discussions, and specialty programs on topics such as Cloud, Data Center, Networks, Service Provider, SDN, and Software Development.
+
+* Learn from Cisco Distinguished Engineers, CCIEs, and some of the world's top technology experts in our breakout sessions and additional training.
+
+* Get hands-on in the DevNet Zone.
+
 Advanced Contrail Bootcamp
 ==========================
 
