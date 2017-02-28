@@ -14,7 +14,7 @@
 
 import sys
 import os
-
+import ablog
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -38,10 +38,10 @@ extensions = [
     'ablog'
 ]
 
-import ablog
-
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+
+templates_path.append(ablog.get_html_templates_path())
 
 # The suffix of source filenames.
 source_suffix = '.rst'

@@ -2,9 +2,9 @@
 WORK EXPERIENCE
 ###############
 
-************************************************************************************************
-January 2013 - Present: Virtualization and Data Center Business Development and Presales Manager
-************************************************************************************************
+********************************************************************************************************
+January 2013 - Present: Data Center and Digital Transformation Business Development and Presales Manager
+********************************************************************************************************
 
 .. image:: /images/acuntia.gif
    :width: 150 px

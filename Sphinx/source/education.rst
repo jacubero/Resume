@@ -317,6 +317,19 @@ April 27, 2009 - April 28, 2009
 Cloud and Software Defined Datacenter
 *************************************
 
+2017: Cisco Live Berlin
+=======================
+
+*Dates:* February 20, 2016 - February 24, 2017
+
+**Cisco Systems Inc., Berlin, Germany**
+
+* Immerse yourself in five days of business and technical sessions, keynotes, panel discussions, and specialty programs on topics such as Cloud, Data Center, Networks, Service Provider, SDN, and Software Development.
+
+* Learn from Cisco Distinguished Engineers, CCIEs, and some of the world's top technology experts in our breakout sessions and additional training.
+
+* Get hands-on in the DevNet Zone.
+
 Advanced Contrail Bootcamp
 ==========================
 
@@ -1034,14 +1047,14 @@ IT Service Management
 2016: Certified Expert, CA Unified Infrastructure Management Sales 2016
 =======================================================================
 
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
+`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
 
 *Dates:* May 1, 2016
 
 2015: Partner Knowledge Transfer: How to Position and Present CA Nimsoft Monitor
 ================================================================================
 
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
+`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
 
 *Dates:* September 16, 2016
 
@@ -1059,21 +1072,21 @@ IT Service Management
 2014: CA UIM Partner Validation - Technical Sales: PRESENT
 ==========================================================
 
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
+`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
 
 *Dates:* August 7, 2014
 
 2014: CA UIM Partner Validation - Technical Sales: DEMO
 ==========================================================
 
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
+`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
 
 *Dates:* August 7, 2014
 
 2014: CA Nimsoft Monitor Partner Sales and Pre-Sales Demonstration On-Demand
 ============================================================================
 
-`Diploma <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
+`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
 
 *Dates:* March 20, 2014
 
