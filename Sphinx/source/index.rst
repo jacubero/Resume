@@ -22,6 +22,7 @@ Table of Contents:
    EDUCATION AND TRAINING <education>
    PERSONAL SKILLS <skills>
    ADDITIONAL INFORMATION <additional>
+   BLOG <blog>
 
 
 Search
