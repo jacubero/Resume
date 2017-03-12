@@ -92,6 +92,10 @@ Computer Science
 
 * DevOps tools such as Ansible, Chef and Puppet.
 
+* Containers: Docker, LXC.
+
+* Operating systems administration: Windows, Fedora-based and Debian-based linux distributions. 
+
 * Security: Business Continuity Planning (BCP), Information System Management System (ISMS).
 
 * Finance and business modeling skills.
