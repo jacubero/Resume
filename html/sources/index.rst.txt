@@ -8,7 +8,7 @@ José Antonio Álvarez Cubero
 ..    :width: 200 px
 ..    :align: center
 
-.. |
+
 
 .. _toc: 
 
@@ -22,7 +22,7 @@ Table of Contents:
    EDUCATION AND TRAINING <education>
    PERSONAL SKILLS <skills>
    ADDITIONAL INFORMATION <additional>
-   BLOG <blog>
+..   BLOG <blog>
 
 
 Search
