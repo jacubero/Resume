@@ -320,7 +320,7 @@ Cloud and Software Defined Datacenter
 2017: CCNA Data Center 
 ======================
 
-`CCNA Data Center Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CCNA.pdf>`_
+`CCNA Data Center Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CCNADC_certificate.pdf>`_
 
 *Certified:* April 10, 2017 *Expires:* April 10, 2020
 
