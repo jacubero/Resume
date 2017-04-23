@@ -1245,10 +1245,12 @@ November 13, 2005 - November 16, 2005
 
 * Defense mecanisms.
 
-2003: Certified Information Systems Security Professional (CISSP)
-=================================================================
+2003: Certified Information Systems Security Professional (CISSP) 47439
+=======================================================================
 
-*Certified:* July, 2003 *Expires:* NA
+`CISSP Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CISSP.pdf>`_
+
+*Certified:* July, 2003 *Expires:* July 31, 2018
 
 **International Information Systems Security Certification Consortium, Inc. ISC2**
 
@@ -1284,14 +1286,14 @@ IT Service Management
 2016: Certified Expert, CA Unified Infrastructure Management Sales 2016
 =======================================================================
 
-`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
 
 *Dates:* May 1, 2016
 
 2015: Partner Knowledge Transfer: How to Position and Present CA Nimsoft Monitor
 ================================================================================
 
-`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
 
 *Dates:* September 16, 2016
 
@@ -1309,21 +1311,21 @@ IT Service Management
 2014: CA UIM Partner Validation - Technical Sales: PRESENT
 ==========================================================
 
-`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
 
 *Dates:* August 7, 2014
 
 2014: CA UIM Partner Validation - Technical Sales: DEMO
 ==========================================================
 
-`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
 
 *Dates:* August 7, 2014
 
 2014: CA Nimsoft Monitor Partner Sales and Pre-Sales Demonstration On-Demand
 ============================================================================
 
-`<https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
 
 *Dates:* March 20, 2014
 
