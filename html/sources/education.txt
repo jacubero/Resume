@@ -1172,6 +1172,67 @@ Completion of the VSP 5 Accreditation allow you to:
 Security
 ********
 
+2017: Business continuity management system - ISO 22301
+=======================================================
+
+June 6, 2017 - June 7, 2017
+
+**AENOR, Madrid, Spain**
+
+Objectives:
+
+* Identify the reasons and concepts about Business Continuity Management (BCM)
+
+* To know the applicable norms and standards in force to identify requirements (ISO 22301 and ISO 27002)
+
+* Define a Business Continuity Management (BCM)
+
+* To know the practical processes for the definition and implementation of a Business Continuity (PCN)
+
+* To know the practical processes and to assure the fulfillment of the requirements of an SGCN according to ISO 22301
+
+Contents:
+
+1. Reasons for the implementation of Business Continuity Plans
+
+2. What is Business Continuity Management (BCM)
+
+3. Basic Concepts of Business Continuity:
+
+	3.1. BIA, RTO, RPO, critical assets, crisis, incident, ...
+
+4. Sources of requirements applicable to continuity and / or contingency:
+
+	4.1. ISO 22301, ISO 27002, ITIL, ENS, NIST 800-34, Critical Infrastructure Act
+
+5. Different stages of a methodology of implementation of Plans of Continuity (PCN)
+
+6. Initial organizational requirements needed to start a Project Management Business Continuity (BCM)
+
+7. Follow-up on a methodology for implementing BCM:
+
+7.1. Business impact analysis and risk assessment (BIA, RTO, RPO)
+
+7.2. Prevention and recovery strategies
+
+7.3. Development of contingency plans for IT and business functions (DRP)
+
+7.4. Needs and organization for crisis management
+
+7.5. Management and maintenance of plans: quality, testing, training, reviews
+
+8. SGCN requirements in accordance with ISO 22301:
+
+	8.1. Management and records processes for a compliant management system
+
+	8.2. Planning: from start to certification
+
+9. Recommendations for successful initial awareness and implementation
+
+10. Case study development:
+
+	10.1. BIA, threats, strategies, crisis committee, plans, tests
+
 2007: Business Continuity Planning
 ==================================
 
