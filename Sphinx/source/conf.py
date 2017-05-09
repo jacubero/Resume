@@ -14,12 +14,13 @@
 
 import sys
 import os
-import ablog
+# import ablog
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
 #sys.path.insert(0, os.path.abspath('.'))
+sys.path.append(os.path.abspath('/Users/jacubero/Sites'))
 
 # -- General configuration ------------------------------------------------
 
@@ -34,14 +35,14 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.ifconfig',
     'sphinx.ext.viewcode',
-    'sphinxtogithub',
-    'ablog'
+    'sphinxtogithub'
+#    ,'ablog'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
-templates_path.append(ablog.get_html_templates_path())
+#templates_path.append(ablog.get_html_templates_path())
 
 # The suffix of source filenames.
 source_suffix = '.rst'
