@@ -81,4 +81,6 @@ jaacubero@gmail.com
 `<http://es.linkedin.com/in/jaalvarezcubero>`_ 
 
 
-*Sex* Male | *Date of birth* 19 November 1974
+*Sex* Male
+
+*Date of birth* 19 November 1974

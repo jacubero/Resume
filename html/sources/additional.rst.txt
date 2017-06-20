@@ -37,12 +37,15 @@ Training provided
 2008: Escuela de Administración pública de Extremadura
 ======================================================
 
-December, 2008
-*Course Title:* Jornada Divulgativa sobre la red científico-tecnológica de Extremadura
-
 .. image:: /images/extremadura.jpg
    :width: 150 px
    :align: left
+
+December, 2008
+*Course Title:* Jornada Divulgativa sobre la red científico-tecnológica de Extremadura
+
+|
+|
 
 *********
 Web Sites
