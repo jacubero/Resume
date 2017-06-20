@@ -17,11 +17,13 @@ Table of Contents:
 .. toctree::
    :maxdepth: 2
 
-   PERSONAL INFORMATION <personal>
-   WORK EXPERIENCE <work>
-   EDUCATION AND TRAINING <education>
-   PERSONAL SKILLS <skills>
-   ADDITIONAL INFORMATION <additional>
+   Personal information <personal>
+   Work experience <work>
+   Education <education>
+   Training <training>
+   Certifications <certifications>
+   Personal skills <skills>
+   Additional information <additional>
 ..   BLOG <blog>
 
 
