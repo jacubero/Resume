@@ -2,8 +2,8 @@
 EDUCATION
 #########
 
-2015: Ph.D. in Telecommunications Engineering
-=============================================
+2015: Ph.D. by Universidad Politécnica de Madrid with a distinction "cum laude"
+===============================================================================
 
 December, 2015
 *Thesis Title:* Vector Boolean Functions: Applications in Symmetric Cryptography
