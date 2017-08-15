@@ -237,8 +237,51 @@ April 27, 2009 - April 28, 2009
 Cloud and Software Defined Datacenter
 *************************************
 
-2017: PURE//ACCELERATE 2017
-===========================
+LFS252: OpenStack Administration Fundamentals 
+=============================================
+
+*Dates:* July 15, 2017 - August 15, 2017
+
+**The Linux Foundation**
+
+OpenStack is growing at an unprecedented rate, and there is high demand for individuals who have experience managing this cloud platform. This course will teach you everything you need to know to create and manage private and public clouds with OpenStack. It is also excellent preparation for the Certified OpenStack Administrator exam.
+
+* Course Introduction
+
+* Cloud Fundamentals
+
+* Managing Guest Virtual Machines with OpenStack Compute
+
+* Components of an OpenStack Cloud (Part One)
+
+* Components of an OpenStack Cloud (Part Two)
+
+* Reference Architecture
+
+* Deploying Prerequisite Services
+
+* Deploying Services Overview
+
+* Advanced Software Defined Networking with Neutron (Part One)
+
+* Advanced Software Defined Networking with Neutron (Part Two)
+
+* Distributed Cloud Storage with Ceph
+
+* OpenStack Object Storage with Swift
+
+* High Availability in the Cloud
+
+* Cloud Security with OpenStack
+
+* Monitoring and Metering
+
+* Cloud Automation
+
+* Course Summary
+
+PURE//ACCELERATE 2017
+=====================
 
 *Dates:* June 11, 2017 - June 15, 2017
 
@@ -250,8 +293,8 @@ Cloud and Software Defined Datacenter
 
 * Rub elbows and mingle in a casual setting with fellow technology visionaries.
 
-2017: Cisco ONE Enterprise Cloud Suite Sales Training
-=====================================================
+Cisco ONE Enterprise Cloud Suite Sales Training
+===============================================
 
 *Dates:* May 30, 2017
 
