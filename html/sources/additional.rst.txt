@@ -8,6 +8,8 @@ ADDITIONAL INFORMATION
 Publications
 ************
 
+.. [AlvarezCubero:2017] Pedro J. Zufiria and ALVAREZ-CUBERO, J. A. 2017. `Generalized Lexicographic MultiObjective Combinatorial Optimization. Application to Cryptography <https://doi.org/10.1137/16M1107826>`_. SIAM Journal on Optimization, Volume 27 Number 4, October 2017, Pages 2182-2201
+
 .. [AlvarezCubero:2016] ALVAREZ-CUBERO, J. A. and Zufiria, P. J. 2016. `Algorithm 959: VBF: A Library of C++ Classes for Vector Boolean Functions in Cryptography <http://dl.acm.org/citation.cfm?id=2794077>`_. ACM Transactions on Mathematical Software (TOMS), Volume 42 Issue 2, May 2016, Article No. 16. 
 
 .. [AlvarezZ:12] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2012. `Cryptographic Criteria on Vector Boolean Functions <http://www.intechopen.com/books/cryptography-and-security-in-computing/cryptographic-criteria-on-vector-boolean-functions>`_. Cryptography and Security in Computing, Jaydip Sen (Ed.), Chapter 3, 51–70.
@@ -57,5 +59,8 @@ Web Sites
 Competitions
 ************
 
-* Qualify for the Round 2 Texata Big Data World Championship 2014
+* Among the 12 finalists of the 2017 Big Data Analytics World Championships
 
+.. image:: /images/texata.png
+   :width: 750 px
+   :align: center
