@@ -30,6 +30,10 @@ PERSONAL INFORMATION
    :width: 150 px
    :align: left
 
+.. image:: /images/openstack.png
+   :width: 150 px
+   :align: left
+
 |
 |
 |
