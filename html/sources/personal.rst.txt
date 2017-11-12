@@ -30,7 +30,7 @@ PERSONAL INFORMATION
    :width: 150 px
    :align: left
 
-.. image:: /images/openstack.png
+.. image:: /images/openstack.jpg
    :width: 150 px
    :align: left
 
