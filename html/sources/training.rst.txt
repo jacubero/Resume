@@ -57,6 +57,20 @@ July 4, 2011 - July 5, 2011
 
 * General concepts on Finance
 
+* Financial statements
+
+* Assessment criteria according to financial statements via NIC-NIFF-IFRS
+
+* Ratio techniques: profitability, solvency, indebtedness
+
+* Analyse economic concepts
+
+* Central Bank operations
+
+* Project viability
+
+* Customers risk and unpaid bills
+
 2011: Master Class Business Fundamentals - Module 3: Leading change
 ===================================================================
 
