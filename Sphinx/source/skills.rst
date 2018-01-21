@@ -2,11 +2,13 @@
 PERSONAL SKILLS
 ###############
 
-***************
-Language skills
-***************
+*****************
+Language Passport
+*****************
 
-`Language Passport <https://github.com/jacubero/Resume/blob/master/Certificates/LanguagePassport.pdf>`_
+.. image:: /images/LanguagePassport.pdf
+   :width: 750 px
+   :align: center
 
 ********************
 Communication skills
