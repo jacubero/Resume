@@ -10,6 +10,10 @@ Language Passport
    :width: 750 px
    :align: center
 
+.. image:: /images/CEFR.pdf
+   :width: 750 px
+   :align: center
+
 ********************
 Communication skills
 ********************
