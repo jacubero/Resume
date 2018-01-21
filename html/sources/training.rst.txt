@@ -533,10 +533,11 @@ Juniper Networks EMEA Automation 1.0 Workshop
 * Junos Automation with Ansible
 
 
-Using Contrail with OpenStack
-=============================
+Contrail/OpenStack Boot Camp
+============================
 
 *Dates:* April 26, 2016 - April 27, 2016
+`Certificate <https://raw.githubusercontent.com/jacubero/Resume/master/Certificates/ContrailOpenStackBootcamp.jpg>`_
 
 **SDN Essentials, Madrid, Spain**
 
@@ -610,10 +611,11 @@ During this conference, there are opportunities to:
 
 * Participate in one-on-one meetings with Cisco senior leadership and our eco-system sponsors.
 
-SDN for Network Engineers
-=========================
+SDN Enablement Bootcamp
+=======================
 
 *Dates:* April 5, 2016 - April 6, 2016
+`Certificate <https://raw.githubusercontent.com/jacubero/Resume/master/Certificates/SDNEnablementBootcamp.jpg>`_
 
 **SDN Essentials, Madrid, Spain**
 
@@ -1130,7 +1132,7 @@ Contents:
 
 3. Basic Concepts of Business Continuity:
 
-	3.1. BIA, RTO, RPO, critical assets, crisis, incident, ...
+  3.1. BIA, RTO, RPO, critical assets, crisis, incident, ...
 
 4. Sources of requirements applicable to continuity and/or contingency:
 
@@ -1142,15 +1144,15 @@ Contents:
 
 7. Follow-up on a methodology for implementing BCM:
 
-7.1. Business impact analysis and risk assessment (BIA, RTO, RPO)
+  7.1. Business impact analysis and risk assessment (BIA, RTO, RPO)
 
-7.2. Prevention and recovery strategies
+  7.2. Prevention and recovery strategies
 
-7.3. Development of contingency plans for IT and business functions (DRP)
+  7.3. Development of contingency plans for IT and business functions (DRP)
 
-7.4. Needs and organization for crisis management
+  7.4. Needs and organization for crisis management
 
-7.5. Management and maintenance of plans: quality, testing, training, reviews
+  7.5. Management and maintenance of plans: quality, testing, training, reviews
 
 8. SGCN requirements in accordance with ISO 22301:
 
@@ -1207,6 +1209,7 @@ September 24, 2007 - September 26, 2007
 ================================================
 
 February 12, 2007 - February 16, 2007
+`Certificate <https://raw.githubusercontent.com/jacubero/Resume/master/Certificates/ISMSAuditor.jpg>`_
 
 **John Cordier Academy, Leuven, Belgium**
 

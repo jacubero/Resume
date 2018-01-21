@@ -2,16 +2,19 @@
 EDUCATION
 #########
 
-2015: Ph.D. by Universidad Politécnica de Madrid with a distinction "cum laude"
-===============================================================================
+2015: Ph.D. with a distinction Excellent "Cum laude"
+====================================================
 
 December 2015
+Grade Achieved: `Excellent Cum laude <https://raw.githubusercontent.com/jacubero/Resume/master/Certificates/ED2_PhDTelecom.jpg>`_
+Universidad Politécnica de Madrid (Polytechnic University of Madrid)
 *Thesis Title:* Vector Boolean Functions: Applications in Symmetric Cryptography
 Supervisor: Pedro J. Zufiria
 
 .. image:: /images/etsitandupm.gif
    :width: 150 px
    :align: left
+
 
 **Depto. Matemática Aplicada a las Tecnologías de la Información, ETSIT, UPM**
 
@@ -56,8 +59,8 @@ October 2005 - July 2006
 
 * Design of telecommunication infrastructures
 
-1992-1998: Master of Science in Telecommunications Engineering
-==============================================================
+1992-1998: Master of Science in Telecommunication Engineering
+=============================================================
 
 .. image:: /images/etsitandupm.gif
    :width: 150 px
@@ -68,13 +71,8 @@ October 2005 - July 2006
 |
 |
 
-* Telecommunications Engineering
+Title: `Telecommunication Engineer <https://raw.githubusercontent.com/jacubero/Resume/master/Certificates/ED1_MasterTelecom1.jpg>`_
+Grade Achieved: `Sobresaliente <https://raw.githubusercontent.com/jacubero/Resume/master/Certificates/ED1_MasterTelecom2.jpg>`_
 
-* Computer Sciences
-
-* Mathematics
-
-* Signal Processing
-
-* Management
+The Master in Telecommunication Engineering (Master Universitario en Ingeniería de Telecomunicación) from Universidad Politécnica de Madrid has been accredited by the Engineering Accreditation Commission of ABET, http://www.abet.org.
 
