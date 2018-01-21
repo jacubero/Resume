@@ -52,13 +52,16 @@ PERSONAL INFORMATION
 |
 |
 |
-|	 **Jose Antonio Alvarez Cubero**
+|	 
 |
+
+**Jose Antonio Alvarez Cubero**
+
 .. image:: /images/location.png
    :width: 10 px
    :align: left
  
-Madrid,Spain
+Madrid, Spain
 
 .. image:: /images/phone.png
    :width: 15 px
@@ -84,7 +87,3 @@ jaacubero@gmail.com
 
 `<http://es.linkedin.com/in/jaalvarezcubero>`_ 
 
-
-*Sex* Male
-
-*Date of birth* 19 November 1974

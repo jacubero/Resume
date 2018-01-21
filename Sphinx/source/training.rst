@@ -2,6 +2,44 @@
 TRAINING
 ########
 
+**************
+Bioinformatics
+**************
+
+2014: Epidemics - the Dynamics of Infectious Diseases
+=====================================================
+
+Grade Achieved: 100.0% with Distinction `Epidemics - the Dynamics of Infectious Diseases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20epidemics%202014.pdf>`_
+
+*Dates:* September 29, 2014 - December 1, 2014
+
+**The Pennsylvania State University at Coursera**
+
+This course will cover key concepts that relate to the emergence, the spread, and the control of infectious disease epidemics.
+
+We covered various broad topics, including:
+
+* The basics: history of infectious diseases, basic concepts of disease dynamics, parasite diversity, evolution & ecology of infectious diseases
+
+* Emergence of diseases: The basic reproductive number, critical community size, epidemic curve, zoonoses, spill over, human/wildlife interface, climate change, hot zones, pathology
+
+* Spread of diseases: transmission types (droplets, vectors, sex), superspreading, diffusion, social networks, nosomical transmission, manipulation of behavior
+
+* Control of diseases: drug resistance, vaccination, herd immunity, quarantines, antibiotics, antivirals, health communication, ethical challenges of disease control
+
+* The future of infectious diseases: Evolution of virulence, emergence of drug resistance, eradication of diseases, medicine & evolution, crop diseases & food security, digital epidemiology
+
+2013-2014: Bioinformatics Algorithms (Part 1)
+=============================================
+
+Grade Achieved: 100.0% with Distinction `Bioinformatics Algorithms (Part 1) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Bioinformatics%202014.pdf>`_
+
+*Dates:* November 4, 2013 - January 27, 2014
+
+**University of California, San Diego at Coursera**
+
+This course covers some of the common algorithms underlying the following fundamental topics in bioinformatics: assembling genomes, comparing DNA and protein sequences, finding regulatory motifs, analyzing genome rearrangements, identifying proteins, and many other topics.
+
 ********
 Business
 ********
@@ -55,7 +93,7 @@ July 4, 2011 - July 5, 2011
 
 **Global Estrategias - Demos Group, Madrid, Spain**
 
-* General concepts on Finance
+* General concepts of Finance
 
 * Financial statements
 
@@ -78,11 +116,11 @@ March 3, 2011 - March 4, 2011
 
 **Antwerp Management School, Brussels, Belgium**
 
-* Increased self awareness as a leader – identification of my key strengths and development areas.
+* Increased self-awareness as a leader – identification of my key strengths and development areas.
 
 * Development of my leadership brand and key leadership principles.
 
-* Ability to apply and use a tool kit of change tools in a range of change scenarios.
+* Ability to apply and use a toolkit of change tools in a range of change scenarios.
 
 2011: Master Class Business Fundamentals - Module 2: Managing the fundamentals
 ==============================================================================
@@ -163,7 +201,7 @@ June 22, 2009 - June 23, 2009
 
 * Management skills.
 
-* Work in group.
+* Work in groups.
 
 * Decision taking.
 
@@ -220,7 +258,7 @@ April 27, 2009 - April 28, 2009
 
 * Defining the business need.
 
-* Reaching agreement.
+* Reaching an agreement.
 
 * Gathering information.
 
@@ -294,6 +332,7 @@ OpenStack is growing at an unprecedented rate, and there is high demand for indi
 
 * Course Summary
 
+
 PURE//ACCELERATE 2017
 =====================
 
@@ -307,6 +346,7 @@ PURE//ACCELERATE 2017
 
 * Rub elbows and mingle in a casual setting with fellow technology visionaries.
 
+
 Cisco ONE Enterprise Cloud Suite Sales Training
 ===============================================
 
@@ -315,6 +355,7 @@ Cisco ONE Enterprise Cloud Suite Sales Training
 **Cisco Systems Inc., Madrid, Spain**
 
 It is explained the value proposition of Cisco One ECS. What as the key questions you need to ask to different personas, how to pitch real Hybrid IT to your customers and get a clear view on the competition like VMWARE ELA or offset components of other vendors.
+
 
 2017: Cisco Live Berlin
 =======================
@@ -329,6 +370,7 @@ It is explained the value proposition of Cisco One ECS. What as the key question
 
 * Get hands-on in the DevNet Zone.
 
+
 Advanced Contrail Bootcamp
 ==========================
 
@@ -336,7 +378,7 @@ Advanced Contrail Bootcamp
 
 **SDN Essentials, Madrid, Spain**
 
-The Advanced Contrail Bootcamp is a 2-day course covering advanced features in Juniper Networks' Contrail solution. This course has a primary objective of guiding students through Juniper's Contrail solution with topics such as Device Manager, Automation with HEAT and Contrail APIs, High Availability, Containers and Service Orchestration. The course will consist of 50% labs with the remaining 50% consisting of instructor led presentations, questions and audience participation.
+The Advanced Contrail Bootcamp is a 2-day course covering advanced features in Juniper Networks' Contrail solution. This course has a primary objective of guiding students through Juniper's Contrail solution with topics such as Device Manager, Automation with HEAT and Contrail APIs, High Availability, Containers and Service Orchestration. The course will consist of 50% labs with the remaining 50% consisting of instructor-led presentations, questions, and audience participation.
 
 Objectives:
 -----------
@@ -427,6 +469,7 @@ Lab: Containers
 * Contrail Service Orchestrator
 
 Lab: Service Orchestration
+
 
 LFS152x: Introduction to OpenStack
 ==================================
@@ -555,7 +598,7 @@ EMEAR Data Center Partner Connection 2016
 
 **Cisco Systems, Rome, Italy**
 
-This invitation-only event provides Cisco's valued channel partners with the opportunities to network with data center executives and thought leaders as well our strategic ecosystem solution partners. Cisco discusses its vision and share insights about its technology roadmap, focusing on how Cisco's data center architecture is accelerating relevancy, speed, profitability, and growth in the channel.
+This invitation-only event provides Cisco's valued channel partners with the opportunities to network with data center executives and thought leaders as well our strategic ecosystem solution partners. Cisco discusses its vision and shares insights about its technology roadmap, focusing on how Cisco's data center architecture is accelerating relevancy, speed, profitability, and growth in the channel.
 
 During this conference, there are opportunities to:
 
@@ -757,7 +800,7 @@ SDN for Network Engineers
 
 **Cisco Systems Inc., Madrid, Spain**
 
-It is an instructor led, hands-on course that enables participants understand the different features of UCS Director software along with the capability to install and configure UCS Director software for demos and POCs. Participants will be able to speak authentically about the product and apply the software features to different customer use cases. In addition, participants will understand functionality around some advanced features such as bare metal provisioning, Amazon EC2 integration, UCS Director API Integration, Orchestration etc. The participants of this course will gain following benefits:
+It is an instructor-led, hands-on course that enables participants to understand the different features of UCS Director software along with the capability to install and configure UCS Director software for demos and POCs. Participants will be able to speak authentically about the product and apply the software features to different customer use cases. In addition, participants will understand functionality around some advanced features such as bare metal provisioning, Amazon EC2 integration, UCS Director API Integration, Orchestration etc. The participants of this course will gain following benefits:
 
 * Ability to install and configure UCS Director for demos and POCs.
 
@@ -777,198 +820,6 @@ December 14, 2009 - December 18, 2009
 * Learn how to configure and manage UCS servers with consolidated I/O networking for LAN and SAN connectivity.
 
 * Learn how to virtualize server properties to enable simple and rapid mobility of server OS images between physical servers.
-
-********
-Security
-********
-
-2017: Business continuity management system - ISO 22301
-=======================================================
-
-June 6, 2017 - June 7, 2017
-
-**AENOR, Madrid, Spain**
-
-Objectives:
-
-* Identify the reasons and concepts about Business Continuity Management (BCM)
-
-* To know the applicable norms and standards in force to identify requirements (ISO 22301 and ISO 27002)
-
-* Define a Business Continuity Management (BCM)
-
-* To know the practical processes for the definition and implementation of a Business Continuity (PCN)
-
-* To know the practical processes and to assure the fulfillment of the requirements of an SGCN according to ISO 22301
-
-Contents:
-
-1. Reasons for the implementation of Business Continuity Plans
-
-2. What is Business Continuity Management (BCM)
-
-3. Basic Concepts of Business Continuity:
-
-	3.1. BIA, RTO, RPO, critical assets, crisis, incident, ...
-
-4. Sources of requirements applicable to continuity and / or contingency:
-
-	4.1. ISO 22301, ISO 27002, ITIL, ENS, NIST 800-34, Critical Infrastructure Act
-
-5. Different stages of a methodology of implementation of Plans of Continuity (PCN)
-
-6. Initial organizational requirements needed to start a Project Management Business Continuity (BCM)
-
-7. Follow-up on a methodology for implementing BCM:
-
-7.1. Business impact analysis and risk assessment (BIA, RTO, RPO)
-
-7.2. Prevention and recovery strategies
-
-7.3. Development of contingency plans for IT and business functions (DRP)
-
-7.4. Needs and organization for crisis management
-
-7.5. Management and maintenance of plans: quality, testing, training, reviews
-
-8. SGCN requirements in accordance with ISO 22301:
-
-	8.1. Management and records processes for a compliant management system
-
-	8.2. Planning: from start to certification
-
-9. Recommendations for successful initial awareness and implementation
-
-10. Case study development:
-
-	10.1. BIA, threats, strategies, crisis committee, plans, tests
-
-2007: Business Continuity Planning
-==================================
-
-December 10, 2007 - December 13, 2007
-
-**John Cordier Academy, Leuven, Belgium**
-
-* Establish the relations between internationally recognised best practices in the field of Business Continuity Management.
-
-* Identify and understand the components of a complete Business Continuity Management program.
-
-* Define the implementation process of a Business Continuity Management program: 
-  * Initiate the BCM program and obtain Management commitment.
-  
-  * Determine the functional requirements.
-  
-  * Evaluate and recommend Business Continuity Strategies.
-  
-  * Document the Business Continuity plan.
-  
-  * Exercice and maintain the BCM program.
-  
-  * Develop a BCM culture.
-
-* Identify success factors and risks associated with a Business Continuity Management program.
-
-2007: ISMS internal auditor (ISO/IEC 27001:2005)
-================================================
-
-September 24, 2007 - September 26, 2007
-
-**Bureau Veritas, Madrid, Spain**
-
-* Enable delegates to undertake internal audits and lead audits of Information Security Management System.
-
-* Explain to the delegates the purpose and planning procedure of making systems secure.
-
-* Ensure delegates understand the importance of organising and reporting their audit findings.
-
-2007: ISMS internal auditor (ISO/IEC 27001:2005)
-================================================
-
-February 12, 2007 - February 16, 2007
-
-**John Cordier Academy, Leuven, Belgium**
-
-* Enable delegates to undertake internal audits and lead audits of Information Security Management System.
-
-* Explain to the delegates the purpose and planning procedure of making systems secure.
-
-* Ensure delegates understand the importance of organising and reporting their audit findings.
-
-2005: Information Systems Security Symposium
-============================================
-
-November 13, 2005 - November 16, 2005
-
-**CEDI 2005 - 1st Spanish Congress in Computer Science, Granada, Spain**
-
-* Cryptanalysis.
-
-* Cryptographic protocols.
-
-* Intrusion Detection Systems.
-
-* Secure implementations.
-
-* Authentication and control access.
-
-* Analysis and management of security.
-
-* Defense mecanisms.
-
-*********************
-IT Service Management
-*********************
-
-2014: CA Deep Dive Partner Training: Nimsoft
-============================================
-
-*Dates:* September 15, 2014 - September 19, 2014
-
-**CA Technologies, London, UK**
-
-* Learn from CA Subject Matter Experts (SMEs) how to position, demo, and present POCs. By successfully completing  this training, you meet CA Partner Technical Sales validation requirements.
-
-* The week focuses on the Technical Breakouts that contain “hands-on” technical labs with practical exercises and exclusive access to the experts. Plus a half day of Sales Positioning and Strategy from members of our Executive Team.
-
-2009: PECAL normative: NATO additional requirements. PECAL 2110-2105 and registry operations
-============================================================================================
-
-July 30, 2009
-
-**Bureau Veritas, Madrid, Spain**
-
-Learn NATO quality assurance requirements for design, development and production.
-
-2008: COBIT in Practice
-=======================
-
-May 7, 2008 - May 8, 2008
-
-**John Cordier Academy, Leuven, Belgium**
-
-* Learn how the COBIT framework can contribute to their business goals and generate benefits through appropriate use of information technology.
-
-* Focus is on the practical translation of the COBIT components into their IT planning and processes.
-
-2008: ISO 14001:2004: Internal auditors
-=======================================
-
-March 31, 2008 - April 2, 2008
-
-**Bureau Veritas, Madrid, Spain**
-
-* Learn the basic concepts and terminology used in environmental management systems audits.
-
-* Perform an ISO 14001:2004 internal audit
-
-* Learn ISO 19011 recommendations related to internal audit program and internal auditors qualification
-
-* Learn the techniques and plan internal environmental management systems audits
-
-* Learn and put into practice internal audits techniques
-
-* Learn and use the different ways of results communication of internal audit results.
 
 ************
 Data Science 
@@ -1023,7 +874,7 @@ This course covers the following topics:
 
 **qwikLABS**
 
-Learning Objectives: This quest is designed to teach you how to work with AWS services to manage big data on the cloud.
+Learning Objectives: This quest is designed to teach you how to work with AWS services to manage big data in the cloud.
 
 * Creating Amazon EC2 Instances (for Linux)
 
@@ -1048,7 +899,7 @@ Grade Achieved: 90.0% `Introduction to Databases Certificate <https://github.com
 
 **Stanford University at Standford Online**
 
-This course covers database design and the use of database management systems for applications. It includes extensive coverage of the relational model, relational algebra, and SQL. It also covers XML data including DTDs and XML Schema for validation, and the query and transformation languages XPath, XQuery, and XSLT. The course includes database design in UML, and relational design principles based on dependencies and normal forms. Many additional key database topics from the design and application-building perspective are also covered: indexes, views, transactions, authorization, integrity constraints, triggers, on-line analytical processing (OLAP), JSON, and emerging "NoSQL" systems.
+This course covers database design and the use of database management systems for applications. It includes extensive coverage of the relational model, relational algebra, and SQL. It also covers XML data including DTDs and XML Schema for validation, and the query and transformation languages XPath, XQuery, and XSLT. The course includes database design in UML and relational design principles based on dependencies and normal forms. Many additional key database topics from the design and application-building perspective are also covered: indexes, views, transactions, authorization, integrity constraints, triggers, on-line analytical processing (OLAP), JSON, and emerging "NoSQL" systems.
 
 2013-2014: Machine Learning
 ===========================
@@ -1059,7 +910,7 @@ Grade Achieved: 100.0% `Machine Learning Certificate <https://github.com/jacuber
 
 **Stanford University at Coursera**
 
-This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications, so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
+This course provides a broad introduction to machine learning, data mining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI). The course will also draw from numerous case studies and applications so that you'll also learn how to apply learning algorithms to building smart robots (perception, control), text understanding (web search, anti-spam), computer vision, medical informatics, audio, database mining, and other areas.
 
 2013: Computing for Data Analysis
 =================================
@@ -1092,7 +943,7 @@ Grade Achieved: 94.4% with Distinction `Web Intelligence and Big Data Certificat
 
 **Indian Institute of Technology Delhi at Coursera**
 
-This course is about building 'web-intelligence' applications exploiting big data sources arising social media, mobile devices and sensors, using new big-data platforms based on the 'map-reduce' parallel programming paradigm.
+This course is about building 'web-intelligence' applications exploiting big data sources arising social media, mobile devices, and sensors, using new big-data platforms based on the 'map-reduce' parallel programming paradigm.
 
 2004-2005: Linux: Administration
 ================================
@@ -1117,43 +968,59 @@ This course is about building 'web-intelligence' applications exploiting big dat
 
 **Centro Mediterráneo de la Universidad de Granada, Almuñecar, Spain**
 
-**************
-Bioinformatics
-**************
+*********************
+IT Service Management
+*********************
 
-2014: Epidemics - the Dynamics of Infectious Diseases
-=====================================================
+2014: CA Deep Dive Partner Training: Nimsoft
+============================================
 
-Grade Achieved: 100.0% with Distinction `Epidemics - the Dynamics of Infectious Diseases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20epidemics%202014.pdf>`_
+*Dates:* September 15, 2014 - September 19, 2014
 
-*Dates:* September 29, 2014 - December 1, 2014
+**CA Technologies, London, UK**
 
-**The Pennsylvania State University at Coursera**
+* Learn from CA Subject Matter Experts (SMEs) how to position, demo, and present POCs. By successfully completing this training, you meet CA Partner Technical Sales validation requirements.
 
-This course will cover key concepts that relate to the emergence, the spread, and the control of infectious disease epidemics.
+* The week focuses on the Technical Breakouts that contain “hands-on” technical labs with practical exercises and exclusive access to the experts. Plus a half day of Sales Positioning and Strategy from members of our Executive Team.
 
-We covered various broad topics, including:
+2009: PECAL normative: NATO additional requirements. PECAL 2110-2105 and registry operations
+============================================================================================
 
-* The basics: history of infectious diseases, basic concepts of disease dynamics, parasite diversity, evolution & ecology of infectious diseases
+July 30, 2009
 
-* Emergence of diseases: The basic reproductive number, critical community size, epidemic curve, zoonoses, spill over, human / wildlife interface, climate change, hot zones, pathology
+**Bureau Veritas, Madrid, Spain**
 
-* Spread of diseases: transmission types (droplets, vectors, sex), superspreading, diffusion, social networks, nosomical transmission, manipulation of behavior
+Learn NATO quality assurance requirements for design, development and production.
 
-* Control of diseases: drug resistance, vaccination, herd immunity, quarantines, antibiotics, antivirals, health communication, ethical challenges of disease control
+2008: COBIT in Practice
+=======================
 
-* The future of infectious diseases: Evolution of virulence, emergence of drug resistance, eradication of diseases, medicine & evolution, crop diseases & food security, digital epidemiology
+May 7, 2008 - May 8, 2008
 
-2013-2014: Bioinformatics Algorithms (Part 1)
-=============================================
+**John Cordier Academy, Leuven, Belgium**
 
-Grade Achieved: 100.0% with Distinction `Bioinformatics Algorithms (Part 1) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Bioinformatics%202014.pdf>`_
+* Learn how the COBIT framework can contribute to their business goals and generate benefits through the appropriate use of information technology.
 
-*Dates:* November 4, 2013 - January 27, 2014
+* Focus is on the practical translation of the COBIT components into their IT planning and processes.
 
-**University of California, San Diego at Coursera**
+2008: ISO 14001:2004: Internal auditors
+=======================================
 
-This course covers some of the common algorithms underlying the following fundamental topics in bioinformatics: assembling genomes, comparing DNA and protein sequences, finding regulatory motifs, analyzing genome rearrangements, identifying proteins, and many other topics.
+March 31, 2008 - April 2, 2008
+
+**Bureau Veritas, Madrid, Spain**
+
+* Learn the basic concepts and terminology used in environmental management systems audits.
+
+* Perform an ISO 14001:2004 internal audit
+
+* Learn ISO 19011 recommendations related to internal audit program and internal auditors qualification
+
+* Learn the techniques and plan internal environmental management systems audits
+
+* Learn and put into practice internal audits techniques
+
+* Learn and use the different ways of results communication of internal audit results.
 
 ***********
 Mathematics
@@ -1176,7 +1043,7 @@ Grade Achieved: 100.0% `LAFF: Linear Algebra - Foundations to Frontiers Certific
 
 * Vector spaces, subspaces, and various characterizations of linear independence
 
-* Orthogonality, linear least-squares, projections, bases, and low rank approximations
+* Orthogonality, linear least-squares, projections, bases, and low-rank approximations
 
 * Eigenvalues and eigenvectors
 
@@ -1232,3 +1099,141 @@ Grade Achieved: 100.0% with Distinction `Coding the Matrix Certificate <https://
 
 Learn the concepts and methods of linear algebra, and how to use them to think about computational problems arising in computer science. Coursework includes building on the concepts to write small programs and run them on real data.
  
+********
+Security
+********
+
+2017: Business continuity management system - ISO 22301
+=======================================================
+
+June 6, 2017 - June 7, 2017
+
+**AENOR, Madrid, Spain**
+
+Objectives:
+
+* Identify the reasons and concepts for Business Continuity Management (BCM)
+
+* To know the applicable norms and standards in force to identify requirements (ISO 22301 and ISO 27002)
+
+* Define a Business Continuity Management (BCM)
+
+* To know the practical processes for the definition and implementation of a Business Continuity (PCN)
+
+* To know the practical processes and to assure the fulfillment of the requirements of an SGCN according to ISO 22301
+
+Contents:
+
+1. Reasons for the implementation of Business Continuity Plans
+
+2. What is Business Continuity Management (BCM)
+
+3. Basic Concepts of Business Continuity:
+
+	3.1. BIA, RTO, RPO, critical assets, crisis, incident, ...
+
+4. Sources of requirements applicable to continuity and/or contingency:
+
+	4.1. ISO 22301, ISO 27002, ITIL, ENS, NIST 800-34, Critical Infrastructure Act
+
+5. Different stages of a methodology of implementation of Plans of Continuity (PCN)
+
+6. Initial organizational requirements needed to start a Project Management Business Continuity (BCM)
+
+7. Follow-up on a methodology for implementing BCM:
+
+7.1. Business impact analysis and risk assessment (BIA, RTO, RPO)
+
+7.2. Prevention and recovery strategies
+
+7.3. Development of contingency plans for IT and business functions (DRP)
+
+7.4. Needs and organization for crisis management
+
+7.5. Management and maintenance of plans: quality, testing, training, reviews
+
+8. SGCN requirements in accordance with ISO 22301:
+
+	8.1. Management and records processes for a compliant management system
+
+	8.2. Planning: from start to certification
+
+9. Recommendations for successful initial awareness and implementation
+
+10. Case study development:
+
+	10.1. BIA, threats, strategies, crisis committee, plans, tests
+
+2007: Business Continuity Planning
+==================================
+
+December 10, 2007 - December 13, 2007
+
+**John Cordier Academy, Leuven, Belgium**
+
+* Establish the relations between internationally recognised best practices in the field of Business Continuity Management.
+
+* Identify and understand the components of a complete Business Continuity Management program.
+
+* Define the implementation process of a Business Continuity Management program: 
+  * Initiate the BCM program and obtain Management commitment.
+  
+  * Determine the functional requirements.
+  
+  * Evaluate and recommend Business Continuity Strategies.
+  
+  * Document the Business Continuity plan.
+  
+  * Exercise and maintain the BCM program.
+  
+  * Develop a BCM culture.
+
+* Identify success factors and risks associated with a Business Continuity Management program.
+
+2007: ISMS internal auditor (ISO/IEC 27001:2005)
+================================================
+
+September 24, 2007 - September 26, 2007
+
+**Bureau Veritas, Madrid, Spain**
+
+* Enable delegates to undertake internal audits and lead audits of Information Security Management System.
+
+* Explain to the delegates the purpose and planning procedure of making systems secure.
+
+* Ensure delegates understand the importance of organising and reporting their audit findings.
+
+2007: ISMS internal auditor (ISO/IEC 27001:2005)
+================================================
+
+February 12, 2007 - February 16, 2007
+
+**John Cordier Academy, Leuven, Belgium**
+
+* Enable delegates to undertake internal audits and lead audits of Information Security Management System.
+
+* Explain to the delegates the purpose and planning procedure of making systems secure.
+
+* Ensure delegates understand the importance of organising and reporting their audit findings.
+
+2005: Information Systems Security Symposium
+============================================
+
+November 13, 2005 - November 16, 2005
+
+**CEDI 2005 - 1st Spanish Congress in Computer Science, Granada, Spain**
+
+* Cryptanalysis.
+
+* Cryptographic protocols.
+
+* Intrusion Detection Systems.
+
+* Secure implementations.
+
+* Authentication and control access.
+
+* Analysis and management of security.
+
+* Defense mechanisms.
+
