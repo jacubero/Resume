@@ -2,83 +2,6 @@
 Certifications
 ##############
 
-************
-Data Science 
-************
-
-2015: Data Scientist Associate (EMCDSA) Certification
-=====================================================
-
-`Data Science Associate (EMCDSA) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Data%20Science%20Associate%20(EMCDSA)%20certificate.pdf>`_
-
-*Certified:* March 27, 2015 *Expires:* NA
-
-**EMC**
-
-Topics covered on this certification include:
-
-* Big Data Analytics, and the Data Scientist Role
-
-  * The characteristics of Big Data
-  
-  * The practice of analytics
-
-  * The role and required skills of a Data Scientist
-
-* Data Analytics Lifecycle
-
-  * Discovery
-
-  * Data preparation
- 
-  * Model planning and building
-
-  * Communicating results
-
-  * Operationalizing a data analytics project
-
-* Initial Analysis of the Data
-
-  * Using basic R commands to analyze data
-
-  * Using statistical measures and visualization to understand data
-
-  * The theory, process, and analysis of results to evaluate a model
-
-* Advanced Analytics for Big Data – Theory and Methods
-
-  * K-means clustering
-
-  * Association rules
-
-  * Linear regression
-
-  * Logistic Regression
-
-  * Naïve Bayesian classifiers
-
-  * Decision trees
-
-  * Time Series Analysis
-
-  * Text Analytics
-
-* Advanced Analytics for Big Data – Technology and Tools
-
-  * MapReduce
-  
-  * Hadoop Ecosystems
-
-  * SQL OLAP extensions, Windows functions, user defined functions, and aggregates
-
-  * MADlib
-
-* Operationalizing an Analytics Project and Data Visualization Techniques
-
-  * Best practices for operationalizing an analytics project
-
-  * Best practices for planning and creating effective data visualizations
-
 *************************************
 Cloud and Software Defined Datacenter
 *************************************
@@ -374,13 +297,13 @@ Topics covered on this certification include:
 
 4.0 Basic Data Center Storage (19%)
 
-	4.1 Differentiate between file and block based storage protocols
+	4.1 Differentiate between file and block-based storage protocols
 
 	4.2 Describe the roles of FC/FCoE port types
 
 	4.3 Describe the purpose of a VSAN
 
-	4.4 Describe the addressing model of block based storage protocols
+	4.4 Describe the addressing model of block-based storage protocols
 
 		4.4.a FC
 
@@ -539,7 +462,7 @@ The VMware Technical Sales Professional for Network Virtualization (VTSP – NV)
 
 * Describe the VMware NSX Virtualization Platform and how its features and components benefit the data center. 
 
-* Identify real life use cases where NSX can either solve or enhance current data center network operations and/or limitations.
+* Identify real-life use cases where NSX can either solve or enhance current data center network operations and/or limitations.
 
 * Respond to any technical challenges due to diverse environments and emerging products.
 
@@ -597,84 +520,121 @@ Certified: February 16, 2015 Expires: January 30, 2019
 
 * Migration and Building Mixed Environments 
 
-**************
-Virtualization
-**************
+************
+Data Science 
+************
 
-2014: VTSP - DV (Desktop Virtualization 5)
-==========================================
+2015: Data Scientist Associate (EMCDSA) Certification
+=====================================================
 
-`VTSP - DV Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-DV.pdf>`_
+`Data Science Associate (EMCDSA) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Data%20Science%20Associate%20(EMCDSA)%20certificate.pdf>`_
 
-*Certified:* January 2, 2014
+*Certified:* March 27, 2015 *Expires:* NA
 
-**VMware**
+**EMC**
 
-* Desktop Virtualization VMWare solutions Technical Sales Professional
+Topics covered on this certification include:
 
-2013: VTSP - BC (Business Continuity 5)
-=======================================
+* Big Data Analytics, and the Data Scientist Role
 
-`VTSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-BC%20(Business%20Continutiy%205).pdf>`_
+  * The characteristics of Big Data
+  
+  * The practice of analytics
 
-*Certified:* July 11, 2013
+  * The role and required skills of a Data Scientist
 
-**VMware**
+* Data Analytics Lifecycle
 
-This training starts you down the path of being able to identify, engage and design solutions for customers around their disaster recovery and business continuity challenges. This badge identifies you as an individual that understands and recognizes where and when to leverage vSphere Data Protection and the design considerations and capabilities of VMware Site Recovery Manager (SRM).
+  * Discovery
 
-2013: VSP - BC (Business Continuity 5)
-======================================
+  * Data preparation
+ 
+  * Model planning and building
 
-`VSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-%20BC%20(Business%20Continuity%205).pdf>`_
+  * Communicating results
 
-*Certified:* May 13, 2013
+  * Operationalizing a data analytics project
 
-**VMware**
+* Initial Analysis of the Data
 
-This training introduce you to the issues and challenges associated with maintaining business continuity, including and developing a sound disaster recovery strategy. You learn how VMware’s technology and its services help address those challenges. You will also learn how to identify and qualify prospects that are ripe for a VMware business continuity solution.
+  * Using basic R commands to analyze data
 
-2013: VMware Technical Sales Professional 5 (VTSP 5)
-====================================================
+  * Using statistical measures and visualization to understand data
 
-`VTSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/certificate%20VTSP.pdf>`_
+  * The theory, process, and analysis of results to evaluate a model
 
-*Certified:* April 5, 2013
+* Advanced Analytics for Big Data – Theory and Methods
 
-**VMware**
+  * K-means clustering
 
-Completion of the VTSP 5 Accreditation allow you to:
+  * Association rules
 
-* Identify where and how specific products fit into an overall customer solution.
+  * Linear regression
 
-* Discuss and demonstrate the strengths and benefits of key technical features.
+  * Logistic Regression
 
-* Guide customers through product evaluation and selection.
+  * Naïve Bayesian classifiers
 
-* Apply knowledge to answer technical questions related to VMware products and solutions.
+  * Decision trees
 
-2013: VMware Sales Professional 5 (VSP 5)
-=========================================
+  * Time Series Analysis
 
-`VSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP5-certificate.pdf>`_
+  * Text Analytics
 
-*Certified:* March 15, 2013
+* Advanced Analytics for Big Data – Technology and Tools
 
-**VMware**
+  * MapReduce
+  
+  * Hadoop Ecosystems
 
-Completion of the VSP 5 Accreditation allow you to:
+  * SQL OLAP extensions, Windows functions, user-defined functions, and aggregates
 
-* Describe the basics of virtualization and cloud computing technology.
+  * MADlib
 
-* Articulate the main customer challenge areas that VMware solutions address.
+* Operationalizing an Analytics Project and Data Visualization Techniques
 
-* Engage a customer in a discussion about VMware’s solutions for Cloud Computing.
+  * Best practices for operationalizing an analytics project
 
-* Craft an elevator pitch suitable for brief discussions, leaving voice messages, or sending e-mails.
+  * Best practices for planning and creating effective data visualizations
 
-* Design your own enablement plan to increase your competence and value as a VMware Partner.
+*********************
+IT Service Management
+*********************
 
-* Take advantage of VMware Partner programs for generating demand and increasing revenue.
+2016: Certified Expert, CA Unified Infrastructure Management Sales 2016
+=======================================================================
+
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
+
+*Dates:* April 1, 2016
+
+2015: Partner Knowledge Transfer: How to Position and Present CA Nimsoft Monitor
+================================================================================
+
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
+
+*Dates:* September 16, 2016
+
+2014: CA UIM Partner Validation - Technical Sales: PRESENT
+==========================================================
+
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
+
+*Dates:* August 7, 2014
+
+2014: CA UIM Partner Validation - Technical Sales: DEMO
+==========================================================
+
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
+
+*Dates:* August 7, 2014
+
+2014: CA Nimsoft Monitor Partner Sales and Pre-Sales Demonstration On-Demand
+============================================================================
+
+`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
+
+*Dates:* March 20, 2014
 
 ********
 Security
@@ -685,7 +645,7 @@ Security
 
 `CISSP Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CISSP.pdf>`_
 
-*Certified:* July, 2003 *Expires:* July 31, 2018
+*Certified:* July 31, 2003 *Expires:* July 31, 2018
 
 **International Information Systems Security Certification Consortium, Inc. ISC2**
 
@@ -713,56 +673,6 @@ Security
 ========================================================
 
 **Check Point**
-
-*********************
-IT Service Management
-*********************
-
-2016: Certified Expert, CA Unified Infrastructure Management Sales 2016
-=======================================================================
-
-`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_MS.pdf>`_
-
-*Dates:* May 1, 2016
-
-2015: Partner Knowledge Transfer: How to Position and Present CA Nimsoft Monitor
-================================================================================
-
-`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_Nimsoft_Monitor_PS.pdf>`_
-
-*Dates:* September 16, 2016
-
-2014: CA Deep Dive Partner Training: Nimsoft
-============================================
-
-*Dates:* September 15, 2014 - September 19, 2014
-
-**CA Technologies, London, UK**
-
-* Learn from CA Subject Matter Experts (SMEs) how to position, demo, and present POCs. By successfully completing  this training, you meet CA Partner Technical Sales validation requirements.
-
-* The week focuses on the Technical Breakouts that contain “hands-on” technical labs with practical exercises and exclusive access to the experts. Plus a half day of Sales Positioning and Strategy from members of our Executive Team.
-
-2014: CA UIM Partner Validation - Technical Sales: PRESENT
-==========================================================
-
-`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_PV.pdf>`_
-
-*Dates:* August 7, 2014
-
-2014: CA UIM Partner Validation - Technical Sales: DEMO
-==========================================================
-
-`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_Partner_Validation_TS.pdf>`_
-
-*Dates:* August 7, 2014
-
-2014: CA Nimsoft Monitor Partner Sales and Pre-Sales Demonstration On-Demand
-============================================================================
-
-`CA UIM Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CA_UIM_OD.pdf>`_
-
-*Dates:* March 20, 2014
 
 *******
 Storage
@@ -832,9 +742,9 @@ Storage
 
 **NetApp**
 
-The NASAP program prepare you to:
+The NASAP program prepares you to:
 
-* Present the common white board topics required of a system engineer.
+* Present the common whiteboard topics required of a system engineer.
 
 * Deliver the key product demonstrations.
 
@@ -851,11 +761,90 @@ The NASAP program prepare you to:
 
 **NetApp**
 
-The NASP program prepare you to:
+The NASP program prepares you to:
 
-* Understand and articulate the value of NetApp products, solutions and competitive differentiators.
+* Understand and articulate the value of NetApp products, solutions, and competitive differentiators.
 
 * Present the NetApp value proposition, features, and benefits.
 
 * Effectively position NetApp solutions to address customer needs.
 
+
+**************
+Virtualization
+**************
+
+2014: VTSP - DV (Desktop Virtualization 5)
+==========================================
+
+`VTSP - DV Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-DV.pdf>`_
+
+*Certified:* January 2, 2014
+
+**VMware**
+
+* Desktop Virtualization VMWare solutions Technical Sales Professional
+
+2013: VTSP - BC (Business Continuity 5)
+=======================================
+
+`VTSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VTSP-BC%20(Business%20Continutiy%205).pdf>`_
+
+*Certified:* July 11, 2013
+
+**VMware**
+
+This training starts you down the path of being able to identify, engage and design solutions for customers around their disaster recovery and business continuity challenges. This badge identifies you as an individual that understands and recognizes where and when to leverage vSphere Data Protection and the design considerations and capabilities of VMware Site Recovery Manager (SRM).
+
+2013: VSP - BC (Business Continuity 5)
+======================================
+
+`VSP - BC (Business Continuity 5) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP-%20BC%20(Business%20Continuity%205).pdf>`_
+
+*Certified:* May 13, 2013
+
+**VMware**
+
+This training introduces you to the issues and challenges associated with maintaining business continuity, including and developing a sound disaster recovery strategy. You learn how VMware’s technology and its services help address those challenges. You will also learn how to identify and qualify prospects that are ripe for a VMware business continuity solution.
+
+2013: VMware Technical Sales Professional 5 (VTSP 5)
+====================================================
+
+`VTSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/certificate%20VTSP.pdf>`_
+
+*Certified:* April 5, 2013
+
+**VMware**
+
+Completion of the VTSP 5 Accreditation allows you to:
+
+* Identify where and how specific products fit into an overall customer solution.
+
+* Discuss and demonstrate the strengths and benefits of key technical features.
+
+* Guide customers through product evaluation and selection.
+
+* Apply knowledge to answer technical questions related to VMware products and solutions.
+
+2013: VMware Sales Professional 5 (VSP 5)
+=========================================
+
+`VSP 5 Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/VSP5-certificate.pdf>`_
+
+*Certified:* March 15, 2013
+
+**VMware**
+
+Completion of the VSP 5 Accreditation allows you to:
+
+* Describe the basics of virtualization and cloud computing technology.
+
+* Articulate the main customer challenge areas that VMware solutions address.
+
+* Engage a customer in a discussion about VMware’s solutions for Cloud Computing.
+
+* Craft an elevator pitch suitable for brief discussions, leaving voice messages, or sending e-mails.
+
+* Design your own enablement plan to increase your competence and value as a VMware Partner.
+
+* Take advantage of VMware Partner programs for generating demand and increasing revenue.

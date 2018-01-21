@@ -5,7 +5,7 @@ EDUCATION
 2015: Ph.D. by Universidad Politécnica de Madrid with a distinction "cum laude"
 ===============================================================================
 
-December, 2015
+December 2015
 *Thesis Title:* Vector Boolean Functions: Applications in Symmetric Cryptography
 Supervisor: Pedro J. Zufiria
 
@@ -27,7 +27,7 @@ This thesis also illustrates the use of VBF in two practical applications. On th
 2005-2006: Diploma of Advanced Studies
 ======================================
 
-October, 2005 - July, 2006
+October 2005 - July 2006
 
 .. image:: /images/etsitandupm.gif
    :width: 150 px
