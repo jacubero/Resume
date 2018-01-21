@@ -82,7 +82,7 @@ Web Sites
 Competitions
 ************
 
-* Among the 12 finalists of the 2017 Big Data Analytics World Championships
+`Among the 12 finalists of the 2017 Big Data Analytics World Championships <http://www.texata.com/>`_
 
 .. image:: /images/texata.png
    :width: 750 px
