@@ -6,11 +6,11 @@ PERSONAL SKILLS
 Language Passport
 *****************
 
-.. image:: /images/LanguagePassport.pdf
+.. image:: /images/LanguagePassport.png
    :width: 750 px
    :align: center
 
-.. image:: /images/CEFR.pdf
+.. image:: /images/CEFR.png
    :width: 750 px
    :align: center
 
