@@ -289,6 +289,42 @@ April 27, 2009 - April 28, 2009
 Cloud and Software Defined Datacenter
 *************************************
 
+2018: Cisco Live Barcelona
+==========================
+
+*Dates:* January 20, 2018 - February 2, 2018
+
+**Cisco Systems Inc., Barcelona, Spain**
+
+* Content: Immerse yourself in five days of sessions on topics such as Cloud, Collaboration, Data Center, Enterprise Networks, IoT, Mobility, Network Transformation, Security, and SP.
+
+* World of Solutions: Catch up with your existing IT suppliers, view demos, and explore the latest solutions from Cisco and the industry’s top vendors in the World of Solutions.
+
+* Free certification: Validate your skills with a free Cisco Certification exam.
+
+* Hands-on learning: Get hands-on Cisco training in Technical Seminars, Instructor Led Labs and Walk-In-Self Paced Labs.
+
+* Networking: Meet with peers from around the world to share ideas and insights – including the chance to connect at the Social Media Central.
+
+* A personalized experience: Learn in the format that works for you, from traditional breakout sessions to labs and Technical Seminars, and customize your learning through our Learning Paths.
+
+* World-class instructors: Learn from Cisco Distinguished Engineers, CCIEs, and some of the world’s top technology experts.
+
+* Innovate with Cisco Technology: Get hands-on in the DevNet Zone. It’s the place to learn, code, get inspired, and connect using the tools, resources and code you need to build innovative, network-enabled solutions.
+
+* Meet the Engineer: Connect with Cisco Engineers at informal one-on-one discussions on the topics that matter most to you.
+
+
+2018: Solution Application Workshop
+===================================
+
+*Date:* January 16, 2018
+
+**Cisco Systems Inc., Madrid, Spain**
+
+It has been designed to empower Partner Sales Engineers to effectively sell Applications Solutions to key decision makers who are responsible for Application, Data, Infrastructure, and Services budgets. Partner Sales Engineers will form teams and develop customer presentations that address the key challenges of real-world application use cases. These customer use cases include Enterprise Applications (SAP, Oracle, Microsoft SQL), Data Center Modernization and Cloud (Containers/Docker, Microservices..), Desktop Virtualization (Citrix, GPU,..), and Big Data and Data Analytics (Cloudera, Splunk, SAS,…). We will highlight Cisco's Competitive Advantage End-to-End by presenting Customer Storyboards that integrate our broad range of software and hardware solutions such as AppDynamics, Tetration, Workplace Optimization Manager (WOM), CloudCenter, UCS, Hyperflex, ACI, ... needs.
+
+
 LFS252: OpenStack Administration Fundamentals 
 =============================================
 
@@ -370,11 +406,10 @@ It is explained the value proposition of Cisco One ECS. What as the key question
 
 * Get hands-on in the DevNet Zone.
 
-
 Advanced Contrail Bootcamp
 ==========================
 
-*Dates:* April 26, 2016 - April 27, 2016
+*Dates:* January 24, 2017 - January 25, 2017
 
 **SDN Essentials, Madrid, Spain**
 
@@ -537,6 +572,7 @@ Contrail/OpenStack Boot Camp
 ============================
 
 *Dates:* April 26, 2016 - April 27, 2016
+
 `Certificate <https://raw.githubusercontent.com/jacubero/Resume/master/Certificates/ContrailOpenStackBootcamp.jpg>`_
 
 **SDN Essentials, Madrid, Spain**

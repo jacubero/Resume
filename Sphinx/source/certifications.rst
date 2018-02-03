@@ -6,6 +6,219 @@ Certifications
 Cloud and Software Defined Datacenter
 *************************************
 
+2018: Cisco Network Programmability Developer Specialist 
+========================================================
+
+`Cisco Network Programmability Developer Specialist Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/NPDEV_certificate.pdf>`_
+
+*Certified:* January 31, 2018 *Expires:* January 31, 2020
+
+**Cisco Systems**
+
+The 300-560 exam tests a candidate's knowledge and skills related to the following:
+
+1.0 Programming Fundamentals (15%)
+
+	1.1 Construct Python code
+
+	1.2 Construct Python code that properly handles exceptions
+
+	1.3 Interpret Python code
+
+	1.4 Interpret Python code that includes the following packages or modules:
+
+		1.4.a JSON
+
+		1.4.b XML
+
+		1.4.c requests
+
+		1.4.d ncclient
+
+	1.5 Debug Python code
+
+2.0 Data Handling and Format (13%)
+
+	2.1 Construct a syntactically valid JSON or XML payload from a given data set
+
+	2.2 Parse specific data from a JSON or XML payload
+
+	2.3 Employ sorting, manipulation and storing of network entries (such as IPv4, IPv6, or MAC addresses)
+
+	2.4 Validate YANG models for semantics and syntax
+
+	2.5 Translate a YANG data model to a RESTCONF URI/JSON repres
+
+3.0 Network controller platforms and protocols (14%)
+
+	3.1 Describe the ACI policy model
+
+	3.2 Describe the ACI Application Profiles
+
+	3.3 Describe APIC-EM services
+
+	3.4 Describe the APIC-EM Network Information Database (NIDB)
+
+	3.5 Describe the purpose and handling of service tickets in APIC-EM
+
+	3.6 Compare and contrast Openflow and Opflex protocols
+
+	3.7 Describe the concepts of model driven development in OSC
+	
+	3.8 Describe the OSC framework for adding applications at different layers of the architecture
+
+	3.9 Describe how and when to rollback configuration changes in APIC, APIC-EM, or when  using NETCONF
+
+	3.10 Evaluate the impact a piece of code has on controller / network element resource utilization
+
+4.0 Device programmability (NXOS-API, ASA-API, IOS (XE/XR)) (15%)
+
+	4.1 Interpret or produce code to deploy configurations to multiple devices using RESTCONF
+
+	4.2 Interpret or produce code to deploy configurations to multiple devices using NETCONF
+
+	4.3 Describe ASA configuration constructs (network objects, access lists, security groups)
+
+	4.4 Construct a request to an ASA that performs multiple REST requests in a single POST
+
+	4.5 Evaluate the impact a piece of code has on network element resource utilization
+
+	4.6 Compare and contrast virtual platforms used to test network applications
+
+		4.6.a VIRL
+
+		4.6.b APIC Simulator
+
+		4.6.c NX-OSv
+
+		4.6.d DevNet sandboxes
+
+		4.6.e ASAv
+
+		4.6.f CSR1000v
+
+5.0 Application Programming Interfaces (APIs) (20%)
+
+	5.1 Describe how to establish a secure connection to a device that provides a RESTful API
+
+	5.2 Authenticate a connection or session against the controllers and platforms
+
+		5.2.a APIC
+
+		5.2.b APIC-EM
+
+		5.2.c OSC
+
+		5.2.d NXOS-API
+
+		5.2.e ASA-API
+
+		5.2.f IOS XE/XR
+
+	5.3 Construct a REST request to perform a specific create operation based on a set of requirements
+
+		5.3.a APIC
+		
+		5.3.b APIC-EM
+
+		5.3.c OSC
+
+		5.3.d NXOS-API
+
+		5.3.e ASA-API
+
+		5.3.f IOS XE/XR
+
+	5.4 Construct a REST request to perform a specific read operation based on a set of requirements
+
+		5.4.a APIC
+
+		5.4.b APIC-EM
+
+		5.4.c OSC
+
+		5.4.d NXOS-API
+
+		5.4.e ASA-API
+
+		5.4.f IOS XE/XR
+
+	5.5 Construct a REST request to perform a specific update operation based on a set of requirements
+
+		5.5.a APIC
+		
+		5.5.b APIC-EM
+
+		5.5.c OSC
+
+		5.5.d NXOS-API
+
+		5.5.e ASA-API
+
+		5.5.f IOS XE/XR
+
+	5.6 Decide how to properly handle HTTP response codes
+
+	5.7 Compare and contrast RESTCONF and NETCONF
+
+	5.8 Describe the features and functionality of RAML
+
+6.0 Cisco Software Development Kits (SDKs) (12%)
+
+	6.1 Compare and contrast abstract and concrete classes
+
+	6.2 Create objects using the COBRA SDK
+
+	6.3 Read objects using the COBRA SDK
+
+	6.4 Update objects using the COBRA SDK
+
+7.0 Networking Fundamentals (11%)
+
+	7.1 Compare and contrast OSI and TCP/IP models
+
+	7.2 Describe IPv4 addressing and subnetting
+
+	7.3 Describe IPv6 addressing and subnetting
+
+	7.4 Describe functions of infrastructure components in a network
+
+		7.4.a Firewalls
+
+		7.4.b Switches
+
+		7.4.c Routers
+
+		7.4.d Load Balancers
+		
+	7.5 Describe Switching Concepts
+	
+		7.5.a MAC addresses
+
+		7.5.b VLANs
+
+		7.5.c VXLANs
+
+	7.6 Describe Routing Concepts
+
+		7.6.a Routes
+
+		7.6.b Host routes
+
+		7.6.c Gateways
+
+		7.6.d Routing Protocols
+
+	7.7 Describe DNS service records for the purpose of service discovery
+
+	7.8 Describe the components and concepts of Network Programmability
+
+		7.8.a Function of a controller
+		
+		7.8.b Separation of control plane and data plane
+
+		7.8.c Northbound and Southbound APIs
+
 2017: Certified OpenStack Administrator (COA) 
 =============================================
 
@@ -215,7 +428,7 @@ Below are the specific content areas (Domains) and the specific tasks on which c
 
 `CCNA Data Center Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/CCNADC_certificate.pdf>`_
 
-*Certified:* April 10, 2017 *Expires:* April 10, 2020
+*Certified:* April 10, 2017 *Expires:* April 10, 2021
 
 **Cisco Systems**
 
