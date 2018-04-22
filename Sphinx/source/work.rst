@@ -2,9 +2,9 @@
 WORK EXPERIENCE
 ###############
 
-********************************************************************************************************
-January 2017 - Present: Data Center and Digital Transformation Business Development and Presales Manager
-********************************************************************************************************
+************************************************************************************************************************
+January 2017 - Present: Data Center and Digital Transformation Business Development and Presales Manager. Data Scientist
+************************************************************************************************************************
 
 .. image:: /images/acuntia.gif
    :width: 150 px
@@ -19,6 +19,8 @@ C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
 
 Roles and Responsibilities:
 ===========================
+
+* Lead, design, build and deploy Data Science projects. 
 
 * Define, design and control business unit strategy and vision on the following solutions: cloud services, business applications, business analytics, converged infrastructure and data centers. 
 
