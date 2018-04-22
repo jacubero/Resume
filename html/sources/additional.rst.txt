@@ -8,6 +8,8 @@ ADDITIONAL INFORMATION
 Publications
 ************
 
+.. [AlvarezCubero:2018] Alvarez Cubero, Jose Antonio. 2018. `Certified OpenStack Administrator (COA) Certification Guide: Newton Release <https://www.amazon.com/Certified-OpenStack-Administrator-Certification-Guide/dp/1980391289?SubscriptionId=0JYN1NVW651KCA56C102&tag=techkie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1980391289>`_. Independently published. ISBN=1980391289.
+
 .. [AlvarezCubero:2017] Pedro J. Zufiria and ALVAREZ-CUBERO, J. A. 2017. `Generalized Lexicographic MultiObjective Combinatorial Optimization. Application to Cryptography <https://doi.org/10.1137/16M1107826>`_. SIAM Journal on Optimization, Volume 27 Number 4, October 2017, Pages 2182-2201
 
 .. [AlvarezCubero:2016] ALVAREZ-CUBERO, J. A. and Zufiria, P. J. 2016. `Algorithm 959: VBF: A Library of C++ Classes for Vector Boolean Functions in Cryptography <http://dl.acm.org/citation.cfm?id=2794077>`_. ACM Transactions on Mathematical Software (TOMS), Volume 42 Issue 2, May 2016, Article No. 16. 
@@ -81,6 +83,12 @@ Web Sites
 ************
 Competitions
 ************
+
+`Winner of 2018 Vinci Energies Hackathon in Data Science Challenge <http://hack-beyonddigital.vinci-energies.com/>`_
+
+.. image:: /images/vinci2018.png
+   :width: 750 px
+   :align: center
 
 `Among the 12 finalists of the 2017 Big Data Analytics World Championships <http://www.texata.com/>`_
 
