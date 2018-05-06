@@ -86,11 +86,11 @@ Competitions
 
 `Winner of 2018 Vinci Energies Hackathon in Data Science Challenge <http://hack-beyonddigital.vinci-energies.com/>`_
 
-.. image:: /images/vinci2018.png
+.. image:: /images/vinci2018.jng
    :width: 750 px
    :align: center
 
-`Among the 12 finalists of the 2017 Big Data Analytics World Championships <http://www.texata.com/>`_
+`Finalist of the 2017 Big Data Analytics World Championships <http://www.texata.com/>`_
 
 .. image:: /images/texata.png
    :width: 750 px

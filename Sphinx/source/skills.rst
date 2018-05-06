@@ -28,10 +28,51 @@ Communication skills
 Technical skills
 ****************
 
+Data Science
+============
+
+* Experience using and understanding of a variety of data science and machine learning algorithms.
+
+* Strong background in Linear Algebra, Statistics and Numerical Mathematics.
+
+* Proficiency in Python and the Python ecosystem including Numpy, Pandas, Scikit-learn.
+
+* Proficiency with data wrangling, visualization and modeling.
+
+* Strong Unix systems skills, and experience using compute and data environments on AWS.
+
+* Proficiency in SQL, as well as experience working with Big Data technologies.
+
+* Experience with Git and modern software development workflow.
+
+Computer Science
+================
+
+* Standards: ISO9000, ISO13335, ISO14000, ISO20000, ISO27000.
+
+* SDN and NFV technologies: Cisco, VMware, Juniper, Openflow.
+
+* Cloud Architectures: OpenStack, Microsoft Azure, Amazon AWS.
+
+* Programming and scripting: Bash, Python, C, C++.
+
+* DevOps tools such as Ansible, Chef, and Puppet.
+
+* Containers: Docker, LXC.
+
+* Operating systems administration: Windows, Fedora-based and Debian-based linux distributions. 
+
+* Security: Business Continuity Planning (BCP), Information System Management System (ISMS).
+
+* Software development experience with common Web platform/language technologies based on API REST.
+
+
 Data Center
 ===========
 
 * In-depth technical knowledge of Data Center solutions.
+
+* Data Center Networking (Cisco MDS and Nexus), Computing (Cisco, HP), Storage (NetApp, EMC, Pure Storage), Virtualization (VMWare, Microsoft, Citrix), Management (CA Technologies, VMWare).
 
 * Solid background in Data Center operations and security management.
 
@@ -58,45 +99,6 @@ Data Center
 * Experience with configuration management tools such as Ansible, Chef or Puppet.
 
 * Familiar with IT-related standards, with experience in IETF, ETSI and OpenStack standards activity.
-
-Computer Science
-================
-
-* Standards: ISO9000, ISO13335, ISO14000, ISO20000, ISO27000.
-
-* SDN and NFV technologies: Cisco, VMware, Juniper, Openflow.
-
-* Cloud Architectures: OpenStack, Microsoft Azure, Amazon AWS.
-
-* Data Center Networking (Cisco MDS and Nexus), Computing (Cisco, HP), Storage (NetApp, EMC, Pure Storage), Virtualization (VMWare, Microsoft, Citrix), Management (CA Technologies, VMWare).
-
-* Programming and scripting: Bash, Python, C, C++.
-
-* DevOps tools such as Ansible, Chef, and Puppet.
-
-* Containers: Docker, LXC.
-
-* Operating systems administration: Windows, Fedora-based and Debian-based linux distributions. 
-
-* Security: Business Continuity Planning (BCP), Information System Management System (ISMS).
-
-* Finance and business modeling skills.
-
-* Familiarity with writing SQL queries and working with databases.
-
-* Software development experience with common Web platform/language technologies based on API REST.
-
-* Experience prototyping and developing data mining solutions using statistical software packages (R, Matlab, etc).
-
-* Statistical or mathematical tools (e.g. R, NumPy/SciPy, pandas, Scikit Learn).
-
-* Data Visualization tools (Tableau).
-
-* Experience with large data sets and distributed computing (Hadoop).
-
-* Experience with version control systems: git.
-
-* In-depth knowledge of deep learning and neural networks: theory and applications.
 
 **********************************
 Organisational / managerial skills
