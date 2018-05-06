@@ -86,7 +86,7 @@ Competitions
 
 `Winner of 2018 Vinci Energies Hackathon in Data Science Challenge <http://hack-beyonddigital.vinci-energies.com/>`_
 
-.. image:: /images/vinci2018.jng
+.. image:: /images/vinci2018.jpg
    :width: 750 px
    :align: center
 

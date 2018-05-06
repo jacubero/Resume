@@ -66,7 +66,6 @@ Computer Science
 
 * Software development experience with common Web platform/language technologies based on API REST.
 
-
 Data Center
 ===========
 
@@ -74,31 +73,13 @@ Data Center
 
 * Data Center Networking (Cisco MDS and Nexus), Computing (Cisco, HP), Storage (NetApp, EMC, Pure Storage), Virtualization (VMWare, Microsoft, Citrix), Management (CA Technologies, VMWare).
 
-* Solid background in Data Center operations and security management.
-
-* Ability to review project deliverables for completeness and quality and compliance with established project standards.
-
-* Ability to analyze client’s needs and design solution.
-
-* Ability to develop infrastructure requirements based on input gathered from a variety of sources including analysis results and feedback from the user community.
-
-* Ability to develop test conditions and expected results based on the requirements.
-
 * Have a good knowledge of Data Center solution approaches from a technical (infrastructure), service management, financial and sourcing perspective.
 
 * Expert level knowledge of SDN and NFV and related open source initiatives such as OpenStack, OpenDaylight, OpenSwitch.
 
 * Experience with virtualization technologies such as VMWare, KVM, and HyperV.
 
-* Familiarity with AWS services.
-
 * Security compliance experience such as ITIL or ISO 27001.
-
-* Deep understanding in new Data Center infrastructure stacks such as SDN, NFV, IaaS, Hadoop among others
-
-* Experience with configuration management tools such as Ansible, Chef or Puppet.
-
-* Familiar with IT-related standards, with experience in IETF, ETSI and OpenStack standards activity.
 
 **********************************
 Organisational / managerial skills
