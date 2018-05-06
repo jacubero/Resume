@@ -168,9 +168,9 @@ Roles and Responsibilities:
 
 * Plan how work is to be carried out to meet targets of the project or team task.
 
-***************************************
-May 1998 - May 1999: Scholarship holder
-***************************************
+*******************************
+May 1998 - May 1999: Internship
+*******************************
 
 .. image:: /images/telefonicaIxD.png
    :width: 150 px
@@ -188,9 +188,9 @@ Roles and Responsibilities:
 
 * Participate in the deployment of a Telefónica infrastructure called Infovía Plus.
 
-***************************************
-May 1997 - May 1998: Scholarship holder
-***************************************
+*******************************
+May 1997 - May 1998: Internship
+*******************************
 
 .. image:: /images/etsitandupm.gif
    :width: 150 px
