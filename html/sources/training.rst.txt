@@ -289,6 +289,40 @@ April 27, 2009 - April 28, 2009
 Cloud and Software Defined Datacenter
 *************************************
 
+PURE//ACCELERATE 2018
+=====================
+
+*Dates:* May 22, 2018 - May 24, 2018
+
+**Pure Storage Inc., San Francisco, USA**
+
+* *Engage*: Meet with top CIOs, architects, devops pros, and hands-on developers.
+
+* *Discover*: Experience new products and jump knee-deep into the latest trends in data. Diving deep on product features and roadmaps.
+
+* *Act*: Get a jumpstart on your list of critical and strategic to-do's with our solutions experts.
+
+2018: Openshift Container Platform
+==================================
+
+*Dates:* May 11, 2018
+
+**Red Hat, Inc., Madrid, Spain**
+
+* Red Hat Overview.
+
+* Red Hat Partnership.
+
+* Data Center evolution.
+
+* Openshift = Enterprise Kubernetes++
+
+* Openshift Architecture.
+
+* Demo session I = Monolithic applications.
+
+* Demo session II = Microservices.
+
 2018: Cisco Live Barcelona
 ==========================
 
@@ -862,6 +896,25 @@ December 14, 2009 - December 18, 2009
 ************
 Data Science 
 ************
+
+Interactive Data Visualization with Bokeh
+=========================================
+
+`Interactive Data Visualization with Bokeh Course Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Bokeh.pdf>`_
+
+*Dates:* May 6, 2018
+
+**DataCamp**
+
+Bokeh is an interactive data visualization library for Python (and other languages) that targets modern web browsers for presentation. It can create versatile, data-driven graphics, and connect the full power of the entire Python data-science stack to rich, interactive visualizations.
+
+* Basic plotting with Bokeh
+
+* Layouts, Interactions, and Annotations
+
+* Building interactive apps with Bokeh
+
+* Putting It All Together! A Case Study
 
 Big Data University Workshop
 ============================
