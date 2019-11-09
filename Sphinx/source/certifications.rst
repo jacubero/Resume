@@ -737,6 +737,51 @@ Certified: February 16, 2015 Expires: January 30, 2019
 Data Science 
 ************
 
+2019: Splunk Accredited Sales Engineer I
+========================================
+
+`Splunk Accredited Sales Engineer I <https://github.com/jacubero/Resume/blob/master/Certificates/Splunk-Accredited-Sales-Engineer-I-Cert-286618.pdf>`_
+
+*Certified:* October 27, 2019
+
+**Splunk**
+
+A Splunk Accredited Sales Engineer I can assist with technical demos and presentations during the sales cycle
+
+* Convey Splunk sales messaging
+
+* Position Splunk platform solutions (Splunk Cloud; Splunk Enterprise)
+
+* Position Splunk premium solutions (Splunk ITSI, Splunk ES, Phantom, UBA)
+
+* Convey technical details of Splunk
+
+* Conduct a Splunk demo
+
+* Discover customer pain in use cases
+
+2019: Splunk Core Certified Power User
+======================================
+
+`Splunk Core Certified Power User <https://github.com/jacubero/Resume/blob/master/Certificates/Splunk-Core-Certified-Power-User-Cert-285564.pdf>`_
+
+*Certified:* October 22, 2019
+
+**Splunk**
+
+A Splunk Core Certified Power User has a basic understanding of SPL searching and reporting commands and can create knowledge objects, use field aliases and calculated fields, create tags and event types, use macros, create workflow actions and data models, and normalize data with the Common Information Model in either the Splunk Enterprise or Splunk Cloud platforms. This certification demonstrates an individual's foundational competence of Splunk’s core software.
+
+2019: Splunk Core Certified User 
+================================
+
+`Splunk Core Certified User <https://github.com/jacubero/Resume/blob/master/Certificates/Splunk-Core-Certified-User-Cert-280115.pdf>`_
+
+*Certified:* September 23, 2019
+
+**Splunk**
+
+A Splunk Core Certified User is able to search, use fields, create alerts, use look-ups, and create basic statistical reports and dashboards in either the Splunk Enterprise or Splunk Cloud platforms. This entry-level certification demonstrates an individual's basic ability to navigate and use Splunk software.
+
 2015: Data Scientist Associate (EMCDSA) Certification
 =====================================================
 

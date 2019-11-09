@@ -2,15 +2,15 @@
 PERSONAL INFORMATION
 ####################
 
-.. image:: /images/CISSP.jpg
+.. image:: /images/cissp.png
    :width: 150 px
    :align: left
 
-.. image:: /images/CISCO.png
+.. image:: /images/ccna-data-center.png
    :width: 150 px
    :align: left
 
-.. image:: /images/EMCproven.jpg
+.. image:: /images/associate-data-science-version-1-0.png
    :width: 150 px
    :align: left
 
@@ -30,7 +30,19 @@ PERSONAL INFORMATION
    :width: 150 px
    :align: left
 
-.. image:: /images/openstack.jpg
+.. image:: /images/coa-badge.png
+   :width: 150 px
+   :align: left
+
+.. image:: /images/BDG-Splunk-Accredited-SalesEngineerI-101.png
+   :width: 150 px
+   :align: left
+
+.. image:: /images/splunk-core-certified-power-user.png
+   :width: 150 px
+   :align: left
+
+.. image:: /images/splunk-core-certified-user.png
    :width: 150 px
    :align: left
 

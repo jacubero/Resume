@@ -289,8 +289,43 @@ April 27, 2009 - April 28, 2009
 Cloud and Software Defined Datacenter
 *************************************
 
-PURE//ACCELERATE 2018
-=====================
+2019: VMworld Europe
+====================
+
+*Dates:* November 4, 2019 - November 7, 2019
+
+**VMware Inc., Barcelona, Spain**
+
+It is VMware’s premier digital infrastructure event. VMworld offers incredible opportunities for education, training, and insights into current and future trends related to digital infrastructure technology and transformation. VMware executives and experts will also be there to meet with attendees, lead workshops, and give keynotes.
+
+2019: Cisco Live Barcelona
+==========================
+
+*Dates:* January 28, 2019 - February 1, 2019
+
+**Cisco Systems Inc., Barcelona, Spain**
+
+Cisco Live is widely acknowledged as the premier event for education, inspiration, and making connections for technology professionals. Through keynotes from today’s IT visionary thought leaders and Cisco executives, more than 800 educational sessions, Cisco’s top partners, and multiple networking opportunities, Cisco Live presents a unique opportunity to acquire cutting-edge knowledge and skills on the technologies we already use, and those we will rely on in the future to achieve the digital transformation that is changing how business gets done. Some of the other reasons to attend include:
+
+* The ability to evaluate in-person the latest innovations in networking, security, and the cloud.
+
+* The chance to better understand emerging technologies and concepts that are the driving force behind the innovative new world of digital business.
+
+* The chance to meet directly with Cisco experts and pose questions about our unique challenges.
+
+* The opportunity to connect with other attendees and Cisco partners to hear their perspectives and suggestions about best practices, new ideas, and new tools we might consider. 
+
+2018: VMworld Europe
+====================
+
+*Dates:* November 5, 2018 - November 8, 2018
+
+**VMware Inc., Barcelona, Spain**
+
+It is VMware’s premier digital infrastructure event. VMworld offers incredible opportunities for education, training, and insights into current and future trends related to digital infrastructure technology and transformation. VMware executives and experts will also be there to meet with attendees, lead workshops, and give keynotes.
+
+2018: PURE//ACCELERATE
+======================
 
 *Dates:* May 22, 2018 - May 24, 2018
 
@@ -348,7 +383,6 @@ PURE//ACCELERATE 2018
 
 * Meet the Engineer: Connect with Cisco Engineers at informal one-on-one discussions on the topics that matter most to you.
 
-
 2018: Solution Application Workshop
 ===================================
 
@@ -357,7 +391,6 @@ PURE//ACCELERATE 2018
 **Cisco Systems Inc., Madrid, Spain**
 
 It has been designed to empower Partner Sales Engineers to effectively sell Applications Solutions to key decision makers who are responsible for Application, Data, Infrastructure, and Services budgets. Partner Sales Engineers will form teams and develop customer presentations that address the key challenges of real-world application use cases. These customer use cases include Enterprise Applications (SAP, Oracle, Microsoft SQL), Data Center Modernization and Cloud (Containers/Docker, Microservices..), Desktop Virtualization (Citrix, GPU,..), and Big Data and Data Analytics (Cloudera, Splunk, SAS,…). We will highlight Cisco's Competitive Advantage End-to-End by presenting Customer Storyboards that integrate our broad range of software and hardware solutions such as AppDynamics, Tetration, Workplace Optimization Manager (WOM), CloudCenter, UCS, Hyperflex, ACI, ... needs.
-
 
 LFS252: OpenStack Administration Fundamentals 
 =============================================
@@ -896,6 +929,45 @@ December 14, 2009 - December 18, 2009
 ************
 Data Science 
 ************
+
+2019: Splunk .conf19
+====================
+
+October 21, 2019 - October 24, 2019
+
+**Splunk Inc., Las Vegas, USA**
+
+conf Event content is sorted into six core Tracks to showcase our products and solutions across multiple use cases. Check out our tracks to help find the best sessions for your Splunk use.
+
+* *Business Analytics*: Learn how Splunk can help you discover, explore and investigate the problems that lead to unexpected, incomplete or delayed business processes. Drive greater operational excellence in your business with Splunk.
+
+* *Developer*: Extend Splunk’s native functionality or modify Splunk using Splunk’s developer tools. Gain new insights on building apps for Splunk Enterprise and Splunk Developer Cloud. Learn more about leveraging Splunk’s existing APIs and SDKs.
+
+* *Internet of Things*: Innovations like sensors, robotics, communications, geospatial and analytics technologies are changing the world. Explore inspiring use cases to see what Splunk can do for connected cities, transportation and fleet management, predictive maintenance and more.
+
+* *Foundations/Platform*: Foundational sessions will help those who are starting their Splunk journey. Deep-dive technical sessions — presented by Splunk engineers, product managers and sales engineers — provide real-world best practices along with do’s and don’ts for using, deploying and administering Splunk.
+
+* *Security, Compliance and Fraud*: See how peers and Splunk experts are addressing real-world scenarios using Splunk. There will be ample hands-on learning opportunities that will show you how to improve your security posture and, in the process, enhance your Splunk skills.
+
+* *IT Operations*: Learn everything you need to learn , from troubleshooting and monitoring APM and DevOps use cases. Gain insight from Splunkers on how you can keep your applications services and infrastructure up, running and happy. 
+
+2019: Splunk EMEA Partner Technical Symposium
+=============================================
+
+May 9, 2019 - May 10, 2019
+
+**Splunk Inc., Berlin, Germany**
+
+Partner Technical Symposiums are regional forums where Splunk certified partners get deep technical training. Partner SEs, services professionals, developers and other technical wizards converge in these local events. 
+
+2019: Splunk Global Partner Summit
+==================================
+
+February 25, 2019 - February 28, 2019
+
+**Splunk Inc., Las Vegas, USA**
+
+The Splunk Global Partner Summit provides partners with the information they need to grow their Splunk business and take full advantage of the Splunk Partner+ Program.
 
 Interactive Data Visualization with Bokeh
 =========================================
