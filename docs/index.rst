@@ -1,6 +1,5 @@
-###########################
 José Antonio Álvarez Cubero
-###########################
+===========================
 
 .. .. _cover:
 
@@ -12,7 +11,7 @@ José Antonio Álvarez Cubero
 
 .. _toc: 
 
-Table of Contents:
+Contents:
 
 .. toctree::
    :maxdepth: 2
@@ -26,9 +25,13 @@ Table of Contents:
    Additional information <additional>
 ..   BLOG <blog>
 
+   *
 
-Search
+
+
+Indices and tables
 ==================
 
+* :ref:`genindex`
+* :ref:`modindex`
 * :ref:`search`
-
