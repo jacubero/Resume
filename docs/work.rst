@@ -6,7 +6,7 @@ WORK EXPERIENCE
 January 2017 - Present: Data Center and Digital Transformation Business Development and Presales Manager. Data Scientist
 ************************************************************************************************************************
 
-.. image:: /images/acuntia.gif
+.. image:: /images/Axians_logo.png
    :width: 150 px
    :align: left
 

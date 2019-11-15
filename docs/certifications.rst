@@ -6,6 +6,14 @@ Certifications
 Cloud and Software Defined Datacenter
 *************************************
 
+2019: AWS Technical Professional Accreditation 
+==============================================
+
+`AWS Technical Professional Accreditation <https://github.com/jacubero/Resume/blob/master/Certificates/AWSTechnicalProfessional.pdf>`_
+
+*Certified:* November 15, 2019
+
+
 2018: Cisco Network Programmability Developer Specialist 
 ========================================================
 
