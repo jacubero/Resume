@@ -6,8 +6,15 @@ Certifications
 Cloud and Software Defined Datacenter
 *************************************
 
-2019: AWS Technical Professional Accreditation 
-==============================================
+2019: AWS Solutions Training for Partners: Foundations - Technical Accreditation 
+================================================================================
+
+`AWS Solutions Training for Partners: Foundations - Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSSolutionsTrainingforPartnersFoundations.pdf>`_
+
+*Accredited:* November 22, 2019
+
+2019: AWS Cloud Economics Accreditation 
+=======================================
 
 `AWS Cloud Economics Accreditation <https://github.com/jacubero/Resume/blob/master/Certificates/AWSCloudEconomics.pdf>`_
 
