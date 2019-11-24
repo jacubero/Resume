@@ -285,9 +285,456 @@ April 27, 2009 - April 28, 2009
 
 * Discount demands.
 
-*************************************
-Cloud and Software Defined Datacenter
-*************************************
+*****
+Cloud
+*****
+
+2019: AWS Solutions Training for Partners: Foundations - Technical Accreditation 
+================================================================================
+
+`AWS Solutions Training for Partners: Foundations - Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSSolutionsTrainingforPartnersFoundations.pdf>`_
+
+*Accredited:* November 22, 2019
+
+This course covers the following concepts, organized into 15 modules grouped into five sections:
+
+* Section 1: Introduction and AWS Solution Architect Foundations
+
+  * Module 1: Customers Are Moving to AWS
+
+	* Five core benefits of public cloud
+	
+	* Why AWS?
+	
+	* AWS customers
+
+  * Module 2: AWS Solution Architects
+	
+	* AWS SA roles and responsibilities
+
+	* The multitude of AWS services
+	
+	* Guiding principles
+	
+	* Keys to success
+
+  * Module 3: You Know More Than You Realize
+	
+	* Customer data center technology vs AWS
+	
+	* The whole is greater than the sum of its parts
+
+  * Module 4: AWS Architectural Concepts
+	
+	* Regions and Availability Zones
+	
+	* Points of presence (POPs)
+	
+	* Management Continuum
+	
+	* Shared Security model
+	
+	* Infrastructure as code
+	
+  * Module 5: Building Blocks
+	
+	* Compute
+	
+	* Storage
+	
+	* Networking
+	
+	* Databases
+	
+	* Security
+	
+	* Management
+
+* Section 2: Customer Questions and the Well-Architected Framework
+
+  * Module 6: Customer Questions
+
+    * Customer questions
+
+  * Module 7: The AWS Well-Architected Framework
+
+    * Operational Excellence
+
+    * Security
+
+    * Reliability
+
+    * Performance Efficiency
+
+    * Cost Optimization
+
+* Section 3: Solution Architecture Design
+
+  * Module 8: Architecting an AWS Solution Concepts
+
+    * Principles
+
+    * Focus
+
+    * Scope
+
+  * Module 9: Case Study: Customer Engagement
+
+    * Meet the customer
+
+    * Understand the issues and application
+
+    * Identify current and future capabilities
+
+    * Summarize findings
+
+    * Form a preliminary solution
+
+  * Module 10: Engaging Customers and Architecting Solutions
+
+    * Functional vs. Non-Functional Requirements
+
+    * Selecting specific AWS services
+
+    * Additional considerations
+
+    * Migration
+
+  * Module 11: Case Study: Architecting a Solution
+
+    * Data services
+
+    * Compute and storage
+
+    * Network and security
+
+    * Monitoring and management
+
+    * Costs
+
+    * Migration and cutover
+
+  * Module 12: Case Study: Proposed Solution Architecture
+
+    * Cloud migrated
+
+    * Reliability Pillar
+
+    * Performance Efficiency Pillar
+
+    * Cost Optimization Pillar
+
+    * Security Pillar
+
+    * Operational Excellence Pillar
+
+    * Proposed case study solution
+
+* Section 4: Exploring Solution Patterns and Architectures
+
+  * Module 13: Customer Use Cases and Patterns
+
+    * Hybrid Web Application Architecture
+
+    * Modified Hybrid Architecture
+
+    * Container Microservices Architecture
+
+    * Serverless Microservices Architecture
+
+    * Modern Big Data Architecture
+
+* Section 5: Wrap Up
+
+  * Module 14: Takeaways
+
+    * Key points
+
+    * Principles
+
+  * Module 15: Next Steps
+
+    * Resources
+
+    * Additional training
+
+2019: AWS Cloud Economics Accreditation 
+=======================================
+
+`AWS Cloud Economics Accreditation <https://github.com/jacubero/Resume/blob/master/Certificates/AWSCloudEconomics.pdf>`_
+
+*Accredited:* November 19, 2019
+
+This course covers the following concepts:
+
+* Module 1: Introduction to Business Value
+
+	* Cloud Value Framework
+	
+	* Cost savings
+	
+	* Staff productivity
+	
+	* Operational resilience
+	
+	* Business agility
+
+* Module 2: Cost Savings Basics
+
+	* Why cost savings matters
+	
+	* Lowering costs with AWS
+	
+	* Customer migration challenges
+
+* Module 3: Staff Productivity
+
+	* Quantifying the impact AWS has on staff productivity versus traditional IT
+	
+	* Customer examples
+
+* Module 4: Operational Resilience
+
+	* Four key areas of operational resilience
+	
+	* Benefits of improved operational resilience
+	
+	* Causes and impacts of downtime
+	
+	* How AWS mitigates operational failures
+	
+	* Customer examples
+
+* Module 5: Business Agility
+	
+	* Key performance indicators to measure business agility
+	
+	* How increased business agility allows for innovation and decreased risks and costs
+	
+	* Customer examples
+
+* Module 6: Cloud Financial Management
+	
+	* Four key areas of cloud financial management
+	
+	* Measurement and accountability
+	
+	* Cost optimization
+	
+	* Planning and forecasting
+	
+	* Cloud financial operations
+
+* Module 7: Introduction to Migration Portfolio Assessment (MPA)
+	
+	* Who should use the MPA tool
+	
+	* When and how to use the MPA tool
+	
+	* How to access the MPA tool
+	
+* Module 8: Cost Savings with MPA
+	
+	* How to add and manipulate data with the MPA tool
+	
+	* Cost savings analyses with the MPA tool
+
+2019: AWS Technical Professional Accreditation 
+==============================================
+
+`AWS Technical Professional Accreditation <https://github.com/jacubero/Resume/blob/master/Certificates/AWSTechnicalProfessional.pdf>`_
+
+*Accredited:* November 15, 2019
+
+This course will cover the following concepts:
+
+* Module 1: Introduction to AWS
+
+  * Cloud computing overview
+
+  * AWS Infrastructure overview
+
+* Module 2: AWS Services
+
+  * Compute
+
+  * Storage
+
+  * Database
+
+  * Migration
+
+  * Networking
+
+  * Developer Tools
+
+  * Management Tools
+
+  * Security, Identity and Compliance
+
+  * Analytics
+
+  * Artificial Intelligence
+
+  * IoT
+
+  * Application Services
+
+  * Enterprise Applications
+
+* Module 3: AWS Architecture
+
+  * Security Architecture
+
+  * Well Architected Framework
+
+  * Fault Tolerance and High Availability
+
+  * DevOps
+
+* Module 4: AWS Solutions (new focus areas TBD based on APN guidance)
+
+  * Big Data
+
+  * Cloud Migrations
+
+  * Mobile Applications
+
+* Module 5
+
+  * AWS Pricing
+
+2018: Openshift Container Platform
+==================================
+
+*Dates:* May 11, 2018
+
+**Red Hat, Inc., Madrid, Spain**
+
+* Red Hat Overview.
+
+* Red Hat Partnership.
+
+* Data Center evolution.
+
+* Openshift = Enterprise Kubernetes++
+
+* Openshift Architecture.
+
+* Demo session I = Monolithic applications.
+
+* Demo session II = Microservices.
+
+LFS252: OpenStack Administration Fundamentals 
+=============================================
+
+*Dates:* July 15, 2017 - August 15, 2017
+
+**The Linux Foundation**
+
+OpenStack is growing at an unprecedented rate, and there is high demand for individuals who have experience managing this cloud platform. This course will teach you everything you need to know to create and manage private and public clouds with OpenStack. It is also excellent preparation for the Certified OpenStack Administrator exam.
+
+* Course Introduction
+
+* Cloud Fundamentals
+
+* Managing Guest Virtual Machines with OpenStack Compute
+
+* Components of an OpenStack Cloud (Part One)
+
+* Components of an OpenStack Cloud (Part Two)
+
+* Reference Architecture
+
+* Deploying Prerequisite Services
+
+* Deploying Services Overview
+
+* Advanced Software Defined Networking with Neutron (Part One)
+
+* Advanced Software Defined Networking with Neutron (Part Two)
+
+* Distributed Cloud Storage with Ceph
+
+* OpenStack Object Storage with Swift
+
+* High Availability in the Cloud
+
+* Cloud Security with OpenStack
+
+* Monitoring and Metering
+
+* Cloud Automation
+
+* Course Summary
+
+Cisco ONE Enterprise Cloud Suite Sales Training
+===============================================
+
+*Dates:* May 30, 2017
+
+**Cisco Systems Inc., Madrid, Spain**
+
+It is explained the value proposition of Cisco One ECS. What as the key questions you need to ask to different personas, how to pitch real Hybrid IT to your customers and get a clear view on the competition like VMWARE ELA or offset components of other vendors.
+
+LFS152x: Introduction to OpenStack
+==================================
+
+Grade Achieved: 92% Certified: October 20, 2016
+
+**The Linux Foundation**
+
+This introductory course is taught by cloud experts from The Linux Foundation, which also delivers the Certified OpenStack Administrator (COA) exam. 
+
+* Session 1: From Virtualization to Cloud Computing.
+
+* Session 2: Understanding OpenStack. 
+
+* Session 3: Deploying OpenStack (PackStack and DevStack).
+
+* Session 4: Deploying a Virtual Machine from Horizon.
+
+* Session 5: Managing OpenStack from the Command Line.
+
+* Session 6: Scaling Out Your OpenStack.
+
+Cisco CloudCenter (CliQr) Sales/Pre-sales Bootcamp
+==================================================
+
+*Date:* October 17, 2016
+
+**Cisco Systems, Madrid, Spain**
+
+* Module 1 - Cloud Summary and Typical Customer Pain Points
+
+* Cisco CloudCenter
+
+* Sales Plays
+
+2015: Deploying Red Hat Enterprise Linux OpenStack Platform
+===========================================================
+
+*Dates:* October 15, 2015 - October 16, 2015
+
+**Firefly, Madrid, Spain**
+
+* Describe data center trends that have led to current day cloud delivery models
+
+* Provide an overview of OpenStack including components and fundamentals of operation
+
+* Provide an overview of Red Hat Enterprise Linux OpenStack
+
+* Describe the Cisco UCS B, C, M Series, and Cisco UCS Mini
+
+* Provide a detailed description of Cisco UCS core network connectivity
+
+* Describe Cisco UCS stateless computing
+
+* Describe Cisco UCS integrated infrastructure with Red Hat Enterprise Linux OpenStack
+
+***************************
+Software Defined Datacenter
+***************************
 
 2019: VMworld Europe
 ====================
@@ -337,27 +784,6 @@ It is VMware’s premier digital infrastructure event. VMworld offers incredible
 
 * *Act*: Get a jumpstart on your list of critical and strategic to-do's with our solutions experts.
 
-2018: Openshift Container Platform
-==================================
-
-*Dates:* May 11, 2018
-
-**Red Hat, Inc., Madrid, Spain**
-
-* Red Hat Overview.
-
-* Red Hat Partnership.
-
-* Data Center evolution.
-
-* Openshift = Enterprise Kubernetes++
-
-* Openshift Architecture.
-
-* Demo session I = Monolithic applications.
-
-* Demo session II = Microservices.
-
 2018: Cisco Live Barcelona
 ==========================
 
@@ -392,50 +818,6 @@ It is VMware’s premier digital infrastructure event. VMworld offers incredible
 
 It has been designed to empower Partner Sales Engineers to effectively sell Applications Solutions to key decision makers who are responsible for Application, Data, Infrastructure, and Services budgets. Partner Sales Engineers will form teams and develop customer presentations that address the key challenges of real-world application use cases. These customer use cases include Enterprise Applications (SAP, Oracle, Microsoft SQL), Data Center Modernization and Cloud (Containers/Docker, Microservices..), Desktop Virtualization (Citrix, GPU,..), and Big Data and Data Analytics (Cloudera, Splunk, SAS,…). We will highlight Cisco's Competitive Advantage End-to-End by presenting Customer Storyboards that integrate our broad range of software and hardware solutions such as AppDynamics, Tetration, Workplace Optimization Manager (WOM), CloudCenter, UCS, Hyperflex, ACI, ... needs.
 
-LFS252: OpenStack Administration Fundamentals 
-=============================================
-
-*Dates:* July 15, 2017 - August 15, 2017
-
-**The Linux Foundation**
-
-OpenStack is growing at an unprecedented rate, and there is high demand for individuals who have experience managing this cloud platform. This course will teach you everything you need to know to create and manage private and public clouds with OpenStack. It is also excellent preparation for the Certified OpenStack Administrator exam.
-
-* Course Introduction
-
-* Cloud Fundamentals
-
-* Managing Guest Virtual Machines with OpenStack Compute
-
-* Components of an OpenStack Cloud (Part One)
-
-* Components of an OpenStack Cloud (Part Two)
-
-* Reference Architecture
-
-* Deploying Prerequisite Services
-
-* Deploying Services Overview
-
-* Advanced Software Defined Networking with Neutron (Part One)
-
-* Advanced Software Defined Networking with Neutron (Part Two)
-
-* Distributed Cloud Storage with Ceph
-
-* OpenStack Object Storage with Swift
-
-* High Availability in the Cloud
-
-* Cloud Security with OpenStack
-
-* Monitoring and Metering
-
-* Cloud Automation
-
-* Course Summary
-
-
 PURE//ACCELERATE 2017
 =====================
 
@@ -448,17 +830,6 @@ PURE//ACCELERATE 2017
 * New product announcements and high-level roadmap.
 
 * Rub elbows and mingle in a casual setting with fellow technology visionaries.
-
-
-Cisco ONE Enterprise Cloud Suite Sales Training
-===============================================
-
-*Dates:* May 30, 2017
-
-**Cisco Systems Inc., Madrid, Spain**
-
-It is explained the value proposition of Cisco One ECS. What as the key questions you need to ask to different personas, how to pitch real Hybrid IT to your customers and get a clear view on the competition like VMWARE ELA or offset components of other vendors.
-
 
 2017: Cisco Live Berlin
 =======================
@@ -573,42 +944,6 @@ Lab: Containers
 Lab: Service Orchestration
 
 
-LFS152x: Introduction to OpenStack
-==================================
-
-Grade Achieved: 92% Certified: October 20, 2016
-
-**The Linux Foundation**
-
-This introductory course is taught by cloud experts from The Linux Foundation, which also delivers the Certified OpenStack Administrator (COA) exam. 
-
-* Session 1: From Virtualization to Cloud Computing.
-
-* Session 2: Understanding OpenStack. 
-
-* Session 3: Deploying OpenStack (PackStack and DevStack).
-
-* Session 4: Deploying a Virtual Machine from Horizon.
-
-* Session 5: Managing OpenStack from the Command Line.
-
-* Session 6: Scaling Out Your OpenStack.
-
-
-Cisco CloudCenter (CliQr) Sales/Pre-sales Bootcamp
-==================================================
-
-*Date:* October 17, 2016
-
-**Cisco Systems, Madrid, Spain**
-
-* Module 1 - Cloud Summary and Typical Customer Pain Points
-
-* Cisco CloudCenter
-
-* Sales Plays
-
-
 Juniper Networks EMEA Automation 1.0 Workshop
 =============================================
 
@@ -693,7 +1028,6 @@ Contrail/OpenStack Boot Camp
   * Using Fabric Scripts
 
   * Using OpenStack Commands
-
 
 EMEAR Data Center Partner Connection 2016
 =========================================
@@ -827,27 +1161,6 @@ SDN Enablement Bootcamp
 * Objections to SDN
 
 * Competitive analysis between ACI and NSX
-
-2015: Deploying Red Hat Enterprise Linux OpenStack Platform
-===========================================================
-
-*Dates:* October 15, 2015 - October 16, 2015
-
-**Firefly, Madrid, Spain**
-
-* Describe data center trends that have led to current day cloud delivery models
-
-* Provide an overview of OpenStack including components and fundamentals of operation
-
-* Provide an overview of Red Hat Enterprise Linux OpenStack
-
-* Describe the Cisco UCS B, C, M Series, and Cisco UCS Mini
-
-* Provide a detailed description of Cisco UCS core network connectivity
-
-* Describe Cisco UCS stateless computing
-
-* Describe Cisco UCS integrated infrastructure with Red Hat Enterprise Linux OpenStack
 
 2015: Automating the Modern Data Center: Nexus 9k
 =================================================

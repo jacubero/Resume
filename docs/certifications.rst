@@ -2,31 +2,217 @@
 Certifications
 ##############
 
-*************************************
-Cloud and Software Defined Datacenter
-*************************************
+*****
+Cloud
+*****
 
-2019: AWS Solutions Training for Partners: Foundations - Technical Accreditation 
-================================================================================
+2017: Certified OpenStack Administrator (COA) 
+=============================================
 
-`AWS Solutions Training for Partners: Foundations - Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSSolutionsTrainingforPartnersFoundations.pdf>`_
+`Certified OpenStack Administrator (COA) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/COA_Certificate.pdf>`_
 
-*Accredited:* November 22, 2019
+*Certified:* November 10, 2017 *Expires:* November 10, 2020
 
-2019: AWS Cloud Economics Accreditation 
-=======================================
+**OpenStack Foundation**
 
-`AWS Cloud Economics Accreditation <https://github.com/jacubero/Resume/blob/master/Certificates/AWSCloudEconomics.pdf>`_
+Below are the specific content areas (Domains) and the specific tasks on which candidates may be expected to demonstrate their knowledge:
 
-*Accredited:* November 19, 2019
+**1. Getting to know OpenStack** - 3%
 
-2019: AWS Technical Professional Accreditation 
-==============================================
+1.1. Understand the components that make up the cloud
 
-`AWS Technical Professional Accreditation <https://github.com/jacubero/Resume/blob/master/Certificates/AWSTechnicalProfessional.pdf>`_
+1.2. Use the OpenStack API/CLI
 
-*Accredited:* November 15, 2019
 
+**2. Identity management** - 12%
+
+2.1. Manage Keystone catalogue services and endpoints
+
+2.2. Manage/Create domains, groups, projects, users, and roles
+
+2.3. Create roles for the environment
+
+2.4. Manage the identity service
+
+2.5. Verify operation of the Identity service
+
+
+**3. Dashboard** - 3%
+
+3.1. Verify operation of the Dashboard
+
+
+**4. Compute** - 15%
+
+4.1. Manage flavors
+
+4.2. Manage compute instance actions (e.g. launch, shutdown, terminate)
+
+4.3. Manage Nova user keypairs
+
+4.4. Launch a new instance
+
+4.5. Shutdown an Instance
+
+4.6. Terminate Instance
+
+4.7. Configure an Instance with a Floating IP address
+
+4.8. Manage project security group rules
+
+4.9. Assign security group to Instance
+
+4.10. Assign floating IP address to Instance
+
+4.11. Detach floating IP address from Instance
+
+4.12. Manage Nova host consoles (rdp, spice, tty)
+
+4.13. Access an Instance using a keypair
+
+4.14. Manage instance snapshots
+
+4.15. Manage Nova compute servers
+
+4.16. Manage quotas
+
+4.17. Get Nova stats (hosts, services, tenants)
+
+4.18. Verify operation of the Compute service
+
+
+**5. Object Storage** - 10%
+
+5.1. Manage access to object storage
+
+5.2. Manage expiring objects
+
+5.3. Manage storage policies
+
+5.4. Monitor space available for object store
+
+5.5. Verify operation of Object Storage
+
+5.6. Manage permissions on a container in object storage
+
+
+**6. Block Storage** - 10%
+
+6.1. Manage volume
+
+6.2. Create volume group for block storage
+
+6.3. Create a new Block Storage Volume and mount it to a Nova Instance
+
+6.4. Manage quotas
+
+6.5. Manage volumes quotas
+
+6.6. Manage volumes backups
+
+6.7. Backup and restore volumes
+
+6.8. Manage volume snapshots (e.g, take, list, recover)
+
+6.9. Verify that block storage can perform snapshotting function
+
+6.10. Snapshot volume
+
+6.11. Manage volumes encryption
+
+6.12. Set up storage pools
+
+6.13. Monitor reserve capacity of block storage devices
+
+6.14. Analyze discrepancies in reported volume sizes
+
+
+**7. Networking** - 16%
+
+7.1. Manage network resources (e.g., routers, subnets)
+
+7.2. Create external networks
+
+7.3. Create project networks
+
+7.4. Create project routers
+
+7.5. Manage network services for a virtual environment
+
+7.6. Manage project security group rules
+
+7.7. Manage quotas
+
+7.8. Verify operation of network service
+
+7.9. Manage network interfaces on compute instances
+
+7.10. Troubleshoot network issues for a tenant network (enter namespace, run tcpdump, etc)
+
+
+**8. Heat/Orchestration** - 8%
+
+8.1. Launch a stack using a Heat/Orchestration template (e.g., storage, network, and compute)
+
+8.2. Use Heat/Orchestration CLI and Dashboard
+
+8.3. Verify Heat/Orchestration stack is working
+
+8.4. Verify operation of Heat/Orchestration
+
+8.5. Create a Heat/Orchestration template that matches a specific scenario
+
+8.6. Update a stack
+
+8.7. Obtain detailed information about a stack
+
+
+**9. Troubleshooting** - 13%
+
+9.1. Analyze log files
+
+9.2. Backup the database(s) used by an OpenStack instance
+
+9.3. Centralize and analyze logs (e.g.,/var/log/COMPONENT_NAME, Database Server, Messaging Server, Web Server, syslog)
+
+9.4. Analyze database servers
+
+9.5. Analyze Host/Guest OS and Instance status
+
+9.6. Analyze messaging servers
+
+9.7. Analyze meta data servers
+
+9.8. Analyze network status (physical & virtual)
+
+9.9. Analyze storage status (local, block & object)
+
+9.10. Manage OpenStack Services
+
+9.11. Diagnose service incidents
+
+9.12. Digest OpenStack environment (Controller, Compute, Storage and Network nodes)
+
+9.13. Direct logging files through centralized logging system
+
+9.14. Backup and restore an OpenStack instance
+
+9.15. Troubleshoot network performance
+
+
+**10. Image management** - 10%
+
+10.1. Deploy a new image to an OpenStack instance
+
+10.2. Manage image types and backends
+
+10.3. Manage images (e.g. add, update, remove)
+
+10.4. Verify operation of the Image Service
+
+***************************
+Software Defined Datacenter
+***************************
 
 2018: Cisco Network Programmability Developer Specialist 
 ========================================================
@@ -241,210 +427,6 @@ The 300-560 exam tests a candidate's knowledge and skills related to the followi
 
 		7.8.c Northbound and Southbound APIs
 
-2017: Certified OpenStack Administrator (COA) 
-=============================================
-
-`Certified OpenStack Administrator (COA) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/COA_Certificate.pdf>`_
-
-*Certified:* November 10, 2017 *Expires:* November 10, 2020
-
-**OpenStack Foundation**
-
-Below are the specific content areas (Domains) and the specific tasks on which candidates may be expected to demonstrate their knowledge:
-
-**1. Getting to know OpenStack** - 3%
-
-1.1. Understand the components that make up the cloud
-
-1.2. Use the OpenStack API/CLI
-
-
-**2. Identity management** - 12%
-
-2.1. Manage Keystone catalogue services and endpoints
-
-2.2. Manage/Create domains, groups, projects, users, and roles
-
-2.3. Create roles for the environment
-
-2.4. Manage the identity service
-
-2.5. Verify operation of the Identity service
-
-
-**3. Dashboard** - 3%
-
-3.1. Verify operation of the Dashboard
-
-
-**4. Compute** - 15%
-
-4.1. Manage flavors
-
-4.2. Manage compute instance actions (e.g. launch, shutdown, terminate)
-
-4.3. Manage Nova user keypairs
-
-4.4. Launch a new instance
-
-4.5. Shutdown an Instance
-
-4.6. Terminate Instance
-
-4.7. Configure an Instance with a Floating IP address
-
-4.8. Manage project security group rules
-
-4.9. Assign security group to Instance
-
-4.10. Assign floating IP address to Instance
-
-4.11. Detach floating IP address from Instance
-
-4.12. Manage Nova host consoles (rdp, spice, tty)
-
-4.13. Access an Instance using a keypair
-
-4.14. Manage instance snapshots
-
-4.15. Manage Nova compute servers
-
-4.16. Manage quotas
-
-4.17. Get Nova stats (hosts, services, tenants)
-
-4.18. Verify operation of the Compute service
-
-
-**5. Object Storage** - 10%
-
-5.1. Manage access to object storage
-
-5.2. Manage expiring objects
-
-5.3. Manage storage policies
-
-5.4. Monitor space available for object store
-
-5.5. Verify operation of Object Storage
-
-5.6. Manage permissions on a container in object storage
-
-
-**6. Block Storage** - 10%
-
-6.1. Manage volume
-
-6.2. Create volume group for block storage
-
-6.3. Create a new Block Storage Volume and mount it to a Nova Instance
-
-6.4. Manage quotas
-
-6.5. Manage volumes quotas
-
-6.6. Manage volumes backups
-
-6.7. Backup and restore volumes
-
-6.8. Manage volume snapshots (e.g, take, list, recover)
-
-6.9. Verify that block storage can perform snapshotting function
-
-6.10. Snapshot volume
-
-6.11. Manage volumes encryption
-
-6.12. Set up storage pools
-
-6.13. Monitor reserve capacity of block storage devices
-
-6.14. Analyze discrepancies in reported volume sizes
-
-
-**7. Networking** - 16%
-
-7.1. Manage network resources (e.g., routers, subnets)
-
-7.2. Create external networks
-
-7.3. Create project networks
-
-7.4. Create project routers
-
-7.5. Manage network services for a virtual environment
-
-7.6. Manage project security group rules
-
-7.7. Manage quotas
-
-7.8. Verify operation of network service
-
-7.9. Manage network interfaces on compute instances
-
-7.10. Troubleshoot network issues for a tenant network (enter namespace, run tcpdump, etc)
-
-
-**8. Heat/Orchestration** - 8%
-
-8.1. Launch a stack using a Heat/Orchestration template (e.g., storage, network, and compute)
-
-8.2. Use Heat/Orchestration CLI and Dashboard
-
-8.3. Verify Heat/Orchestration stack is working
-
-8.4. Verify operation of Heat/Orchestration
-
-8.5. Create a Heat/Orchestration template that matches a specific scenario
-
-8.6. Update a stack
-
-8.7. Obtain detailed information about a stack
-
-
-**9. Troubleshooting** - 13%
-
-9.1. Analyze log files
-
-9.2. Backup the database(s) used by an OpenStack instance
-
-9.3. Centralize and analyze logs (e.g.,/var/log/COMPONENT_NAME, Database Server, Messaging Server, Web Server, syslog)
-
-9.4. Analyze database servers
-
-9.5. Analyze Host/Guest OS and Instance status
-
-9.6. Analyze messaging servers
-
-9.7. Analyze meta data servers
-
-9.8. Analyze network status (physical & virtual)
-
-9.9. Analyze storage status (local, block & object)
-
-9.10. Manage OpenStack Services
-
-9.11. Diagnose service incidents
-
-9.12. Digest OpenStack environment (Controller, Compute, Storage and Network nodes)
-
-9.13. Direct logging files through centralized logging system
-
-9.14. Backup and restore an OpenStack instance
-
-9.15. Troubleshoot network performance
-
-
-**10. Image management** - 10%
-
-10.1. Deploy a new image to an OpenStack instance
-
-10.2. Manage image types and backends
-
-10.3. Manage images (e.g. add, update, remove)
-
-10.4. Verify operation of the Image Service
-
 2017: CCNA Data Center 
 ======================
 
@@ -595,9 +577,13 @@ Topics covered on this certification include:
 	1.5 Describe server virtualization concepts and benefits
 
 		1.5.a Hypervisors
+
 		1.5.b Virtual switches
+
 		1.5.c Shared storage
+
 		1.5.d Virtual Machine components
+		
 		1.5.e Virtual Machine Manager
 
 2.0 Network Virtualization (17%)
