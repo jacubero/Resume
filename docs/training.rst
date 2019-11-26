@@ -289,6 +289,52 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2019: AWS Solutions Training for Partners: Well-Architected Best Practices - Technical
+======================================================================================
+
+`AWS Solutions Training for Partners: Well-Architected Best Practices - Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSWell-ArchitectedBestPractices.pdf>`_
+
+*Accredited:* November 26, 2019
+
+This course covers the following concepts:
+
+* The AWS Well-Architected Framework
+
+* The Security Pillar
+
+* The Reliability Pillar
+
+* The Performance Efficiency Pillar
+
+* The Cost Optimization Pillar
+
+* The Operational Excellence Pillar
+
+* The Well-Architected Review
+
+* AWS Well-Architected Tool
+
+2019: AWS Cloud Practitioner Essentials (Second Edition) 
+========================================================
+
+`AWS Cloud Practitioner Essentials (Second Edition) <https://github.com/jacubero/Resume/blob/master/Certificates/AWSCloudPractitionerEssentials.pdf>`_
+
+*Accredited:* November 26, 2019
+
+This course covers the following concepts:
+
+* Cloud Concepts Introduction
+
+* AWS Core Services
+
+* AWS Enhanced Services
+
+* AWS Architecting
+
+* Security
+
+* Pricing and Support
+
 2019: AWS Solutions Training for Partners: Foundations - Technical Accreditation 
 ================================================================================
 
@@ -698,8 +744,8 @@ This introductory course is taught by cloud experts from The Linux Foundation, w
 
 * Session 6: Scaling Out Your OpenStack.
 
-Cisco CloudCenter (CliQr) Sales/Pre-sales Bootcamp
-==================================================
+2017: Cisco CloudCenter (CliQr) Sales/Pre-sales Bootcamp
+========================================================
 
 *Date:* October 17, 2016
 
