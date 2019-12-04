@@ -2,44 +2,6 @@
 TRAINING
 ########
 
-**************
-Bioinformatics
-**************
-
-2014: Epidemics - the Dynamics of Infectious Diseases
-=====================================================
-
-Grade Achieved: 100.0% with Distinction `Epidemics - the Dynamics of Infectious Diseases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20epidemics%202014.pdf>`_
-
-*Dates:* September 29, 2014 - December 1, 2014
-
-**The Pennsylvania State University at Coursera**
-
-This course will cover key concepts that relate to the emergence, the spread, and the control of infectious disease epidemics.
-
-We covered various broad topics, including:
-
-* The basics: history of infectious diseases, basic concepts of disease dynamics, parasite diversity, evolution & ecology of infectious diseases
-
-* Emergence of diseases: The basic reproductive number, critical community size, epidemic curve, zoonoses, spill over, human/wildlife interface, climate change, hot zones, pathology
-
-* Spread of diseases: transmission types (droplets, vectors, sex), superspreading, diffusion, social networks, nosomical transmission, manipulation of behavior
-
-* Control of diseases: drug resistance, vaccination, herd immunity, quarantines, antibiotics, antivirals, health communication, ethical challenges of disease control
-
-* The future of infectious diseases: Evolution of virulence, emergence of drug resistance, eradication of diseases, medicine & evolution, crop diseases & food security, digital epidemiology
-
-2013-2014: Bioinformatics Algorithms (Part 1)
-=============================================
-
-Grade Achieved: 100.0% with Distinction `Bioinformatics Algorithms (Part 1) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Bioinformatics%202014.pdf>`_
-
-*Dates:* November 4, 2013 - January 27, 2014
-
-**University of California, San Diego at Coursera**
-
-This course covers some of the common algorithms underlying the following fundamental topics in bioinformatics: assembling genomes, comparing DNA and protein sequences, finding regulatory motifs, analyzing genome rearrangements, identifying proteins, and many other topics.
-
 ********
 Business
 ********
@@ -1544,83 +1506,6 @@ March 31, 2008 - April 2, 2008
 
 * Learn and use the different ways of results communication of internal audit results.
 
-***********
-Mathematics
-***********
-
-2014: LAFF: Linear Algebra - Foundations to Frontiers
-=====================================================
-
-Grade Achieved: 100.0% `LAFF: Linear Algebra - Foundations to Frontiers Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/LAFF.pdf>`_
-
-*Dates:* January 29, 2014 - June 3, 2014
-
-**University of Texas at edX**
-
-* The connection between linear transformations, matrices, and systems of linear equations
-
-* Partitioning methods and special characteristics of triangular, symmetric, diagonal, and invertible matrices
-
-* A variety of algorithms for matrix and vector operations and for solving systems of equations
-
-* Vector spaces, subspaces, and various characterizations of linear independence
-
-* Orthogonality, linear least-squares, projections, bases, and low-rank approximations
-
-* Eigenvalues and eigenvectors
-
-* How to create a small library of basic linear algebra functions
-
-2014: Introduction to Mathematical Thinking
-===========================================
-
-Grade Achieved: 92.0% with Distinction `Introduction to Mathematical Thinking Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Introduction%20to%20Mathematical%20Thinking.pdf>`_
-
-*Dates:* January 1, 2014 - February 3, 2014
-
-**Stanford University at Coursera**
-
-* Getting precise about language
-
-  * Mathematical statements
-
-  * The logical combinators and, or, and not
-
-  * Implication
-
-  * Quantifiers
-
-* Proofs
-
-  * Proof by contradiction
-
-  * Proving conditionals
-
-  * Proving quantified statements
-
-  * Induction proofs
-
-* Proving results about numbers
-
-  * The integers
-
-  * The real numbers
-
-  * Completeness
-
-  * Sequences
-
-2013: Coding the Matrix: Linear Algebra through Computer Science Applications
-=============================================================================
-
-Grade Achieved: 100.0% with Distinction `Coding the Matrix Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20matrix%202014.pdf>`_
-
-*Dates:* July 1, 2013 - September 8, 2013
-
-**Brown University at Coursera**
-
-Learn the concepts and methods of linear algebra, and how to use them to think about computational problems arising in computer science. Coursework includes building on the concepts to write small programs and run them on real data.
- 
 ********
 Security
 ********
@@ -1760,3 +1645,117 @@ November 13, 2005 - November 16, 2005
 
 * Defense mechanisms.
 
+***********
+Mathematics
+***********
+
+2014: LAFF: Linear Algebra - Foundations to Frontiers
+=====================================================
+
+Grade Achieved: 100.0% `LAFF: Linear Algebra - Foundations to Frontiers Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/LAFF.pdf>`_
+
+*Dates:* January 29, 2014 - June 3, 2014
+
+**University of Texas at edX**
+
+* The connection between linear transformations, matrices, and systems of linear equations
+
+* Partitioning methods and special characteristics of triangular, symmetric, diagonal, and invertible matrices
+
+* A variety of algorithms for matrix and vector operations and for solving systems of equations
+
+* Vector spaces, subspaces, and various characterizations of linear independence
+
+* Orthogonality, linear least-squares, projections, bases, and low-rank approximations
+
+* Eigenvalues and eigenvectors
+
+* How to create a small library of basic linear algebra functions
+
+2014: Introduction to Mathematical Thinking
+===========================================
+
+Grade Achieved: 92.0% with Distinction `Introduction to Mathematical Thinking Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Introduction%20to%20Mathematical%20Thinking.pdf>`_
+
+*Dates:* January 1, 2014 - February 3, 2014
+
+**Stanford University at Coursera**
+
+* Getting precise about language
+
+  * Mathematical statements
+
+  * The logical combinators and, or, and not
+
+  * Implication
+
+  * Quantifiers
+
+* Proofs
+
+  * Proof by contradiction
+
+  * Proving conditionals
+
+  * Proving quantified statements
+
+  * Induction proofs
+
+* Proving results about numbers
+
+  * The integers
+
+  * The real numbers
+
+  * Completeness
+
+  * Sequences
+
+2013: Coding the Matrix: Linear Algebra through Computer Science Applications
+=============================================================================
+
+Grade Achieved: 100.0% with Distinction `Coding the Matrix Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20matrix%202014.pdf>`_
+
+*Dates:* July 1, 2013 - September 8, 2013
+
+**Brown University at Coursera**
+
+Learn the concepts and methods of linear algebra, and how to use them to think about computational problems arising in computer science. Coursework includes building on the concepts to write small programs and run them on real data.
+ 
+**************
+Bioinformatics
+**************
+
+2014: Epidemics - the Dynamics of Infectious Diseases
+=====================================================
+
+Grade Achieved: 100.0% with Distinction `Epidemics - the Dynamics of Infectious Diseases Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Coursera%20epidemics%202014.pdf>`_
+
+*Dates:* September 29, 2014 - December 1, 2014
+
+**The Pennsylvania State University at Coursera**
+
+This course will cover key concepts that relate to the emergence, the spread, and the control of infectious disease epidemics.
+
+We covered various broad topics, including:
+
+* The basics: history of infectious diseases, basic concepts of disease dynamics, parasite diversity, evolution & ecology of infectious diseases
+
+* Emergence of diseases: The basic reproductive number, critical community size, epidemic curve, zoonoses, spill over, human/wildlife interface, climate change, hot zones, pathology
+
+* Spread of diseases: transmission types (droplets, vectors, sex), superspreading, diffusion, social networks, nosomical transmission, manipulation of behavior
+
+* Control of diseases: drug resistance, vaccination, herd immunity, quarantines, antibiotics, antivirals, health communication, ethical challenges of disease control
+
+* The future of infectious diseases: Evolution of virulence, emergence of drug resistance, eradication of diseases, medicine & evolution, crop diseases & food security, digital epidemiology
+
+2013-2014: Bioinformatics Algorithms (Part 1)
+=============================================
+
+Grade Achieved: 100.0% with Distinction `Bioinformatics Algorithms (Part 1) Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Bioinformatics%202014.pdf>`_
+
+*Dates:* November 4, 2013 - January 27, 2014
+
+**University of California, San Diego at Coursera**
+
+This course covers some of the common algorithms underlying the following fundamental topics in bioinformatics: assembling genomes, comparing DNA and protein sequences, finding regulatory motifs, analyzing genome rearrangements, identifying proteins, and many other topics.
