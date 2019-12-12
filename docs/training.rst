@@ -251,6 +251,39 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2019: GK4502 - Architecting on AWS
+==================================
+
+`Architecting on AWS <https://github.com/jacubero/Resume/blob/master/Certificates/ArchitectingOnAWS.pdf>`_
+
+*Dates:* December 10-12, 2019
+
+This course covers the following concepts:
+
+* Core AWS Knowledge
+
+* Designing Your Environment
+
+* Making Your Environment Highly Available
+
+* Forklifting an Existing Application onto AWS
+
+* Event-Driven Scaling
+
+* Automating and Decoupling Your Infrastructure
+
+* Designing Storage at Scale
+
+* Hosting a New Web Application on AWS
+
+* The Four Pillars of the Well-Architected Framework
+
+* Disaster Recovery and Failover Strategies
+
+* Troubleshooting Your Environment
+
+* Large-Scale Design Patterns and Case Studies
+
 2019: AWS Solutions Training for Partners: Well-Architected Best Practices - Technical
 ======================================================================================
 
