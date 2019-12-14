@@ -251,6 +251,25 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2019: Exam Readiness: AWS Certified Solutions Architect – Associate
+===================================================================
+
+`Exam Readiness: AWS Certified Solutions Architect – Associate <https://github.com/jacubero/Resume/blob/master/Certificates/AWSCertifiedSolution ArchitectAssociateReadiness.pdf>`_
+
+*Accredited:* December 14, 2019
+
+This course covers the following concepts:
+
+* Exam Overview and Structure
+
+* Content Domains and Question Breakdown
+
+* Topics and Concepts Within Content Domains
+
+* Question Structure and Interpretation Techniques
+
+* Practice Exam Questions
+
 2019: GK4502 - Architecting on AWS
 ==================================
 
