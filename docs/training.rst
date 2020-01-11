@@ -251,6 +251,95 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2019: Deep Dive into Amazon Simple Storage Service (Amazon S3)
+==============================================================
+
+`Deep Dive into Amazon Simple Storage Service (Amazon S3) <https://github.com/jacubero/Resume/blob/master/Certificates/AWSS3.pdf>`_
+
+*Accredited:* January 10, 2020
+
+This course covers the following concepts:
+
+* Section One: Amazon S3 Overview
+
+	* Overview of Amazon S3
+
+	* Amazon S3 Storage Classes
+
+	* Amazon S3 Use Cases
+
+	* Amazon S3 Customer Case Studies
+
+* Section Two: Using Amazon S3
+
+	* Bucket and Object Operations in Amazon S3
+
+	* Amazon S3 Select – Preview
+
+	* Accessing Your Data
+
+	* Managing Access Overview
+
+	* Data Transfer
+
+	* Hands-On Simulation with Amazon S3
+
+* Section Three: Securing Your Data in Amazon S3
+
+	* Resource-Based and User-Based Policies
+
+	* Policy Language
+
+	* Access Control Lists
+
+	* Encryption
+
+	* AWS CloudTrail
+
+	* AWS Config
+
+	* AWS Trusted Advisor
+
+	* Amazon Macie
+
+* Section Four: Managing Storage in Amazon S3
+
+	* Amazon S3 Bucket Options and Features
+
+	* Lifecycle Policies
+
+	* Cross-Region Replication
+
+	* Automating with Trigger-Based Events
+
+* Section Five: Monitoring and Analyzing Amazon S3
+
+	* Storage Class Analysis
+
+	* Amazon QuickSight
+
+	* Amazon CloudWatch
+
+* Section Six: Optimizing Performance in Amazon S3
+
+	* Optimizing for High Request Rates
+
+	* Multipart Uploads and Downloads
+
+	* Amazon CloudFront
+
+* Section Seven: Understanding Charges in Amazon S3 (10 minutes)
+
+	* Charges in Amazon S3
+
+	* Bills
+
+	* Billing dashboard
+
+	* Cost Explorer
+
+* Section Eight: Course Assessment 
+
 2019: Exam Readiness: AWS Certified Solutions Architect – Associate
 ===================================================================
 
