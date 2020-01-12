@@ -251,7 +251,7 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
-2019: Deep Dive into Amazon Simple Storage Service (Amazon S3)
+2020: Deep Dive into Amazon Simple Storage Service (Amazon S3)
 ==============================================================
 
 `Deep Dive into Amazon Simple Storage Service (Amazon S3) <https://github.com/jacubero/Resume/blob/master/Certificates/AWSS3.pdf>`_
