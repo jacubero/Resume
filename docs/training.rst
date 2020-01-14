@@ -251,6 +251,89 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2020: Deep Dive into Amazon Glacier
+===================================
+
+`Deep Dive into Amazon Glacier <https://github.com/jacubero/Resume/blob/master/Certificates/AWSGlacier.pdf>`_
+
+*Accredited:* January 14, 2020
+
+This course covers the following concepts:
+
+* Section One: Amazon Glacier Overview
+
+	* Overview of AWS Storage
+
+	* What is Amazon Glacier?
+
+	* Benefits of Using Amazon Glacier
+
+	* Amazon Glacier Features
+
+	* Customer Use Case: FINRA
+
+	* Video Demo: Amazon Glacier Console Overview
+
+* Section Two: Data Lifecycle Management
+
+	* Lifecycle Policies Overview
+
+	* Video Demo: Creating an Amazon S3 Lifecycle Policy
+
+* Section Three: Durability and Security
+
+	* Traditional Storage Durability
+
+	* Amazon Glacier Built-In Durability
+
+	* Video: James Hamilton details AWS geographic redundancy
+
+	* Amazon Glacier Built-In Security
+
+	* Vault Lock
+
+	* Customer Use Case: Proofpoint
+
+	* Video Demo: Amazon Glacier Vault Lock
+
+* Section Four: Cost Optimization
+
+	* Amazon Glacier Pricing Model
+
+	* Sony TCO Case Study
+
+	* Targeting Objects for Transition
+
+* Section Five: Data Ingestion
+
+	* Data Ingestion with Amazon Glacier
+
+	* Data Ingestion Options
+
+	* Customer Use Case: Scripps
+
+	* AWS Storage Gateway
+
+	* Video Demo: Using AWS Storage Gateway to Switch from Tape to Cloud Backups
+
+	* Use Case: Media Archive Solution
+
+	* Multipart Uploads
+
+* Section Six: Data Access
+
+	* Amazon S3 and Amazon Glacier Native Overview
+
+	* Amazon Glacier Retrieval Features
+
+	* Amazon Glacier Select
+
+	* Video Demo: Restoring Amazon Glacier Archives from Amazon S3
+
+* Section Seven: Course Summary
+
+	* Review Course Objectives
+
 2020: Deep Dive into Amazon Simple Storage Service (Amazon S3)
 ==============================================================
 
