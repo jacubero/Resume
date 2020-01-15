@@ -968,6 +968,35 @@ This introductory course is taught by cloud experts from The Linux Foundation, w
 Software Defined Datacenter
 ***************************
 
+2020: Stratetic Selling: DevOps
+===============================
+
+*Dates:* January 15, 2020
+
+This course introduces you to the key aspects of strategic selling to simplify and automate virtualized workflows, and accelerate the DevOps journey.
+
+This course focuses on enabling you to do the following:
+
+* Articulate the relationship between the NetApp Data Fabric and DevOps
+
+* Recognize external pressures that potential customers of DevOps face
+
+* Qualify (and disqualify) potential customers for DevOps determine whether a customer qualifies as a good fit
+
+* Identify influencers who are making purchase decision about DevOps
+
+* Identify questions that effectively discover the business needs of target buyers, and internal challenges and pain points that are preventing them from meeting business objectives
+
+* Conduct a whiteboard conversation
+
+* Align DevOps with customers' use cases and workloads
+
+* Explain the features and target workloads of DevOps
+
+* Use competitive information and success stories to position DevOps
+
+* Find opportunities for data infrastructure management with OCI /Cloud Insights and Active IQ
+
 2019: VMworld Europe
 ====================
 
