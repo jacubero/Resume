@@ -968,14 +968,35 @@ This introductory course is taught by cloud experts from The Linux Foundation, w
 Software Defined Datacenter
 ***************************
 
+2020: DevOps Pre-Sales technical Training
+=========================================
+
+*Dates:* January 16, 2020
+
+**NetApp Inc., Madrid, Spain**
+
+This course introduces you to the key aspects of the six core capabilities IT needs to deliver to support a DevOps framework:
+
+* Containers
+
+* Configuration management
+
+* Code and binary management
+
+* CI/CD
+
+* Cloud and PaaS
+
+* Analytics
+
 2020: Stratetic Selling: DevOps
 ===============================
 
 *Dates:* January 15, 2020
 
-This course introduces you to the key aspects of strategic selling to simplify and automate virtualized workflows, and accelerate the DevOps journey.
+**NetApp Inc., Madrid, Spain**
 
-This course focuses on enabling you to do the following:
+This course introduces you to the key aspects of strategic selling to simplify and automate virtualized workflows, and accelerate the DevOps journey. This course focuses on enabling you to do the following:
 
 * Articulate the relationship between the NetApp Data Fabric and DevOps
 
