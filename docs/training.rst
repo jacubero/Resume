@@ -251,6 +251,109 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2020: Deep Dive into Amazon Elastic Block Store (EBS)
+=====================================================
+
+`Deep Dive into Amazon Glacier <https://github.com/jacubero/Resume/blob/master/Certificates/AWSEBS.pdf>`_
+
+*Accredited:* January 19, 2020
+
+This course covers the following concepts:
+
+* Module One: Amazon EBS Overview
+
+	* Amazon EBS Volumes
+
+	* Block Storage Offerings
+
+	* Amazon EC2 Instance Store
+
+	* Amazon EBS Use Cases
+
+	* Customer Case Studies
+
+* Module Two: Types of Amazon EBS Volumes
+
+	* EBS Volume Types
+
+	* How to Choose an EBS Volume Type
+
+	* EBS-Optimized Instances
+
+* Module Three: Managing Amazon EBS Snapshots
+
+	* EBS Snapshots
+
+	* How EBS Snapshots Work
+
+	* Using EBS Snapshots
+
+	* Amazon Data Lifecycle Manager (Amazon DLM)
+
+	* Tagging EBS Snapshots
+
+	* Resource-Level Permissions
+
+* Module Four: Managing Amazon EBS Volumes
+
+	* Creating an EBS Volume
+
+	* EBS Volume States
+
+	* Attaching an EBS Volume to an EC2 Instance
+
+	* Making the Volume Available on Your Operating System
+
+	* Creating an EBS Snapshot
+
+	* Detaching and Deleting an EBS Volume
+
+* Module Five: Modifying Amazon EBS Volumes
+
+	* Modifying an EBS Volume Type, IOPS, and Size
+
+	* Extending the File System of an EC2 Instance
+
+* Module Six: Securing Amazon EBS
+
+	* Access Control
+
+	* EBS Volume Encryption
+
+	* Encrypting a New EBS Volume
+
+	* Creating a Custom Master Encryption Key
+
+	* How EBS Encryption Works
+
+	* Encrypting EBS Snapshots
+
+	* Copying an Encrypted Snapshot
+
+	* Sharing EBS Snapshots
+
+* Module Seven: Amazon EBS Performance and Monitoring
+
+	* EBS Performance Tips
+
+	* EBS-Optimized Instances
+
+	* EBS Volume Initialization
+
+	* Best Practices: RAID and Linux
+
+	* Monitoring with Amazon CloudWatch
+
+* Module Eight: Tracking Amazon EBS Usage and Costs
+
+	* EBS Pricing Model
+
+	* EBS Snapshot Storage Costs
+
+	* Tracking with Cost Allocation Tags
+
+* Module Nine: Course Assessment
+
 2020: Deep Dive into Amazon Glacier
 ===================================
 
