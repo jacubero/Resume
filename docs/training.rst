@@ -251,10 +251,79 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2020: Deep Dive into Amazon Elastic File System (EFS)
+=====================================================
+
+`Deep Dive into Amazon Elastic File System (EFS) <https://github.com/jacubero/Resume/blob/master/Certificates/AWSEFS.pdf>`_
+
+*Accredited:* January 20, 2020
+
+This course covers the following concepts:
+
+* Module One: Amazon EFS Overview
+
+	* What is Amazon EFS
+
+	* When to use Amazon EFS
+
+	* Amazon EFS use cases
+
+* Module Two: Amazon EFS Architecture
+
+	* Cloud-based NFS DIY vs Amazon EFS architecture
+
+	* Amazon EFS file systems
+
+	* Mount targets
+
+	* AWS Direct Connect
+
+	* Amazon EFS File Sync
+
+* Module Three: Amazon EFS File System Management
+
+	* Creating an EFS file system
+
+	* Mounting a file system on an Amazon EC2 instance
+
+	* Using the mounted file system
+
+* Module Four: Securing Your Data in Amazon EFS
+
+	* Security controls
+
+	* Shared responsibility model
+
+	* Security groups and permissions
+
+	* Integrating with AWS IAM
+
+	* Data encryption
+
+* Module Five: Performance and Optimization
+	
+	* Amazon EFS performance modes
+
+	* Amazon EFS throughput modes
+
+	* Bursting and burst credits
+
+	* Monitoring with Amazon CloudWatch
+
+* Module Six: Amazon EFS Cost and Billing
+	
+	* EFS pricing model
+
+	* Costs of file storage
+
+	* Example of Total Cost of Ownership (TCO)
+
+* Course Assessment: Deep Dive into Amazon Elastic File System
+
 2020: Deep Dive into Amazon Elastic Block Store (EBS)
 =====================================================
 
-`Deep Dive into Amazon Glacier <https://github.com/jacubero/Resume/blob/master/Certificates/AWSEBS.pdf>`_
+`Deep Dive into Amazon Elastic Block Store (EBS) <https://github.com/jacubero/Resume/blob/master/Certificates/AWSEBS.pdf>`_
 
 *Accredited:* January 19, 2020
 
