@@ -1029,8 +1029,8 @@ This course will cover the following concepts:
 
 * Demo session II = Microservices.
 
-LFS252: OpenStack Administration Fundamentals 
-=============================================
+2017: LFS252 - OpenStack Administration Fundamentals 
+====================================================
 
 *Dates:* July 15, 2017 - August 15, 2017
 
@@ -1072,8 +1072,8 @@ OpenStack is growing at an unprecedented rate, and there is high demand for indi
 
 * Course Summary
 
-Cisco ONE Enterprise Cloud Suite Sales Training
-===============================================
+2017: Cisco ONE Enterprise Cloud Suite Sales Training
+=====================================================
 
 *Dates:* May 30, 2017
 
@@ -1081,8 +1081,21 @@ Cisco ONE Enterprise Cloud Suite Sales Training
 
 It is explained the value proposition of Cisco One ECS. What as the key questions you need to ask to different personas, how to pitch real Hybrid IT to your customers and get a clear view on the competition like VMWARE ELA or offset components of other vendors.
 
-LFS152x: Introduction to OpenStack
-==================================
+2017: Cisco CloudCenter (CliQr) Sales/Pre-sales Bootcamp
+========================================================
+
+*Date:* October 17, 2016
+
+**Cisco Systems, Madrid, Spain**
+
+* Module 1 - Cloud Summary and Typical Customer Pain Points
+
+* Cisco CloudCenter
+
+* Sales Plays
+
+2016: LFS152x: Introduction to OpenStack
+========================================
 
 Grade Achieved: 92% Certified: October 20, 2016
 
@@ -1101,19 +1114,6 @@ This introductory course is taught by cloud experts from The Linux Foundation, w
 * Session 5: Managing OpenStack from the Command Line.
 
 * Session 6: Scaling Out Your OpenStack.
-
-2017: Cisco CloudCenter (CliQr) Sales/Pre-sales Bootcamp
-========================================================
-
-*Date:* October 17, 2016
-
-**Cisco Systems, Madrid, Spain**
-
-* Module 1 - Cloud Summary and Typical Customer Pain Points
-
-* Cisco CloudCenter
-
-* Sales Plays
 
 2015: Deploying Red Hat Enterprise Linux OpenStack Platform
 ===========================================================
@@ -1139,6 +1139,23 @@ This introductory course is taught by cloud experts from The Linux Foundation, w
 ***************************
 Software Defined Datacenter
 ***************************
+
+2020: Cisco Live Barcelona
+==========================
+
+*Dates:* January 27, 2020 - January 31, 2020
+
+**Cisco Systems Inc., Barcelona, Spain**
+
+Cisco Live is widely acknowledged as the premier event for education, inspiration, and making connections for technology professionals. Through keynotes from today’s IT visionary thought leaders and Cisco executives, more than 800 educational sessions, Cisco’s top partners, and multiple networking opportunities, Cisco Live presents a unique opportunity to acquire cutting-edge knowledge and skills on the technologies we already use, and those we will rely on in the future to achieve the digital transformation that is changing how business gets done. Some of the other reasons to attend include:
+
+* The ability to evaluate in-person the latest innovations in networking, security, and the cloud.
+
+* The chance to better understand emerging technologies and concepts that are the driving force behind the innovative new world of digital business.
+
+* The chance to meet directly with Cisco experts and pose questions about our unique challenges.
+
+* The opportunity to connect with other attendees and Cisco partners to hear their perspectives and suggestions about best practices, new ideas, and new tools we might consider. 
 
 2020: DevOps Pre-Sales technical Training
 =========================================
@@ -1272,8 +1289,8 @@ It is VMware’s premier digital infrastructure event. VMworld offers incredible
 
 It has been designed to empower Partner Sales Engineers to effectively sell Applications Solutions to key decision makers who are responsible for Application, Data, Infrastructure, and Services budgets. Partner Sales Engineers will form teams and develop customer presentations that address the key challenges of real-world application use cases. These customer use cases include Enterprise Applications (SAP, Oracle, Microsoft SQL), Data Center Modernization and Cloud (Containers/Docker, Microservices..), Desktop Virtualization (Citrix, GPU,..), and Big Data and Data Analytics (Cloudera, Splunk, SAS,…). We will highlight Cisco's Competitive Advantage End-to-End by presenting Customer Storyboards that integrate our broad range of software and hardware solutions such as AppDynamics, Tetration, Workplace Optimization Manager (WOM), CloudCenter, UCS, Hyperflex, ACI, ... needs.
 
-PURE//ACCELERATE 2017
-=====================
+2017: PURE//ACCELERATE
+======================
 
 *Dates:* June 11, 2017 - June 15, 2017
 
@@ -1298,8 +1315,8 @@ PURE//ACCELERATE 2017
 
 * Get hands-on in the DevNet Zone.
 
-Advanced Contrail Bootcamp
-==========================
+2017: Advanced Contrail Bootcamp
+================================
 
 *Dates:* January 24, 2017 - January 25, 2017
 
@@ -1398,8 +1415,8 @@ Lab: Containers
 Lab: Service Orchestration
 
 
-Juniper Networks EMEA Automation 1.0 Workshop
-=============================================
+2016: Juniper Networks EMEA Automation 1.0 Workshop
+===================================================
 
 *Date:* May 31, 2016
 
@@ -1424,8 +1441,8 @@ Juniper Networks EMEA Automation 1.0 Workshop
 * Junos Automation with Ansible
 
 
-Contrail/OpenStack Boot Camp
-============================
+2016: Contrail/OpenStack Boot Camp
+==================================
 
 *Dates:* April 26, 2016 - April 27, 2016
 
@@ -1483,8 +1500,8 @@ Contrail/OpenStack Boot Camp
 
   * Using OpenStack Commands
 
-EMEAR Data Center Partner Connection 2016
-=========================================
+2016: EMEAR Data Center Partner Connection
+==========================================
 
 *Dates:* April 11, 2016 - April 14, 2016
 
@@ -1502,8 +1519,8 @@ During this conference, there are opportunities to:
 
 * Participate in one-on-one meetings with Cisco senior leadership and our eco-system sponsors.
 
-SDN Enablement Bootcamp
-=======================
+2016: SDN Enablement Bootcamp
+=============================
 
 *Dates:* April 5, 2016 - April 6, 2016
 `Certificate <https://raw.githubusercontent.com/jacubero/Resume/master/Certificates/SDNEnablementBootcamp.jpg>`_
@@ -1736,8 +1753,8 @@ February 25, 2019 - February 28, 2019
 
 The Splunk Global Partner Summit provides partners with the information they need to grow their Splunk business and take full advantage of the Splunk Partner+ Program.
 
-Interactive Data Visualization with Bokeh
-=========================================
+2018: Interactive Data Visualization with Bokeh
+===============================================
 
 `Interactive Data Visualization with Bokeh Course Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/Bokeh.pdf>`_
 
@@ -1755,8 +1772,8 @@ Bokeh is an interactive data visualization library for Python (and other languag
 
 * Putting It All Together! A Case Study
 
-Big Data University Workshop
-============================
+2015: Big Data University Workshop
+==================================
 
 *Dates:* May 11, 2015- June 8, 2015
 
