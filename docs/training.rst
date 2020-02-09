@@ -1714,6 +1714,15 @@ December 14, 2009 - December 18, 2009
 Data Science 
 ************
 
+2020: AWS Solutions Training for Partners: Machine Learning (ML) on AWS for ML Practitioners — Technical (Classroom)
+====================================================================================================================
+
+`AWS Solutions Training for Partners: Machine Learning (ML) on AWS for ML Practitioners — Technical (Classroom) <https://github.com/jacubero/Resume/blob/master/Certificates/AWSML.pdf>`_
+
+*Accredited:* February 3, 2020
+
+It is an updated technical course that teaches APN Partners the fundamentals of the ML process. It also covers how to implement ML features using the ML services and tools that are available for use in the AWS Cloud. Partners learn how to engage with customers in discussions, identify key use cases, and explain the end-to-end process of implementing ML features for their business. 
+
 2019: Splunk .conf19
 ====================
 
