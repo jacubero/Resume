@@ -6,6 +6,14 @@ PERSONAL INFORMATION
    :width: 150 px
    :align: left
 
+.. image:: /images/aws-certified-saa.png
+   :width: 150 px
+   :align: left
+
+.. image:: /images/aws-certified-cp.png
+   :width: 150 px
+   :align: left
+
 .. image:: /images/ccna-data-center.png
    :width: 150 px
    :align: left

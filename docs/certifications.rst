@@ -6,6 +6,98 @@ Certifications
 Cloud
 *****
 
+2020: AWS Certified Cloud Practitioner 
+======================================
+
+`AWS Certified Cloud Practitioner Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/AWSCertifiedCloudPractitionerCertificate.pdf>`_
+
+*Certified:* March 5, 2020 *Expires:* March 5, 2023
+
+The AWS Certified Cloud Practitioner (CLF-C01) examination is intended for individuals who have the knowledge and skills necessary to effectively demonstrate an overall understanding of the AWS Cloud, independent of specific technical roles addressed by other AWS certifications (for example, Solutions Architect - Associate, Developer -
+Associate, or SysOps Administrator - Associate). It validates an examinee's ability to:
+
+* Define what the AWS Cloud is and the basic global infrastructure
+
+* Describe basic AWS Cloud architectural principles
+
+* Describe the AWS Cloud value proposition
+
+* Describe key services on the AWS platform and their common use cases (for example, compute and analytics)
+
+* Describe basic security and compliance aspects of the AWS platform and the shared security model
+
+* Define the billing, account management, and pricing models
+
+* Identify sources of documentation or technical assistance (for example, whitepapers or support tickets)
+
+* Describe basic/core characteristics of deploying and operating in the AWS Cloud.
+
+The table below lists the main content domains and their weightings:
+
+.. list-table:: 
+    :widths: 50 50
+    :header-rows: 1
+
+    * - Domain
+
+      - % of Examination
+
+    * - Domain 1: Cloud Concepts
+
+      - 28%
+
+    * - Domain 2: Security
+
+      - 24%
+
+    * - Domain 3: Technology
+
+      - 36%
+
+    * - Domain 4: Billing and Pricing
+
+      - 12%
+
+    * - TOTAL
+
+      - 100%
+
+**Domain 1: Cloud Concepts**
+
+	1.1 Define the AWS Cloud and its value proposition
+
+	1.2 Identify aspects of AWS Cloud economics
+
+	1.3 List the different cloud architecture design principles
+
+**Domain 2: Security**
+
+	2.1  Define the AWS Shared Responsibility model
+
+	2.2 Define AWS Cloud security and compliance concepts
+
+	2.3 Identify AWS access management capabilities
+
+	2.4 Identify resources for security support
+
+**Domain 3: Technology**
+
+	3.1 Define methods of deploying and operating in the AWS Cloud
+
+	3.2 Define the AWS global infrastructure
+
+	3.3 Identify the core AWS services
+
+	3.4 Identify resources for technology support
+
+**Domain 4: Billing and Pricing**
+
+	4.1 Compare and contrast the various pricing models for AWS
+
+	4.2 Recognize the various account structures in relation to AWS billing and pricing
+
+	4.3 Identify resources available for billing support
+
 2020: AWS Certified Solutions Architect 
 =======================================
 
