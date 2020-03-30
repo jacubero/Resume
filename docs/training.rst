@@ -254,6 +254,25 @@ Cloud
 2020: Deep Dive into Amazon Elastic File System (EFS)
 =====================================================
 
+`AWS Solutions Training for Partners: Containers on AWS - Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSContainers.pdf>`_
+
+*Accredited:* January 20, 2020
+
+This course covers the following concepts:
+
+* Microservices and application modernization
+
+* Container concepts and constructs
+
+* Container benefits and use cases
+
+* Container services on AWS
+
+* End-to-end container workloads on AWS
+
+2020: Deep Dive into Amazon Elastic File System (EFS)
+=====================================================
+
 `Deep Dive into Amazon Elastic File System (EFS) <https://github.com/jacubero/Resume/blob/master/Certificates/AWSEFS.pdf>`_
 
 *Accredited:* January 20, 2020
