@@ -251,12 +251,12 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
-2020: Deep Dive into Amazon Elastic File System (EFS)
-=====================================================
+2020: AWS Solutions Training for Partners: Containers on AWS - Technical
+========================================================================
 
 `AWS Solutions Training for Partners: Containers on AWS - Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSContainers.pdf>`_
 
-*Accredited:* January 20, 2020
+*Accredited:* March 27, 2020
 
 This course covers the following concepts:
 
