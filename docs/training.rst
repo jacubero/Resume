@@ -251,6 +251,23 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2020: AWS Solutions Training for Partners: VMware Cloud on AWS - Technical
+==========================================================================
+
+`AWS Solutions Training for Partners: VMware Cloud on AWS - Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSVMWare.pdf>`_
+
+*Accredited:* May 4, 2020
+
+This course covers the following concepts:
+
+* Use cases and common challenges with cloud migrations and hybrid cloud
+
+* A high-level examination of the VMware Cloud on AWS solution
+
+* A discussion of the benefits of VMware Cloud on AWS
+
+* A look at the how to get started with VMware Cloud on AWS
+
 2020: AWS Solutions Training for Partners: Containers on AWS - Technical
 ========================================================================
 
