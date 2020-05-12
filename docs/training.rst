@@ -251,6 +251,43 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2020: AWS Solutions Training for Partners: Migrating to AWS - Technical
+=======================================================================
+
+`AWS Solutions Training for Partners: Migrating to AWS - Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSMigration.pdf>`_
+
+*Accredited:* May 11, 2020
+
+This course covers the following concepts:
+
+* Lesson 1: Well Architected Framework for Migration
+
+	*How to migrate using the principles of the AWS Well Architected Framework
+
+* Lesson 2: AWS Landing Zone
+
+	* AWS Landing Zone best practices
+
+	* AWS Landing Zone solution demo/lab
+
+* Lesson 3: Migration Hub
+
+	* Understand how to use AWS tools for discovery and migration tracking
+
+	* Using the Migration Hub for Migration Tracking lab
+
+* Lesson 4: Migration Portfolio Assessment Overview
+
+	* Understand how to use the MPA tool to calculate TCO and build a business case
+
+* Lesson 5: Migration Services
+
+	* AWS SMS deep dive
+
+	* AWS DMS deep dive
+
+	* AWS SMS demo
+
 2020: AWS Solutions Training for Partners: VMware Cloud on AWS - Technical
 ==========================================================================
 
