@@ -22,7 +22,7 @@ Contents:
    Training <training>
    Certifications <certifications>
    Personal skills <skills>
-   Additional information <additional>
+   Publications and awards <additional>
 ..   BLOG <blog>
 
    *
