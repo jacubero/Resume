@@ -251,6 +251,29 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2020: AWS Professional Services: Security Best Practices
+========================================================
+
+`AWS Professional Services: Security Best Practices <https://github.com/jacubero/Resume/blob/master/Certificates/AWSSecurityBestPractices.pdf>`_
+
+*Accredited:* October 22, 2020
+
+This course covers the following concepts:
+
+* Lesson 1: AWS Security Overview
+
+* Lesson 2: VPC Overview
+
+* Lesson 3: Network Security Design
+
+* Lesson 4: Identity and Access Management
+
+* Lesson 5: Logging and Alerting
+
+* Lesson 6: Encryption and Data Protection
+
+* Lesson 7: Incident Response
+
 2020: AWS Solutions Training for Partners: Migrating to AWS - Technical
 =======================================================================
 
@@ -262,7 +285,7 @@ This course covers the following concepts:
 
 * Lesson 1: Well Architected Framework for Migration
 
-	*How to migrate using the principles of the AWS Well Architected Framework
+	* How to migrate using the principles of the AWS Well Architected Framework
 
 * Lesson 2: AWS Landing Zone
 
