@@ -251,132 +251,6 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
-2020: AWS Solutions Training for Partners: Security Governance at Scale – Technical
-===================================================================================
-
-`AWS Solutions Training for Partners: Security Governance at Scale – Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSSecurityGovernanceScale.pdf>`_
-
-*Accredited:* October 27, 2020
-
-This course covers the following concepts:
-
-* Module 1: Governance at Scale
-
-	* Challenges that customers face as they move through their cloud journeys
-
-	* Governance at scale focal points
-
-	* AWS Partner Network (APN) Partner challenges in the security governance area
-
-	* Win-win opportunity for Partners and customers
-
-* Module 2: Governance Automation
-
-	* Multi-account strategies, guidance, and architecture
-
-	* Environments for agility and governance at scale
-
-	* Governance with AWS Control Tower
-
-	* Use cases for new and existing customers
-
-	* Lab 1: AWS Control Tower Basic Tasks
-
-	* Create an organizational unit (OU) and enable a guardrail
-
-	* Enroll a new AWS account using Account Factory
-
-	* Enroll an existing account
-
-* Module 3: Preventive Controls
-
-	* Enterprise environment challenges for developers
-
-	* AWS Service Catalog
-
-	* Resource creation
-
-	* Workflows for provisioning accounts
-
-	* Preventive cost and security governance
-
-	* Self-service with existing IT service management (ITSM) tools
-
-	* Lab 2: AWS Service Catalog Portfolios
-
-	* Share an administrator portfolio across all accounts in the organization
-
-	* Share an AWS Service Catalog portfolio from the management account
-
-	* Grant catalog access permissions to an AWS Single Sign-On user
-
-* Module 4: Detective Controls
-
-	* Operations aspect of governance at scale
-
-	* Resource monitoring
-
-	* Configuration rules for auditing
-
-	* Operational insights
-
-	* Remediation
-
-	* Lab 3: AWS Control Tower Customizations
-
-	* Set up the Customizations for Control Tower (CfCT) Solution
-
-	* Deploy the customizations for guardrails and roles
-
-	* Lab 4: AWS Control Tower Labs and Decommission Instructions
-
-	* Decommission resources
-
-	* Clean up accounts
-
-* Module 5: Bring It Together
-
-	* Partner role in governance at scale
-
-    * Engagement frameworks
-
-    * Requirements evaluation
-
-    * Case study for governance at scale
-
-* Module 6: Resources and Next Steps
-     
-     * Module resources
-     
-     * AWS Control Services Activation Days
-     
-     * Blog articles and videos
-     
-     * APN Partner programs
-
-2020: AWS Professional Services: Security Best Practices
-========================================================
-
-`AWS Professional Services: Security Best Practices <https://github.com/jacubero/Resume/blob/master/Certificates/AWSSecurityBestPractices.pdf>`_
-
-*Accredited:* October 22, 2020
-
-This course covers the following concepts:
-
-* Lesson 1: AWS Security Overview
-
-* Lesson 2: VPC Overview
-
-* Lesson 3: Network Security Design
-
-* Lesson 4: Identity and Access Management
-
-* Lesson 5: Logging and Alerting
-
-* Lesson 6: Encryption and Data Protection
-
-* Lesson 7: Incident Response
-
 2020: AWS Solutions Training for Partners: Migrating to AWS - Technical
 =======================================================================
 
@@ -1913,6 +1787,71 @@ December 14, 2009 - December 18, 2009
 Data Science 
 ************
 
+2020: AWS Solutions Training for Partners Data Analytics on AWS - Technical (Classroom)
+=======================================================================================
+
+`AWS Solutions Training for Partners Data Analytics on AWS - Technical (Classroom) <https://github.com/jacubero/Resume/blob/master/Certificates/AWSDataAnalitics.pdf>`_
+
+*Accredited:* October 30, 2020
+
+This course will cover the following concepts:
+
+* Module 1: Course Introduction
+
+	* Course learning objectives
+
+	* Target roles for this course
+
+* Module 2: AWS Data Analytics Portfolio
+
+	* Customer challenges and APN Partner opportunities
+
+    * AWS data analytics value proposition
+
+    * Overview of the AWS data analytics portfolio
+
+    * Data analytics pipeline with AWS
+
+    * Customer success using the Data Flywheel
+
+* Module 3: AWS Data Analytics Solutions – Part I
+
+	* Data migration options in AWS Cloud
+
+	* Solution 1: Modernizing a data warehouse with Amazon Redshift
+
+	* Solution 2: Data lakes
+
+* Activity 1: Lab Demonstration – Build a Serverless Data Lake Architecture with AWS Glue, Amazon Athena, and Amazon QuickSight
+
+* Module 4: AWS Data Analytics Solutions – Part II
+
+	* Solution 3: Streaming and real-time analytics with Amazon Kinesis
+
+    * Solution 4: Data governance
+
+	* Solution 5: Extended solution: Insights and monetization with machine learning
+
+* Module 5: AWS Technical Conversations and Engagement
+
+	* Technical engagement conversation with the Data Flywheel and AWS data analytics solutions
+
+	* AWS six-phase strategy from proof of concept to production – implementing data analytics solutions
+
+	* AWS well-architected review
+
+	* Proof of concept best practices
+
+* Activity 2: Instructor-Led Virtual Whiteboarding for Game Analytics Pipeline Architecture
+
+* Module 6: APN Partner Opportunities and Resources
+
+	* APN Partner training and resources
+
+	* Call to action
+
+* End-of-Course Assessment
+
 2020: AWS Solutions Training for Partners: Machine Learning (ML) on AWS for ML Practitioners — Technical (Classroom)
 ====================================================================================================================
 
@@ -2180,6 +2119,132 @@ March 31, 2008 - April 2, 2008
 ********
 Security
 ********
+
+2020: AWS Solutions Training for Partners: Security Governance at Scale – Technical
+===================================================================================
+
+`AWS Solutions Training for Partners: Security Governance at Scale – Technical <https://github.com/jacubero/Resume/blob/master/Certificates/AWSSecurityGovernanceScale.pdf>`_
+
+*Accredited:* October 27, 2020
+
+This course covers the following concepts:
+
+* Module 1: Governance at Scale
+
+	* Challenges that customers face as they move through their cloud journeys
+
+	* Governance at scale focal points
+
+	* AWS Partner Network (APN) Partner challenges in the security governance area
+
+	* Win-win opportunity for Partners and customers
+
+* Module 2: Governance Automation
+
+	* Multi-account strategies, guidance, and architecture
+
+	* Environments for agility and governance at scale
+
+	* Governance with AWS Control Tower
+
+	* Use cases for new and existing customers
+
+	* Lab 1: AWS Control Tower Basic Tasks
+
+	* Create an organizational unit (OU) and enable a guardrail
+
+	* Enroll a new AWS account using Account Factory
+
+	* Enroll an existing account
+
+* Module 3: Preventive Controls
+
+	* Enterprise environment challenges for developers
+
+	* AWS Service Catalog
+
+	* Resource creation
+
+	* Workflows for provisioning accounts
+
+	* Preventive cost and security governance
+
+	* Self-service with existing IT service management (ITSM) tools
+
+	* Lab 2: AWS Service Catalog Portfolios
+
+	* Share an administrator portfolio across all accounts in the organization
+
+	* Share an AWS Service Catalog portfolio from the management account
+
+	* Grant catalog access permissions to an AWS Single Sign-On user
+
+* Module 4: Detective Controls
+
+	* Operations aspect of governance at scale
+
+	* Resource monitoring
+
+	* Configuration rules for auditing
+
+	* Operational insights
+
+	* Remediation
+
+	* Lab 3: AWS Control Tower Customizations
+
+	* Set up the Customizations for Control Tower (CfCT) Solution
+
+	* Deploy the customizations for guardrails and roles
+
+	* Lab 4: AWS Control Tower Labs and Decommission Instructions
+
+	* Decommission resources
+
+	* Clean up accounts
+
+* Module 5: Bring It Together
+
+	* Partner role in governance at scale
+
+    * Engagement frameworks
+
+    * Requirements evaluation
+
+    * Case study for governance at scale
+
+* Module 6: Resources and Next Steps
+     
+     * Module resources
+     
+     * AWS Control Services Activation Days
+     
+     * Blog articles and videos
+     
+     * APN Partner programs
+
+2020: AWS Professional Services: Security Best Practices
+========================================================
+
+`AWS Professional Services: Security Best Practices <https://github.com/jacubero/Resume/blob/master/Certificates/AWSSecurityBestPractices.pdf>`_
+
+*Accredited:* October 22, 2020
+
+This course covers the following concepts:
+
+* Lesson 1: AWS Security Overview
+
+* Lesson 2: VPC Overview
+
+* Lesson 3: Network Security Design
+
+* Lesson 4: Identity and Access Management
+
+* Lesson 5: Logging and Alerting
+
+* Lesson 6: Encryption and Data Protection
+
+* Lesson 7: Incident Response
 
 2017: Business continuity management system - ISO 22301
 =======================================================
