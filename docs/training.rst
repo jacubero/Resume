@@ -1213,6 +1213,70 @@ This introductory course is taught by cloud experts from The Linux Foundation, w
 Software Defined Datacenter
 ***************************
 
+2020: Driving NetApp Sales: DevOps Presales Technical Training
+==============================================================
+
+`Driving NetApp Sales: DevOps Presales Technical Training <https://github.com/jacubero/Resume/blob/master/Certificates/NetAppDevOps.pdf>`_
+
+*Dates:* June 9-11, 2020
+
+**NetApp Inc., Madrid, Spain**
+
+This course introduces you to the application development process and the interaction with supporting operations. It also explains where NetApp technology helps with product integration. This course enables you to demonstrate DevOps to a customer. You learn how continuous integration and continuous deployment (CI/CD) are replacing and speeding up the DevOps process and how automation and APIs are drastically reducing time to market.
+
+This course also presents the technical details of NetApp's integrations with development tools (Jenkins), code repositories (GitHub), configuration management (Ansible), and all the different integrations across the NetApp portfolio. Further, when differentiating and elevating the product above the competition, you discover how the technology fits into the customer's data fabric. In hands-on activity sessions, you are introduced to different DevOps tools and how they integrate with NetApp storage, enabling you to experience a real-world scenario that includes RESTful API integrations for the customer data fabric.
+
+This course focuses on enabling you to do the following:
+
+* Describe DevOps and the types of customer problems that it addresses
+
+* Describe the requirements for cloud-native applications, automation, and orchestration
+
+* Identify DevOps business challenges, qualify DevOps business opportunities, and describe differentiation and positioning
+
+* Sell the value and technical advantages of NetApp integrations
+
+* Identify GitHub, Jenkins, Ansible, and RESTful APIs
+
+* Learn about NetApp portfolio integration with CI/CD, code repositories, and configuration management
+
+* Demonstrate real-world DevOps scenarios to your customers
+
+* Identify tools and resources
+
+2020: Driving NetApp Sales: Artificial Intelligence Presales Technical Training
+===============================================================================
+
+`Driving NetApp Sales: Artificial Intelligence Presales Technical Training <https://github.com/jacubero/Resume/blob/master/Certificates/NetAppAI.pdf>`_
+
+*Dates:* June 3-4, 2020
+
+**NetApp Inc., Madrid, Spain**
+
+This course introduces you to artificial intelligence (AI) and NetApp ONTAP AI product features. It enables you to demonstrate ONTAP AI to a customer. You learn how AI is disrupting the market by reducing customer processes from days to minutes and improving efficiency at least tenfold.
+
+This course also presents the technical details of ONTAP AI and all the different integrations across the NetApp portfolio. Further, when differentiating and elevating the product above the competition, you discover how the technology fits into the customer's data fabric. In handson activity sessions, you manage ONTAP AI to experience a real-world scenario that includes examples of prediction, classification, and recognition.
+
+This course focuses on enabling you to do the following:
+
+* Describe AI and the customer problems that it addresses
+
+* Identify AI business challenges, qualify AI business opportunities, and describe differentiation and positioning
+
+* Conduct an AI project example
+
+* Sell the value and technical advantages of ONTAP AI
+
+* Describe ONTAP AI technical features and the design and architecture benefits
+
+* Identify algorithms and the problems that they solve
+
+* Learn about NetApp portfolio integration with AI, from edge to core to cloud
+
+* Demonstrate real-world AI scenarios to your customers (and optionally show ONTAP AI)
+
+* Identify tools and resources
+
 2020: Cisco Live Barcelona
 ==========================
 
@@ -1251,7 +1315,7 @@ This course introduces you to the key aspects of the six core capabilities IT ne
 
 * Analytics
 
-2020: Stratetic Selling: DevOps
+2020: Strategic Selling: DevOps
 ===============================
 
 *Dates:* January 15, 2020
