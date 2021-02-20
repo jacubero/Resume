@@ -12,6 +12,7 @@ Publications
    :width: 200px
    :align: left
 
+
 .. [AlvarezCubero:2019] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2019: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08DD4CJ8W>`_. Independently published. ISBN-13=979-8663900645.
 
 |
@@ -80,15 +81,6 @@ Publications
 
 .. [AlvarezCubero:2015] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2015: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08W362RFD>`_. Independently published. ISBN-13=979-8705485437.
 
-|
-|
-|
-|
-|
-|
-|
-|
-|
 
 .. [AlvarezCubero:2018] Alvarez Cubero, Jose Antonio. 2018. `Certified OpenStack Administrator (COA) Certification Guide: Newton Release <https://www.amazon.com/Certified-OpenStack-Administrator-Certification-Guide/dp/1980391289?SubscriptionId=0JYN1NVW651KCA56C102&tag=techkie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1980391289>`_. Independently published. ISBN=1980391289.
 
