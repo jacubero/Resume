@@ -251,6 +251,25 @@ April 27, 2009 - April 28, 2009
 Cloud
 *****
 
+2021: AWS Professional Services: Cloud Advisory
+===============================================
+
+`AWS Professional Services: Cloud Advisory <https://github.com/jacubero/Resume/blob/master/Certificates/AWSAdvisory.pdf>`_
+
+*Accredited:* March 30, 2021
+
+This course covers the following concepts:
+
+* Overview of the Business Case approach 
+
+* Understanding Cloud Economics 
+
+* Deep Dive on Business Case Types 
+
+* Cost Estimators and Cost Calculators 
+
+* Building the Business Case 
+
 2020: AWS Solutions Training for Partners: Migrating to AWS - Technical
 =======================================================================
 
