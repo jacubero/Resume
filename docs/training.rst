@@ -254,6 +254,29 @@ Cloud
 2021: AWS Professional Services: Cloud Advisory
 ===============================================
 
+`AWS Professional Services: Big Data and Analytics <https://github.com/jacubero/Resume/blob/master/Certificates/AWSBigData.pdf>`_
+
+*Accredited:* April 9, 2021
+
+This course covers the following concepts:
+
+* Overview of data lakes
+
+* Building data lakes on AWS
+
+* Querying data lake with Amazon Athena
+
+* Transforming data with AWS Glue
+
+* Creating data warehouse with Amazon Redshift
+
+* Migrating data warehouse
+
+* Creating dashboards and analytics with Amazon QuickSight 
+
+2021: AWS Professional Services: Cloud Advisory
+===============================================
+
 `AWS Professional Services: Cloud Advisory <https://github.com/jacubero/Resume/blob/master/Certificates/AWSAdvisory.pdf>`_
 
 *Accredited:* March 30, 2021
