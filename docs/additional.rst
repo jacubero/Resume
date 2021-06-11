@@ -209,7 +209,7 @@ December, 2008
 Web Sites
 *********
 
-`VBF library <http://vbflibrary.tk>`_
+`VBF library <vbf.rtfd.io>`_
 
 ************
 Competitions
