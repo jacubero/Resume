@@ -209,7 +209,7 @@ December, 2008
 Web Sites
 *********
 
-`VBF library <vbf.rtfd.io>`_
+`VBF library <https://vbf.readthedocs.io/en/latest/>`_
 
 ************
 Competitions
