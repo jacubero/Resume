@@ -6,6 +6,23 @@ TRAINING
 Business
 ********
 
+2021: Sales as advisory and influence
+=====================================
+
+*Dates:* June 20,23 2021
+
+**Empathic Warriors, Spain**
+
+* Inteligencia emocional
+
+* Sistema 1 - Sistema 2
+
+* Modelo del Iceberg
+
+* Los principios de Cialdini
+
+* Mi mapa de clientes
+
 2015: Sales Expert
 ==================
 

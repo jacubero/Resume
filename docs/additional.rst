@@ -8,6 +8,23 @@ ADDITIONAL INFORMATION
 Publications
 ************
 
+.. image:: /images/opo21v1.jpg
+   :width: 200px
+   :align: left
+
+
+.. [AlvarezCubero:2021] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matem谩ticas a帽o 2021. Volumen 1: Cuerpo de Profesores de Ense帽anza Secundaria <https://www.amazon.es/dp/B09JMWNK42>`_. Independently published. ISBN-13=979-8498430928.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 .. image:: /images/opo19.jpg
    :width: 200px
    :align: left
@@ -42,7 +59,7 @@ Publications
 |
 |
 
-.. image:: /images/opo17.png
+.. image:: /images/opo17.jpg
    :width: 200px
    :align: left
 
@@ -259,7 +276,7 @@ Puzzles
 Training provided
 *****************
 
-2008: Escuela de Administraci贸n p煤blica de Extremadura
+2008: Escuela de Administraci髇 p鷅lica de Extremadura
 ======================================================
 
 .. image:: /images/extremadura.jpg
@@ -267,7 +284,7 @@ Training provided
    :align: left
 
 December, 2008
-*Course Title:* Jornada Divulgativa sobre la red cient铆fico-tecnol贸gica de Extremadura
+*Course Title:* Jornada Divulgativa sobre la red cient憝fico-tecnol骻ica de Extremadura
 
 |
 |
@@ -285,7 +302,7 @@ December, 2008
    :align: left
 
 3-4 November, 2005
-*Course Title:* Configuraci贸n e implantaci贸n de arquitecturas de red seguras
+*Course Title:* Configuraci髇 e implantaci髇 de arquitecturas de red seguras
 
 |
 |
@@ -294,6 +311,16 @@ December, 2008
 |
 |
 |
+
+***************
+Public speaches
+***************
+
+`Algunas claves de la transformaci髇 digital <https://aslan.es/algunas-claves-de-la-transformacion-digital/>`_
+
+`Simplifica tu data center: agilidad y eficiencia en el nuevo entorno de mercado en IDG <https://www.idgtv.es/webinars/simplifica-tu-data-center-agilidad-y-eficiencia-en-el-nuevo-entorno-de-mercado>`_
+
+`Axians, soluciones convergentes de OT e IT con solvencia <https://directortic.es/sin-categoria/axians-soluciones-convergentes-de-ot-e-it-con-solvencia-2020102429830.htm>`_
 
 *********
 Web Sites
