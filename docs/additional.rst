@@ -190,6 +190,22 @@ Publications
 |
 |
 
+.. image:: /images/opo69.jpg
+   :width: 200px
+   :align: left
+
+.. [AlvarezCubero:1969] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas años 1969,1971 y 1973: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0BHL87KSR>`_. Independently published ISBN-13=979-8356661297.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 .. [AlvarezCubero:2018] Alvarez Cubero, Jose Antonio. 2018. `Certified OpenStack Administrator (COA) Certification Guide: Newton Release <https://www.amazon.com/Certified-OpenStack-Administrator-Certification-Guide/dp/1980391289?SubscriptionId=0JYN1NVW651KCA56C102&tag=techkie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1980391289>`_. Independently published. ISBN=1980391289.
 
 .. [AlvarezCubero:2017] Pedro J. Zufiria and ALVAREZ-CUBERO, J. A. 2017. `Generalized Lexicographic MultiObjective Combinatorial Optimization. Application to Cryptography <https://doi.org/10.1137/16M1107826>`_. SIAM Journal on Optimization, Volume 27 Number 4, October 2017, Pages 2182-2201
