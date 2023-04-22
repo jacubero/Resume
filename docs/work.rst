@@ -2,6 +2,53 @@
 WORK EXPERIENCE
 ###############
 
+*******************************************************************************
+January 2022 - Present: International Business Development and Presales Manager
+*******************************************************************************
+
+.. image:: /images/Axians_logo.png
+   :width: 150 px
+   :align: left
+
+**Vinci Energies Management - Axians**:  Axians supports its customers in their digital transformation journey. We offer ICT solutions and services in:
+
+* Cybersecurity
+
+* Telecommunication Infrastructures
+
+* Datacenters and Cloud Service
+
+* Business Applications and Data Analytics
+
+* Enterprise Networks
+
+* Digital Workspaces
+
+Axians's teams, specialized in consulting, design, integration and service, develop tailor-made solutions that transform technology into added value for diverse markets.
+
+Axians is the ICT brand of VINCI Energies.
+
+Tonga building - 2169 Boulevard de la Défense
+CS 90274 - 92741 Nanterre Cedex - France 
+
+|
+| 
+
+*********************************************************************************************************************
+January 2017 - 2022: Data Center and Digital Transformation Business Development and Presales Manager. Data Scientist
+*********************************************************************************************************************
+
+.. image:: /images/Axians_logo.png
+   :width: 150 px
+   :align: left
+
+**Axians (Vinci Energies ICT brand)**:  One of the largest system integrators in Spain, producing a portfolio of solutions in the following areas: Data Center and Digital Transformation, Network Architecture, Video and Collaboration, Security and Mobility, and Innovation Strategy
+
+C/ Valle de la Fuenfría 3, 28034 Madrid (Spain)
+
+|
+| 
+
 ************************************************************************************************************************
 January 2017 - Present: Data Center and Digital Transformation Business Development and Presales Manager. Data Scientist
 ************************************************************************************************************************
