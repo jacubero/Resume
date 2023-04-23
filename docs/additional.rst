@@ -8,6 +8,23 @@ ADDITIONAL INFORMATION
 Publications
 ************
 
+.. image:: /images/opoi22.jpg
+   :width: 200px
+   :align: left
+
+
+.. [AlvarezCubero:2022] Alvarez Cubero, Jose Antonio. `Oposiciones de Inglés año 2022: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0C211W8Y8>`_. Publicado en Amazon. ISBN-13=979-8389705326.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 .. image:: /images/opo22.jpg
    :width: 200px
    :align: left
