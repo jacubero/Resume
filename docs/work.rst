@@ -3,7 +3,7 @@ WORK EXPERIENCE
 ###############
 
 *******************************************************************************
-January 2022 - Present: International Business Development and Presales Manager
+January 2023 - Present: International Business Development and Presales Manager
 *******************************************************************************
 
 .. image:: /images/Axians_logo.png
