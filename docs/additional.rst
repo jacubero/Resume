@@ -8,12 +8,46 @@ ADDITIONAL INFORMATION
 Publications
 ************
 
+.. image:: /images/maths_m23.jpg
+   :width: 200px
+   :align: left
+
+
+.. [AlvarezCubero:2023] Alvarez Cubero, Jose Antonio. `Solved Papers for March 2023 Cambridge IGCSE Mathematics (0580) <https://www.amazon.co.uk/dp/B0CHN59CQB>`_. Published by Amazon. ISBN-13=979-8860240810.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/science_m23.jpg
+   :width: 200px
+   :align: left
+
+
+.. [AlvarezCubero:2023] Alvarez Cubero, Jose Antonio. `Solved Papers for March 2023 Cambridge IGCSE Co-ordinated Sciences (0654) <https://www.amazon.co.uk/dp/B0CFV3L195>`_. Published by Amazon. ISBN-13=979-8857693162.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 .. image:: /images/eoi22.jpg
    :width: 200px
    :align: left
 
 
-.. [AlvarezCubero:2022] Alvarez Cubero, Jose Antonio. `Oposiciones de Ingl�s a�o 2022: Cuerpo de Profesores de Escuelas Oficiales de Idiomas <https://www.amazon.es/dp/B0C5P9TWCL>`_. Publicado en Amazon. ISBN-13=979-8395437990.
+.. [AlvarezCubero:2022] Alvarez Cubero, Jose Antonio. `Oposiciones de Inglés año 2022: Cuerpo de Profesores de Escuelas Oficiales de Idiomas <https://www.amazon.es/dp/B0C5P9TWCL>`_. Publicado en Amazon. ISBN-13=979-8395437990.
 
 |
 |
@@ -30,7 +64,7 @@ Publications
    :align: left
 
 
-.. [AlvarezCubero:2022] Alvarez Cubero, Jose Antonio. `Oposiciones de Ingl�s a�o 2022: Cuerpo de Profesores de Ense�anza Secundaria <https://www.amazon.es/dp/B0C211W8Y8>`_. Publicado en Amazon. ISBN-13=979-8389705326.
+.. [AlvarezCubero:2022] Alvarez Cubero, Jose Antonio. `Oposiciones de Inglés año 2022: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0C211W8Y8>`_. Publicado en Amazon. ISBN-13=979-8389705326.
 
 |
 |
@@ -47,7 +81,7 @@ Publications
    :align: left
 
 
-.. [AlvarezCubero:2022] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matem�ticas a�o 2022: Cuerpo de Profesores de Ense�anza Secundaria <https://www.amazon.es/dp/B0B8NF8FGD>`_. Independently published. ISBN-13=979-8843969554.
+.. [AlvarezCubero:2022] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2022: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0B8NF8FGD>`_. Independently published. ISBN-13=979-8843969554.
 
 |
 |
@@ -64,7 +98,7 @@ Publications
    :align: left
 
 
-.. [AlvarezCubero:2021v2] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matem�ticas a�o 2021. Volumen 2: Cuerpo de Profesores de Ense�anza Secundaria <https://www.amazon.es/dp/B0B2S5J7ZZ>`_. Independently published. ISBN-13=979-8833038062.
+.. [AlvarezCubero:2021v2] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2021. Volumen 2: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0B2S5J7ZZ>`_. Independently published. ISBN-13=979-8833038062.
 
 |
 |
@@ -81,7 +115,7 @@ Publications
    :align: left
 
 
-.. [AlvarezCubero:2021v1] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matem�ticas a�o 2021. Volumen 1: Cuerpo de Profesores de Ense�anza Secundaria <https://www.amazon.es/dp/B09JMWNK42>`_. Independently published. ISBN-13=979-8498430928.
+.. [AlvarezCubero:2021v1] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2021. Volumen 1: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B09JMWNK42>`_. Independently published. ISBN-13=979-8498430928.
 
 |
 |
@@ -98,7 +132,7 @@ Publications
    :align: left
 
 
-.. [Oposiciones:2019] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2019: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08DD4CJ8W>`_. Independently published. ISBN-13=979-8663900645.
+.. [Oposiciones:2019] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2019: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B08DD4CJ8W>`_. Independently published. ISBN-13=979-8663900645.
 
 |
 |
@@ -115,7 +149,7 @@ Publications
    :align: left
 
 
-.. [Oposiciones:2018] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2018: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089G7M7S4>`_. Independently published. ISBN-13=979-8649749961.
+.. [Oposiciones:2018] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2018: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B089G7M7S4>`_. Independently published. ISBN-13=979-8649749961.
 
 |
 |
@@ -132,7 +166,7 @@ Publications
    :align: left
 
 
-.. [Oposiciones:2017] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2017: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089XCTVRF>`_. Independently published. ISBN-13=979-8652005498.
+.. [Oposiciones:2017] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2017: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B089XCTVRF>`_. Independently published. ISBN-13=979-8652005498.
 
 |
 |
@@ -148,7 +182,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [AlvarezCubero:2016] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2016: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08T8L51JV>`_. Independently published. ISBN-13=979-8596312386.
+.. [AlvarezCubero:2016] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2016: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B08T8L51JV>`_. Independently published. ISBN-13=979-8596312386.
 
 |
 |
@@ -164,7 +198,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [Oposiciones:2015] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2015: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08W362RFD>`_. Independently published. ISBN-13=979-8705485437.
+.. [Oposiciones:2015] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2015: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B08W362RFD>`_. Independently published. ISBN-13=979-8705485437.
 
 |
 |
@@ -180,7 +214,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [Oposiciones:2014] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2014: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B093FNWQPC>`_. Independently published. ISBN-13=979-8732020540.
+.. [Oposiciones:2014] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2014: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B093FNWQPC>`_. Independently published. ISBN-13=979-8732020540.
 
 |
 |
@@ -196,7 +230,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [Oposiciones:2012] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2012: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B093MG2HC3>`_. Independently published. ISBN-13=979-8745227769.
+.. [Oposiciones:2012] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2012: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B093MG2HC3>`_. Independently published. ISBN-13=979-8745227769.
 
 |
 |
@@ -212,7 +246,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [Oposiciones:2010] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2010: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0971VLZ29>`_. Independently published. ISBN-13=979-8518534742.
+.. [Oposiciones:2010] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2010: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B0971VLZ29>`_. Independently published. ISBN-13=979-8518534742.
 
 |
 |
@@ -228,7 +262,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [AlvarezCubero:1969] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matem�ticas a�os 1969,1971 y 1973: Cuerpo de Profesores de Ense�anza Secundaria <https://www.amazon.es/dp/B0BHL87KSR>`_. Independently published ISBN-13=979-8356661297.
+.. [AlvarezCubero:1969] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas años 1969,1971 y 1973: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0BHL87KSR>`_. Independently published ISBN-13=979-8356661297.
 
 |
 |
@@ -246,19 +280,19 @@ Publications
 
 .. [AlvarezCubero:2016] ALVAREZ-CUBERO, J. A. and Zufiria, P. J. 2016. `Algorithm 959: VBF: A Library of C++ Classes for Vector Boolean Functions in Cryptography <http://dl.acm.org/citation.cfm?id=2794077>`_. ACM Transactions on Mathematical Software (TOMS), Volume 42 Issue 2, May 2016, Article No. 16. 
 
-.. [AlvarezZ:12] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2012. `Cryptographic Criteria on Vector Boolean Functions <http://www.intechopen.com/books/cryptography-and-security-in-computing/cryptographic-criteria-on-vector-boolean-functions>`_. Cryptography and Security in Computing, Jaydip Sen (Ed.), Chapter 3, 51–70.
+.. [AlvarezZ:12] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2012. `Cryptographic Criteria on Vector Boolean Functions <http://www.intechopen.com/books/cryptography-and-security-in-computing/cryptographic-criteria-on-vector-boolean-functions>`_. Cryptography and Security in Computing, Jaydip Sen (Ed.), Chapter 3, 51â€“70.
 
-.. [Alvarez-CuberoZ10] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2010. `A C++ class for analysing vector boolean functions from a cryptographic perspective <https://ieeexplore.ieee.org/document/5741669/>`_. In SECRYPT 2010 - Proceedings of the International Conference on Security and Cryptography, Athens, Greece, July 26-28, 2010, SECRYPT is part of ICETE - The International Joint Conference on e-Business and Telecommunications, S. K. Katsikas and P. Samarati, Eds. SciTePress, 512–520.
+.. [Alvarez-CuberoZ10] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2010. `A C++ class for analysing vector boolean functions from a cryptographic perspective <https://ieeexplore.ieee.org/document/5741669/>`_. In SECRYPT 2010 - Proceedings of the International Conference on Security and Cryptography, Athens, Greece, July 26-28, 2010, SECRYPT is part of ICETE - The International Joint Conference on e-Business and Telecommunications, S. K. Katsikas and P. Samarati, Eds. SciTePress, 512â€“520.
 
-.. [Alvarez-CuberoZ05] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2005. `Aplicaciones de la transformada de walsh al criptoanalisis lineal y diferencial <http://cedi2005.ugr.es/2005/programa_s19_si.shtml>`_. In Alberto Peinado Dominguez and Pino Caballero-Gil, editors, I Simposio sobre Seguridad Informatica (SSI’2005), pages 11–18. Thomson, 2005.
+.. [Alvarez-CuberoZ05] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2005. `Aplicaciones de la transformada de walsh al criptoanalisis lineal y diferencial <http://cedi2005.ugr.es/2005/programa_s19_si.shtml>`_. In Alberto Peinado Dominguez and Pino Caballero-Gil, editors, I Simposio sobre Seguridad Informatica (SSIâ€™2005), pages 11â€“18. Thomson, 2005.
 
-.. [AlvarezS:05] ALVAREZ-CUBERO, J. A. 2005. `Cuadro de mando en la seguridad de las tecnologías de la información <http://revistasic.com/revista64/entrada64.htm>`_. In Revista Seguridad en Informática y Comunicaciones (SIC), Volume 64, pages 66-68.
+.. [AlvarezS:05] ALVAREZ-CUBERO, J. A. 2005. `Cuadro de mando en la seguridad de las tecnologiÌas de la informacioÌn <http://revistasic.com/revista64/entrada64.htm>`_. In Revista Seguridad en InformÃ¡tica y Comunicaciones (SIC), Volume 64, pages 66-68.
 
-.. [AlvarezB:03] ALVAREZ-CUBERO, J. A. AND CARRERA, C. 2003. `El análisis forense informático <https://www.astic.es/sites/default/files/boletic_completos/boletic_27_2003_octubre.pdf>`_. In BoleTIC, Volume 27, page 95.
+.. [AlvarezB:03] ALVAREZ-CUBERO, J. A. AND CARRERA, C. 2003. `El anaÌlisis forense informaÌtico <https://www.astic.es/sites/default/files/boletic_completos/boletic_27_2003_octubre.pdf>`_. In BoleTIC, Volume 27, page 95.
 
-.. [AlvarezS:03] ALVAREZ-CUBERO, J. A. AND CARRERA, C. 2003. `Telindus computer forensics lab: Servicio de análisis forense informático <http://revistasic.com/revista55/propuestas_55.htm>`_. In Revista Seguridad en Informática y Comunicaciones (SIC), Volume 55, page 88.
+.. [AlvarezS:03] ALVAREZ-CUBERO, J. A. AND CARRERA, C. 2003. `Telindus computer forensics lab: Servicio de anaÌlisis forense informaÌtico <http://revistasic.com/revista55/propuestas_55.htm>`_. In Revista Seguridad en InformÃ¡tica y Comunicaciones (SIC), Volume 55, page 88.
 
-.. [AlvarezC:02] ALVAREZ-CUBERO, J. A. 2002. `VPN para la seguridad de las redes inalámbricas <https://www.interempresas.net/FlipBooks/CH/>`_. In Comunicaciones Hoy, Volume 13, pages 28-29.
+.. [AlvarezC:02] ALVAREZ-CUBERO, J. A. 2002. `VPN para la seguridad de las redes inalaÌmbricas <https://www.interempresas.net/FlipBooks/CH/>`_. In Comunicaciones Hoy, Volume 13, pages 28-29.
 
 .. [Alvarez:02] ALVAREZ-CUBERO, J. A. Seguridad perimetral de NetScreen. In BoleTIC, Volume 23, pages 55-58.
 
@@ -360,7 +394,7 @@ Puzzles
 Training provided
 *****************
 
-2008: Escuela de Administraci�n p�blica de Extremadura
+2008: Escuela de Administración pública de Extremadura
 ======================================================
 
 .. image:: /images/extremadura.jpg
@@ -368,7 +402,7 @@ Training provided
    :align: left
 
 December, 2008
-*Course Title:* Jornada Divulgativa sobre la red cient��fico-tecnol�gica de Extremadura
+*Course Title:* Jornada Divulgativa sobre la red cientí­fico-tecnológica de Extremadura
 
 |
 |
@@ -386,7 +420,7 @@ December, 2008
    :align: left
 
 3-4 November, 2005
-*Course Title:* Configuraci�n e implantaci�n de arquitecturas de red seguras
+*Course Title:* Configuración e implantación de arquitecturas de red seguras
 
 |
 |
@@ -400,7 +434,7 @@ December, 2008
 Public speaches
 ***************
 
-`Algunas claves de la transformaci�n digital <https://aslan.es/algunas-claves-de-la-transformacion-digital/>`_
+`Algunas claves de la transformación digital <https://aslan.es/algunas-claves-de-la-transformacion-digital/>`_
 
 `Simplifica tu data center: agilidad y eficiencia en el nuevo entorno de mercado en IDG <https://www.idgtv.es/webinars/simplifica-tu-data-center-agilidad-y-eficiencia-en-el-nuevo-entorno-de-mercado>`_
 
