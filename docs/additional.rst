@@ -4,9 +4,9 @@ ADDITIONAL INFORMATION
 
 `<http://orcid.org/0000-0001-8352-3111>`_
 
-************
-Publications
-************
+***********
+IGCSE Books
+***********
 
 .. image:: /images/maths_m23.jpg
    :width: 200px
@@ -42,6 +42,10 @@ Publications
 |
 |
 
+*************
+English Books
+*************
+
 .. image:: /images/eoi22.jpg
    :width: 200px
    :align: left
@@ -75,6 +79,10 @@ Publications
 |
 |
 |
+
+***********
+Maths Books
+***********
 
 .. image:: /images/opo22.jpg
    :width: 200px
@@ -132,7 +140,7 @@ Publications
    :align: left
 
 
-.. [Oposiciones:2019] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2019: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B08DD4CJ8W>`_. Independently published. ISBN-13=979-8663900645.
+.. [Oposiciones:2019] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2019: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08DD4CJ8W>`_. Independently published. ISBN-13=979-8663900645.
 
 |
 |
@@ -149,7 +157,7 @@ Publications
    :align: left
 
 
-.. [Oposiciones:2018] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2018: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B089G7M7S4>`_. Independently published. ISBN-13=979-8649749961.
+.. [Oposiciones:2018] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2018: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089G7M7S4>`_. Independently published. ISBN-13=979-8649749961.
 
 |
 |
@@ -166,7 +174,7 @@ Publications
    :align: left
 
 
-.. [Oposiciones:2017] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2017: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B089XCTVRF>`_. Independently published. ISBN-13=979-8652005498.
+.. [Oposiciones:2017] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2017: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B089XCTVRF>`_. Independently published. ISBN-13=979-8652005498.
 
 |
 |
@@ -182,7 +190,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [AlvarezCubero:2016] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2016: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B08T8L51JV>`_. Independently published. ISBN-13=979-8596312386.
+.. [AlvarezCubero:2016] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2016: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08T8L51JV>`_. Independently published. ISBN-13=979-8596312386.
 
 |
 |
@@ -198,7 +206,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [Oposiciones:2015] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2015: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B08W362RFD>`_. Independently published. ISBN-13=979-8705485437.
+.. [Oposiciones:2015] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2015: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B08W362RFD>`_. Independently published. ISBN-13=979-8705485437.
 
 |
 |
@@ -214,7 +222,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [Oposiciones:2014] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2014: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B093FNWQPC>`_. Independently published. ISBN-13=979-8732020540.
+.. [Oposiciones:2014] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2014: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B093FNWQPC>`_. Independently published. ISBN-13=979-8732020540.
 
 |
 |
@@ -230,7 +238,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [Oposiciones:2012] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2012: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B093MG2HC3>`_. Independently published. ISBN-13=979-8745227769.
+.. [Oposiciones:2012] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2012: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B093MG2HC3>`_. Independently published. ISBN-13=979-8745227769.
 
 |
 |
@@ -246,7 +254,7 @@ Publications
    :width: 200px
    :align: left
 
-.. [Oposiciones:2010] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de MatemÃ¡ticas aÃ±o 2010: Cuerpo de Profesores de EnseÃ±anza Secundaria <https://www.amazon.es/dp/B0971VLZ29>`_. Independently published. ISBN-13=979-8518534742.
+.. [Oposiciones:2010] Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas año 2010: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0971VLZ29>`_. Independently published. ISBN-13=979-8518534742.
 
 |
 |
@@ -274,7 +282,15 @@ Publications
 |
 |
 
+****************
+Technology Books
+****************
+
 .. [AlvarezCubero:2018] Alvarez Cubero, Jose Antonio. 2018. `Certified OpenStack Administrator (COA) Certification Guide: Newton Release <https://www.amazon.com/Certified-OpenStack-Administrator-Certification-Guide/dp/1980391289?SubscriptionId=0JYN1NVW651KCA56C102&tag=techkie-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1980391289>`_. Independently published. ISBN=1980391289.
+
+********
+Research
+********
 
 .. [AlvarezCubero:2017] Pedro J. Zufiria and ALVAREZ-CUBERO, J. A. 2017. `Generalized Lexicographic MultiObjective Combinatorial Optimization. Application to Cryptography <https://doi.org/10.1137/16M1107826>`_. SIAM Journal on Optimization, Volume 27 Number 4, October 2017, Pages 2182-2201
 
@@ -286,11 +302,11 @@ Publications
 
 .. [Alvarez-CuberoZ05] ALVAREZ-CUBERO, J. A. AND ZUFIRIA, P. J. 2005. `Aplicaciones de la transformada de walsh al criptoanalisis lineal y diferencial <http://cedi2005.ugr.es/2005/programa_s19_si.shtml>`_. In Alberto Peinado Dominguez and Pino Caballero-Gil, editors, I Simposio sobre Seguridad Informatica (SSIâ€™2005), pages 11â€“18. Thomson, 2005.
 
-.. [AlvarezS:05] ALVAREZ-CUBERO, J. A. 2005. `Cuadro de mando en la seguridad de las tecnologiÌas de la informacioÌn <http://revistasic.com/revista64/entrada64.htm>`_. In Revista Seguridad en InformÃ¡tica y Comunicaciones (SIC), Volume 64, pages 66-68.
+.. [AlvarezS:05] ALVAREZ-CUBERO, J. A. 2005. `Cuadro de mando en la seguridad de las tecnologiÌas de la informacioÌn <http://revistasic.com/revista64/entrada64.htm>`_. In Revista Seguridad en Informática y Comunicaciones (SIC), Volume 64, pages 66-68.
 
 .. [AlvarezB:03] ALVAREZ-CUBERO, J. A. AND CARRERA, C. 2003. `El anaÌlisis forense informaÌtico <https://www.astic.es/sites/default/files/boletic_completos/boletic_27_2003_octubre.pdf>`_. In BoleTIC, Volume 27, page 95.
 
-.. [AlvarezS:03] ALVAREZ-CUBERO, J. A. AND CARRERA, C. 2003. `Telindus computer forensics lab: Servicio de anaÌlisis forense informaÌtico <http://revistasic.com/revista55/propuestas_55.htm>`_. In Revista Seguridad en InformÃ¡tica y Comunicaciones (SIC), Volume 55, page 88.
+.. [AlvarezS:03] ALVAREZ-CUBERO, J. A. AND CARRERA, C. 2003. `Telindus computer forensics lab: Servicio de anaÌlisis forense informaÌtico <http://revistasic.com/revista55/propuestas_55.htm>`_. In Revista Seguridad en Informática y Comunicaciones (SIC), Volume 55, page 88.
 
 .. [AlvarezC:02] ALVAREZ-CUBERO, J. A. 2002. `VPN para la seguridad de las redes inalaÌmbricas <https://www.interempresas.net/FlipBooks/CH/>`_. In Comunicaciones Hoy, Volume 13, pages 28-29.
 
