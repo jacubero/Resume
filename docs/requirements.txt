@@ -1,4 +1,0 @@
-# File: docs/requirements.txt
-
-# Defining the exact version will make sure things don't break
-docutils<0.18
