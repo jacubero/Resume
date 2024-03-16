@@ -44,14 +44,7 @@ multiproject_projects = {
             "project": "My Resume",
             "html_title": "My Resume",
         },
-    },
-    "dev": {
-        "use_config_file": False,
-        "config": {
-            "project": "My Resume",
-            "html_title": "My Resume",
-        },
-    },
+    }
 }
 
 docset = get_project(multiproject_projects)
