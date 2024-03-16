@@ -8,6 +8,40 @@ ADDITIONAL INFORMATION
 IGCSE Books
 ***********
 
+.. image:: /images/eco_23.jpg
+   :width: 200px
+   :align: left
+
+
+.. [AlvarezCubero:2024] Alvarez Cubero, Jose Antonio. `Solved Papers for 2023 Cambridge IGCSE Economics (0455) <https://www.amazon.com/dp/B0CVW5JYZ3>`_. Published by Amazon. ISBN-13=979-8880005413.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/maths_s23.jpg
+   :width: 200px
+   :align: left
+
+
+.. [AlvarezCubero:2024] Alvarez Cubero, Jose Antonio. `Solved Papers for June 2023 Cambridge IGCSE Mathematics (0580) <https://www.amazon.com/dp/B0CRLMH6FS>`_. Published by Amazon. ISBN-13=979-8874092245.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
 .. image:: /images/maths_m23.jpg
    :width: 200px
    :align: left

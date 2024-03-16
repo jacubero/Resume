@@ -6,6 +6,63 @@ TRAINING
 Business
 ********
 
+2024: 2-Day Design Thinking Fundamentals Training Course (Certificate)
+======================================================================
+
+*Dates:* January 15,16 2024
+
+**designthinkersacademy, Amsterdam (the Netherlands)**
+
+Welcome & Kick-off
+
+* Meet the team
+
+* Energizers
+
+* Introducing DT
+
+* Keynote & Cases
+
+Discover
+
+* Briefing & Research
+
+* Design Research
+
+* Stakeholder Map
+
+* Personas
+
+Define
+
+* Framing the problem
+
+* Opportunity Areas
+
+* Customer Journey Map
+
+* Problem Statement
+
+Design
+
+* Ideation & Prototyping
+
+* Idea Priority Map
+
+* Service Scenarios
+
+* Artefacts
+
+Deliver
+
+* Testing & Pitching
+
+* Testing the pilot
+
+* Pitch
+
+* Reflection & Celebration
+
 2021: Sales as advisory and influence
 =====================================
 
@@ -2507,6 +2564,27 @@ November 13, 2005 - November 16, 2005
 ***********
 Mathematics
 ***********
+
+2023: Discrete Optimization
+===========================
+
+Grade Achieved: 100.0% `Discrete Optimization Certificate <https://github.com/jacubero/Resume/blob/master/Certificates/DiscreteOptimization.pdf>`_
+
+*Dates:* November 1, 2023 - December 27, 2023
+
+**The University of Melbourne at Coursera**
+
+* Knapsack
+
+* Constraint Programming
+
+* Local Search
+
+* Linear programming
+
+* Mixed Integer Programming
+
+* Advanced Topics
 
 2014: LAFF: Linear Algebra - Foundations to Frontiers
 =====================================================
