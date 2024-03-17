@@ -23,7 +23,6 @@ Contents:
    Certifications <certifications>
    Personal skills <skills>
    Publications and awards <additional>
-..   BLOG <blog>
 
    *
 
