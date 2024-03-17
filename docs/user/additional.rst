@@ -5,116 +5,6 @@ ADDITIONAL INFORMATION
 `<http://orcid.org/0000-0001-8352-3111>`_
 
 ***********
-IGCSE Books
-***********
-
-.. image:: /images/eco_23.jpg
-   :width: 200px
-   :align: left
-
-
-Alvarez Cubero, Jose Antonio. `Solved Papers for 2023 Cambridge IGCSE Economics (0455) <https://www.amazon.com/dp/B0CVW5JYZ3>`_. Published by Amazon. ISBN-13=979-8880005413.
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-.. image:: /images/maths_s23.jpg
-   :width: 200px
-   :align: left
-
-
-Alvarez Cubero, Jose Antonio. `Solved Papers for June 2023 Cambridge IGCSE Mathematics (0580) <https://www.amazon.com/dp/B0CRLMH6FS>`_. Published by Amazon. ISBN-13=979-8874092245.
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-.. image:: /images/maths_m23.jpg
-   :width: 200px
-   :align: left
-
-
-Alvarez Cubero, Jose Antonio. `Solved Papers for March 2023 Cambridge IGCSE Mathematics (0580) <https://www.amazon.co.uk/dp/B0CHN59CQB>`_. Published by Amazon. ISBN-13=979-8860240810.
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-.. image:: /images/science_m23.jpg
-   :width: 200px
-   :align: left
-
-
-Alvarez Cubero, Jose Antonio. `Solved Papers for March 2023 Cambridge IGCSE Co-ordinated Sciences (0654) <https://www.amazon.co.uk/dp/B0CFV3L195>`_. Published by Amazon. ISBN-13=979-8857693162.
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-*************
-English Books
-*************
-
-.. image:: /images/eoi22.jpg
-   :width: 200px
-   :align: left
-
-
-Alvarez Cubero, Jose Antonio. `Oposiciones de Inglés año 2022: Cuerpo de Profesores de Escuelas Oficiales de Idiomas <https://www.amazon.es/dp/B0C5P9TWCL>`_. Publicado en Amazon. ISBN-13=979-8395437990.
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-.. image:: /images/opoi22.jpg
-   :width: 200px
-   :align: left
-
-
-Alvarez Cubero, Jose Antonio. `Oposiciones de Inglés año 2022: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0C211W8Y8>`_. Publicado en Amazon. ISBN-13=979-8389705326.
-
-|
-|
-|
-|
-|
-|
-|
-|
-|
-
-***********
 Maths Books
 ***********
 
@@ -305,6 +195,133 @@ Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemática
    :align: left
 
 Alvarez Cubero, Jose Antonio. `Problemas resueltos de Oposiciones de Matemáticas años 1969,1971 y 1973: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0BHL87KSR>`_. Independently published ISBN-13=979-8356661297.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+***********
+IGCSE Books
+***********
+
+.. image:: /images/eco_23.jpg
+   :width: 200px
+   :align: left
+
+
+Alvarez Cubero, Jose Antonio. `Solved Papers for 2023 Cambridge IGCSE Economics (0455) <https://www.amazon.com/dp/B0CVW5JYZ3>`_. Published by Amazon. ISBN-13=979-8880005413.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/maths_s23.jpg
+   :width: 200px
+   :align: left
+
+
+Alvarez Cubero, Jose Antonio. `Solved Papers for June 2023 Cambridge IGCSE Mathematics (0580) <https://www.amazon.com/dp/B0CRLMH6FS>`_. Published by Amazon. ISBN-13=979-8874092245.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/maths_m23.jpg
+   :width: 200px
+   :align: left
+
+
+Alvarez Cubero, Jose Antonio. `Solved Papers for March 2023 Cambridge IGCSE Mathematics (0580) <https://www.amazon.co.uk/dp/B0CHN59CQB>`_. Published by Amazon. ISBN-13=979-8860240810.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/science_m23.jpg
+   :width: 200px
+   :align: left
+
+
+Alvarez Cubero, Jose Antonio. `Solved Papers for March 2023 Cambridge IGCSE Co-ordinated Sciences (0654) <https://www.amazon.co.uk/dp/B0CFV3L195>`_. Published by Amazon. ISBN-13=979-8857693162.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+*************
+English Books
+*************
+
+.. image:: /images/eoi22.jpg
+   :width: 200px
+   :align: left
+
+
+Alvarez Cubero, Jose Antonio. `Oposiciones de Inglés año 2022: Cuerpo de Profesores de Escuelas Oficiales de Idiomas <https://www.amazon.es/dp/B0C5P9TWCL>`_. Publicado en Amazon. ISBN-13=979-8395437990.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/opoi22.jpg
+   :width: 200px
+   :align: left
+
+
+Alvarez Cubero, Jose Antonio. `Oposiciones de Inglés año 2022: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.es/dp/B0C211W8Y8>`_. Publicado en Amazon. ISBN-13=979-8389705326.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+.. image:: /images/opoi21.jpg
+   :width: 200px
+   :align: left
+
+
+Alvarez Cubero, Jose Antonio. `Oposiciones de Inglés año 2021: Cuerpo de Profesores de Enseñanza Secundaria <https://www.amazon.com/dp/B0CXMHVSVW>`_. Publicado en Amazon. ISBN-13=979-8884240674.
 
 |
 |
